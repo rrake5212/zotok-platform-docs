@@ -5,12 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/postbuild.js",
     "preview": "vite preview",
     "serve": "vite preview"
   },
   "dependencies": {
     "@markdoc/markdoc": "^0.5.7",
+    "@playwright/test": "^1.61.1",
     "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.2",
     "fuse.js": "^7.4.2",
