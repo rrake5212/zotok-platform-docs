@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#2563eb"/>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle">ZT</text>
+  <text x="100" y="155" font-family="Arial, sans-serif" font-size="16" fill="#93c5fd" text-anchor="middle">Platform</text>
+</svg>
