@@ -1,0 +1,921 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/catalog/products",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Products",
+  "timestamp": "2026-07-10T18:05:59.886287",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Product Title",
+        "Scheme",
+        "Tax Category",
+        "Price",
+        "Price with Margin",
+        "Pack Size",
+        "Status",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Product Title",
+          "Scheme",
+          "Tax Category",
+          "Price",
+          "Price with Margin",
+          "Pack Size",
+          "Status",
+          "Actions"
+        ],
+        [
+          "SKU: 2001054 - Preview"
+        ],
+        [
+          "NB 210X170 HARD UR 188SKU: 2001054NotebookGraph Book+ 16",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001231 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 25SKU: 2001231\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b925",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2250046 - Preview"
+        ],
+        [
+          "NB 250X176 SOFT SL 160SKU: 2250046\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b9144",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2331001 - Preview"
+        ],
+        [
+          "DB 210X297 SOFT UR 40SKU: 2331001\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 40 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001067 - Preview"
+        ],
+        [
+          "NB 255X205 SOFT SL 176SKU: 2001067\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b952",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001232 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 50SKU: 2001232\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b945",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000948 - Preview"
+        ],
+        [
+          "NB 190X155 SOFT SLIL 176SKU: 2000948\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 P",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 02001032PPLB - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SLIL 92SKU: 02001032PPLB\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b915",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2100141 - Preview"
+        ],
+        [
+          "IC 6 SUB 240X180 SOFT SL 300SKU: 2100141\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b9140",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2105007 - Preview"
+        ],
+        [
+          "CP 267 X 203 Soft Spiral Single Line 160SKU: 2105007\u2022size: Crown \u2022 ruling: Singl",
+          "N.A",
+          "GST-0",
+          "\u20b9328",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001222 - Preview"
+        ],
+        [
+          "PP 280X220  SLIL 50SKU: 2001222\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001097 - Preview"
+        ],
+        [
+          "NB 240X180 HARD SL 144SKU: 2001097\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b938",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 02000980NRLB - Preview"
+        ],
+        [
+          "'97x210 Soft BPCS SL 116SKU: 02000980NRLB\u2022size: Crown \u2022 ruling: Single Line Rule",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000943 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT UR 184SKU: 2000943\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 172 \u2022 Sku",
+          "N.A",
+          "GST-0",
+          "\u20b962",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2671281 - Preview"
+        ],
+        [
+          "LONG BOOK 297 X 210 SOFT BPCS 48 SLSKU: 2671281\u2022size: Crown \u2022 ruling: Single Lin",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001151 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT UR 44SKU: 2001151\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 24 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b910",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000955 - Preview"
+        ],
+        [
+          "NB 190X155 HARD SL 240SKU: 2000955\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b958",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001235 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SL 200SKU: 2001235\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b960",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2331507 - Preview"
+        ],
+        [
+          "6 SUB 297 X 210 SOFT/HARD SPRL SLSKU: 2331507\u2022size: Crown \u2022 ruling: Single Line ",
+          "N.A",
+          "GST-0",
+          "\u20b9195",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000987 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT SL 80SKU: 2000987\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Page",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Product Title",
+        "Scheme",
+        "Tax Category",
+        "Price",
+        "Price with Margin",
+        "Pack Size",
+        "Status",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Product Title",
+          "Scheme",
+          "Tax Category",
+          "Price",
+          "Price with Margin",
+          "Pack Size",
+          "Status",
+          "Actions"
+        ],
+        [
+          "SKU: 2001054 - Preview"
+        ],
+        [
+          "NB 210X170 HARD UR 188SKU: 2001054NotebookGraph Book+ 16",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001231 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 25SKU: 2001231\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b925",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2250046 - Preview"
+        ],
+        [
+          "NB 250X176 SOFT SL 160SKU: 2250046\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b9144",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2331001 - Preview"
+        ],
+        [
+          "DB 210X297 SOFT UR 40SKU: 2331001\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 40 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001067 - Preview"
+        ],
+        [
+          "NB 255X205 SOFT SL 176SKU: 2001067\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b952",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001232 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 50SKU: 2001232\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b945",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000948 - Preview"
+        ],
+        [
+          "NB 190X155 SOFT SLIL 176SKU: 2000948\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 P",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 02001032PPLB - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SLIL 92SKU: 02001032PPLB\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b915",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2100141 - Preview"
+        ],
+        [
+          "IC 6 SUB 240X180 SOFT SL 300SKU: 2100141\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b9140",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2105007 - Preview"
+        ],
+        [
+          "CP 267 X 203 Soft Spiral Single Line 160SKU: 2105007\u2022size: Crown \u2022 ruling: Singl",
+          "N.A",
+          "GST-0",
+          "\u20b9328",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001222 - Preview"
+        ],
+        [
+          "PP 280X220  SLIL 50SKU: 2001222\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001097 - Preview"
+        ],
+        [
+          "NB 240X180 HARD SL 144SKU: 2001097\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b938",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 02000980NRLB - Preview"
+        ],
+        [
+          "'97x210 Soft BPCS SL 116SKU: 02000980NRLB\u2022size: Crown \u2022 ruling: Single Line Rule",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000943 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT UR 184SKU: 2000943\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 172 \u2022 Sku",
+          "N.A",
+          "GST-0",
+          "\u20b962",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2671281 - Preview"
+        ],
+        [
+          "LONG BOOK 297 X 210 SOFT BPCS 48 SLSKU: 2671281\u2022size: Crown \u2022 ruling: Single Lin",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001151 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT UR 44SKU: 2001151\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 24 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b910",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000955 - Preview"
+        ],
+        [
+          "NB 190X155 HARD SL 240SKU: 2000955\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b958",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2001235 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SL 200SKU: 2001235\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b960",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2331507 - Preview"
+        ],
+        [
+          "6 SUB 297 X 210 SOFT/HARD SPRL SLSKU: 2331507\u2022size: Crown \u2022 ruling: Single Line ",
+          "N.A",
+          "GST-0",
+          "\u20b9195",
+          "-",
+          "1",
+          "Enabled"
+        ],
+        [
+          "SKU: 2000987 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT SL 80SKU: 2000987\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Page",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001054 - Preview"
+        ],
+        [
+          "NB 210X170 HARD UR 188SKU: 2001054NotebookGraph Book+ 16",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001231 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 25SKU: 2001231\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b925",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2250046 - Preview"
+        ],
+        [
+          "NB 250X176 SOFT SL 160SKU: 2250046\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b9144",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2331001 - Preview"
+        ],
+        [
+          "DB 210X297 SOFT UR 40SKU: 2331001\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 40 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001067 - Preview"
+        ],
+        [
+          "NB 255X205 SOFT SL 176SKU: 2001067\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b952",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001232 - Preview"
+        ],
+        [
+          "PP 210X170  SLIL 50SKU: 2001232\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b945",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2000948 - Preview"
+        ],
+        [
+          "NB 190X155 SOFT SLIL 176SKU: 2000948\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 P",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 02001032PPLB - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SLIL 92SKU: 02001032PPLB\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b915",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2100141 - Preview"
+        ],
+        [
+          "IC 6 SUB 240X180 SOFT SL 300SKU: 2100141\u2022size: Crown \u2022 ruling: Single Line Ruled",
+          "N.A",
+          "GST-0",
+          "\u20b9140",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2105007 - Preview"
+        ],
+        [
+          "CP 267 X 203 Soft Spiral Single Line 160SKU: 2105007\u2022size: Crown \u2022 ruling: Singl",
+          "N.A",
+          "GST-0",
+          "\u20b9328",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001222 - Preview"
+        ],
+        [
+          "PP 280X220  SLIL 50SKU: 2001222\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pages:",
+          "N.A",
+          "GST-0",
+          "\u20b950",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001097 - Preview"
+        ],
+        [
+          "NB 240X180 HARD SL 144SKU: 2001097\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b938",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 02000980NRLB - Preview"
+        ],
+        [
+          "'97x210 Soft BPCS SL 116SKU: 02000980NRLB\u2022size: Crown \u2022 ruling: Single Line Rule",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2000943 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT UR 184SKU: 2000943\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 172 \u2022 Sku",
+          "N.A",
+          "GST-0",
+          "\u20b962",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2671281 - Preview"
+        ],
+        [
+          "LONG BOOK 297 X 210 SOFT BPCS 48 SLSKU: 2671281\u2022size: Crown \u2022 ruling: Single Lin",
+          "N.A",
+          "GST-0",
+          "\u20b930",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001151 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT UR 44SKU: 2001151\u2022size: A4 \u2022 ruling: Unruled \u2022 Pages: 24 \u2022 Skuse",
+          "N.A",
+          "GST-0",
+          "\u20b910",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2000955 - Preview"
+        ],
+        [
+          "NB 190X155 HARD SL 240SKU: 2000955\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b958",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2001235 - Preview"
+        ],
+        [
+          "NB 240X180 SOFT SL 200SKU: 2001235\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Pag",
+          "N.A",
+          "GST-0",
+          "\u20b960",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2331507 - Preview"
+        ],
+        [
+          "6 SUB 297 X 210 SOFT/HARD SPRL SLSKU: 2331507\u2022size: Crown \u2022 ruling: Single Line ",
+          "N.A",
+          "GST-0",
+          "\u20b9195",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    },
+    {
+      "headers": [],
+      "rows": [
+        [
+          "SKU: 2000987 - Preview"
+        ],
+        [
+          "LB 314X194 SOFT SL 80SKU: 2000987\u2022size: Crown \u2022 ruling: Single Line Ruled \u2022 Page",
+          "N.A",
+          "GST-0",
+          "\u20b934",
+          "-",
+          "1",
+          "Enabled"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Products",
+    "Categories",
+    "Add Product"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "SKU: 2001054",
+    "SKU: 2001231",
+    "SKU: 2250046",
+    "SKU: 2331001",
+    "SKU: 2001067",
+    "SKU: 2001232",
+    "SKU: 2000948",
+    "SKU: 02001032PPLB",
+    "SKU: 2100141",
+    "SKU: 2105007",
+    "SKU: 2001222",
+    "SKU: 2001097",
+    "SKU: 02000980NRLB",
+    "SKU: 2000943",
+    "SKU: 2671281",
+    "SKU: 2001151",
+    "SKU: 2000955",
+    "SKU: 2001235",
+    "SKU: 2331507",
+    "SKU: 2000987"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_products.png"
+}

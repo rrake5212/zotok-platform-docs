@@ -1,0 +1,43 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/home?tab=day-book",
+  "title": "Z\u00f6Tok",
+  "module": "Dashboard",
+  "sub_module": "Day Book",
+  "timestamp": "2026-07-10T18:05:16.623779",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [
+    "Go to Orders Page",
+    "Go to Invoices Page",
+    "Go to Payments Page"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "No Orders FoundNo customer orders recorded for the selected period. Order trends, volume, and buyer activity will appear here once available",
+    "No Orders Found",
+    "No customer orders recorded for the selected period. Order trends, volume, and buyer activity will appear here once available",
+    "No Invoices FoundNo invoices generated for this period. Billing activity, status, and invoice amounts will be visible here once records exist.",
+    "No Invoices Found",
+    "No invoices generated for this period. Billing activity, status, and invoice amounts will be visible here once records exist.",
+    "No Payments FoundNo payment transactions found for this period. You\u2019ll be able to track collections, modes of payment, and payment status here",
+    "No Payments Found",
+    "No payment transactions found for this period. You\u2019ll be able to track collections, modes of payment, and payment status here"
+  ],
+  "empty_states": [
+    "No Orders FoundNo customer orders recorded for the selected period. Order trends, volume, and buyer activity will appear here once available",
+    "No Orders FoundNo customer orders recorded for the selected period. Order trends, volume, and buyer activity will appear here once available",
+    "No Orders Found",
+    "No customer orders recorded for the selected period. Order trends, volume, and buyer activity will appear here once available",
+    "No Invoices FoundNo invoices generated for this period. Billing activity, status, and invoice amounts will be visible here once records exist.",
+    "No Invoices FoundNo invoices generated for this period. Billing activity, status, and invoice amounts will be visible here once records exist.",
+    "No Invoices Found",
+    "No invoices generated for this period. Billing activity, status, and invoice amounts will be visible here once records exist.",
+    "No Payments FoundNo payment transactions found for this period. You\u2019ll be able to track collections, modes of payment, and payment status here",
+    "No Payments FoundNo payment transactions found for this period. You\u2019ll be able to track collections, modes of payment, and payment status here",
+    "No Payments Found",
+    "No payment transactions found for this period. You\u2019ll be able to track collections, modes of payment, and payment status here"
+  ],
+  "select_options": [],
+  "screenshot": "capture/screenshots/dashboard_day_book.png"
+}

@@ -1,33 +1,76 @@
 ---
-sidebar_position: 2
+sidebar_position: 9
+title: "Orders"
 ---
 
-# Orders Module
+# Orders
 
 ## Overview
 
-The Orders module manages sales orders placed by customers. It is accessible from the main navigation sidebar.
+This page provides access to orders functionality within the ZöTok platform.
 
-:::info
-This module is visible in the platform sidebar. A dedicated walkthrough video is not yet available. This page will be updated with detailed screenshots and step-by-step instructions when the walkthrough is processed.
-:::
+### Key Metrics
 
-## Accessing Orders
+| Metric | Value |
+|--------|-------|
+| OrdersTotal Order Value₹20.55KTotal Amount Saved₹0Total Orders57Total Invoiced Value₹27.77Total Invoiced Qty0 | |
+| Total Order Value₹20.55KTotal Amount Saved₹0Total Orders57Total Invoiced Value₹27.77Total Invoiced Qty0 | |
+| Total Order Value₹20.55K | |
+| Total Amount Saved₹0 | |
+| Total Orders57 | |
+| Total Invoiced Value₹27.77 | |
+| Total Invoiced Qty0 | |
 
-Click **Orders** (📋 icon) in the left navigation sidebar.
+### Data Table
 
-## Expected Features
+| Order No. | Order Date | Status | SKU Count | Customer Name | Net Order Value | Order Saving | Tags |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| HDAX58379-4935 | 10/07/2026 12:07:59 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹25 | ₹0 | Add Tag |
+| HDAX58379-4934 | 10/07/2026 12:07:58 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹174 | ₹0 | Add Tag |
+| HDAX58379-4933 | 10/07/2026 10:57:20 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹351 | ₹0 | Add Tag |
+| HDAX58379-4932 | 10/07/2026 10:50:04 | Submitted | 1 | GOGowthamGowtham | ₹20 | ₹0 | Add Tag |
+| HDAX58379-4931 | 10/07/2026 10:06:30 | Accepted | 1 | GOGowthamGowtham | ₹50 | ₹0 | Add Tag |
+| HDAX58379-4930 | 10/07/2026 07:45:38 | Submitted | 1 | GOGowthamGowtham | ₹144 | ₹0 | Add Tag |
+| HDAX58379-4929 | 10/07/2026 07:44:27 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹290 | ₹0 | Add Tag |
+| HDAX58379-4928 | 10/07/2026 07:32:56 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
+| HDAX58379-4927 | 10/07/2026 07:18:47 | Accepted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹30 | ₹0 | Add Tag |
+| HDAX58379-4926 | 10/07/2026 07:18:45 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
+| HDAX58379-4925 | 10/07/2026 07:06:32 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹55 | ₹0 | Add Tag |
+| HDAX58379-4924 | 10/07/2026 05:39:32 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹62 | ₹0 | Add Tag |
+| HDAX58379-4923 | 10/07/2026 05:36:06 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
+| HDAX58379-4922 | 10/07/2026 05:36:05 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹389 | ₹0 | Add Tag |
+| HDAX58379-4921 | 10/07/2026 05:33:18 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
+| *25 more rows* |
 
-Based on the platform sidebar and related modules, the Orders module is expected to include:
+| Order No. | Order Date | Status | SKU Count | Customer Name | Net Order Value | Order Saving | Tags |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| HDAX58379-4935 | 10/07/2026 12:07:59 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹25 | ₹0 | Add Tag |
+| HDAX58379-4934 | 10/07/2026 12:07:58 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹174 | ₹0 | Add Tag |
+| HDAX58379-4933 | 10/07/2026 10:57:20 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹351 | ₹0 | Add Tag |
+| HDAX58379-4932 | 10/07/2026 10:50:04 | Submitted | 1 | GOGowthamGowtham | ₹20 | ₹0 | Add Tag |
+| HDAX58379-4931 | 10/07/2026 10:06:30 | Accepted | 1 | GOGowthamGowtham | ₹50 | ₹0 | Add Tag |
+| HDAX58379-4930 | 10/07/2026 07:45:38 | Submitted | 1 | GOGowthamGowtham | ₹144 | ₹0 | Add Tag |
+| HDAX58379-4929 | 10/07/2026 07:44:27 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹290 | ₹0 | Add Tag |
+| HDAX58379-4928 | 10/07/2026 07:32:56 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
+| HDAX58379-4927 | 10/07/2026 07:18:47 | Accepted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹30 | ₹0 | Add Tag |
+| HDAX58379-4926 | 10/07/2026 07:18:45 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
+| HDAX58379-4925 | 10/07/2026 07:06:32 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹55 | ₹0 | Add Tag |
+| HDAX58379-4924 | 10/07/2026 05:39:32 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹62 | ₹0 | Add Tag |
+| HDAX58379-4923 | 10/07/2026 05:36:06 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
+| HDAX58379-4922 | 10/07/2026 05:36:05 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹389 | ₹0 | Add Tag |
+| HDAX58379-4921 | 10/07/2026 05:33:18 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
+| *25 more rows* |
 
-- Order list with status tracking
-- Create new orders
-- Order details view
-- Order status updates (processing, shipped, delivered)
-- Order history and audit trail
+### Available Actions
 
-## Related Pages
+| Action | Description |
+|--------|-------------|
+| **All** | |
+| **Waiting For Approval (39)** | |
+| **Drafts** | |
+| **Imported** | |
+| **Create Order** | |
+| **Add Tag** | |
 
-- [Products Overview](../products/overview.md) — Manage products for orders
-- [Threads Overview](../threads/overview.md) — Orders can be created from thread conversations
-- [Queries Management](../queries/overview.md) — Configure order-related query types
+---
+*Route: `/admin/orders`*

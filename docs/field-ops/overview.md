@@ -1,33 +1,37 @@
 ---
-sidebar_position: 7
+sidebar_position: 13
+title: "Field Ops"
 ---
 
-# Field Ops Module
+# Field Ops
 
 ## Overview
 
-The Field Ops (Field Operations) module manages field team activities, including route planning, visit tracking, and field reporting. It is accessible from the main navigation sidebar.
+This page provides access to field ops functionality within the ZöTok platform.
 
-:::info
-This module is visible in the platform sidebar. A dedicated walkthrough video is not yet available. This page will be updated with detailed screenshots and step-by-step instructions when the walkthrough is processed.
-:::
+### Available Actions
 
-## Accessing Field Ops
+| Action | Description |
+|--------|-------------|
+| **Dashboard** | |
+| **Schedules** | |
+| **Plans** | |
+| **Routes** | |
+| **Sales Team** | |
+| **Create Plan** | |
 
-Click **Field Ops** (📍 icon) in the left navigation sidebar.
+### Form Fields
 
-## Expected Features
+| Field | Type | Required |
+|-------|------|----------|
+| Select Folder | text | No |
+| All Segments | text | No |
 
-Based on the platform sidebar, the Field Ops module is expected to include:
+### Empty State
 
-- Field team management
-- Route planning and optimization
-- Visit tracking and schedules
-- Geo-check-ins and location pings
-- Field reports and attendance
-- Distributor visit management
+> This is a sample visualization of your weekly sales trend.Start now to plan and optimize your sales team's strategy.Create Plan
+> This is a sample visualization of your weekly sales trend.Start now to plan and optimize your sales team's strategy.
+> This is a sample visualization of your monthly sales trend.Start now to plan and optimize your sales team's strategy.Create Plan
 
-## Related Pages
-
-- [Customers Overview](../customers/overview.md) — Customer visits tracked in Field Ops
-- [Threads Overview](../threads/overview.md) — Field queries and signal inbox
+---
+*Route: `/admin/field-ops/dashboard`*

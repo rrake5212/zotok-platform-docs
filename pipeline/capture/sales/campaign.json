@@ -1,0 +1,28 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/campaigns",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Campaign",
+  "timestamp": "2026-07-10T18:05:44.250044",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_campaign.png"
+}

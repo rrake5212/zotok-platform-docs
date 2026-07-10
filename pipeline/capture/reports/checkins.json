@@ -1,0 +1,296 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/sales-team-checkin-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Checkins",
+  "timestamp": "2026-07-10T18:07:13.527023",
+  "headings": [],
+  "kpis": [
+    "Total Check-ins3",
+    "3",
+    "Total orders2",
+    "2",
+    "Total Payments Collected0",
+    "0",
+    "Total Payment Collected value\u20b90",
+    "\u20b90"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Sales Person",
+        "Customer",
+        "Check In Date:",
+        "Check In Time:",
+        "Check In Status",
+        "No Of Orders",
+        "Total Payments Collected",
+        "Payment Collected Value",
+        "Payments collected by Cash",
+        "Payments Collected By UPI",
+        "Payments Collected by Cheque"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Sales Person",
+          "Customer",
+          "Check In Date:",
+          "Check In Time:",
+          "Check In Status",
+          "No Of Orders",
+          "Total Payments Collected",
+          "Payment Collected Value",
+          "Payments collected by Cash",
+          "Payments Collected By UPI",
+          "Payments Collected by Cheque"
+        ],
+        [
+          "1",
+          "Kalavathi",
+          "VAVaishnaviVaishnavi",
+          "8th Jul, 2026",
+          "04:56 PM",
+          "Invalid",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "2",
+          "Kalavathi",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "8th Jul, 2026",
+          "04:51 PM",
+          "New Location",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3",
+          "OPoptimusbumbleBee",
+          "7th Jul, 2026",
+          "12:09 PM",
+          "Valid",
+          "0",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3Total Customers",
+          "-",
+          "2Total Orders",
+          "0Total Payments Collected",
+          "\u20b90Total Payments Collected Value",
+          "\u20b90Total Payment collected by Cash",
+          "\u20b90Total Payment collected by UPI",
+          "\u20b90Total Payment collected by Cheque"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Sales Person",
+        "Customer",
+        "Check In Date:",
+        "Check In Time:",
+        "Check In Status",
+        "No Of Orders",
+        "Total Payments Collected",
+        "Payment Collected Value",
+        "Payments collected by Cash",
+        "Payments Collected By UPI",
+        "Payments Collected by Cheque"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Sales Person",
+          "Customer",
+          "Check In Date:",
+          "Check In Time:",
+          "Check In Status",
+          "No Of Orders",
+          "Total Payments Collected",
+          "Payment Collected Value",
+          "Payments collected by Cash",
+          "Payments Collected By UPI",
+          "Payments Collected by Cheque"
+        ],
+        [
+          "1",
+          "Kalavathi",
+          "VAVaishnaviVaishnavi",
+          "8th Jul, 2026",
+          "04:56 PM",
+          "Invalid",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "2",
+          "Kalavathi",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "8th Jul, 2026",
+          "04:51 PM",
+          "New Location",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3",
+          "OPoptimusbumbleBee",
+          "7th Jul, 2026",
+          "12:09 PM",
+          "Valid",
+          "0",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3Total Customers",
+          "-",
+          "2Total Orders",
+          "0Total Payments Collected",
+          "\u20b90Total Payments Collected Value",
+          "\u20b90Total Payment collected by Cash",
+          "\u20b90Total Payment collected by UPI",
+          "\u20b90Total Payment collected by Cheque"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Sales Person",
+        "Customer",
+        "Check In Date:",
+        "Check In Time:",
+        "Check In Status",
+        "No Of Orders",
+        "Total Payments Collected",
+        "Payment Collected Value",
+        "Payments collected by Cash",
+        "Payments Collected By UPI",
+        "Payments Collected by Cheque"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Sales Person",
+          "Customer",
+          "Check In Date:",
+          "Check In Time:",
+          "Check In Status",
+          "No Of Orders",
+          "Total Payments Collected",
+          "Payment Collected Value",
+          "Payments collected by Cash",
+          "Payments Collected By UPI",
+          "Payments Collected by Cheque"
+        ],
+        [
+          "1",
+          "Kalavathi",
+          "VAVaishnaviVaishnavi",
+          "8th Jul, 2026",
+          "04:56 PM",
+          "Invalid",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "2",
+          "Kalavathi",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "8th Jul, 2026",
+          "04:51 PM",
+          "New Location",
+          "1",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3",
+          "OPoptimusbumbleBee",
+          "7th Jul, 2026",
+          "12:09 PM",
+          "Valid",
+          "0",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "3Total Customers",
+          "-",
+          "2Total Orders",
+          "0Total Payments Collected",
+          "\u20b90Total Payments Collected Value",
+          "\u20b90Total Payment collected by Cash",
+          "\u20b90Total Payment collected by UPI",
+          "\u20b90Total Payment collected by Cheque"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Kalavathi",
+    "Kalavathi",
+    "2Total Orders"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_checkins.png"
+}

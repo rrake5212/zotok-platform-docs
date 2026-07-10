@@ -1,33 +1,72 @@
 ---
-sidebar_position: 4
+sidebar_position: 12
+title: "Ledger"
 ---
 
-# Ledger Module
+# Ledger
 
 ## Overview
 
-The Ledger module provides a comprehensive view of all financial transactions. It is accessible from the main navigation sidebar.
+This page provides access to ledger functionality within the ZöTok platform.
 
-:::info
-This module is visible in the platform sidebar. A dedicated walkthrough video is not yet available. This page will be updated with detailed screenshots and step-by-step instructions when the walkthrough is processed.
-:::
+### Data Table
 
-## Accessing Ledger
+| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
+| --- | --- | --- | --- | --- | --- |
+| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
+| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
+| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
+| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
+| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
+| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
+| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
+| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
+| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
+| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
+| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
+| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
+| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
+| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
+| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
+| *5 more rows* |
 
-Click **Ledger** (📒 icon) in the left navigation sidebar.
+| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
+| --- | --- | --- | --- | --- | --- |
+| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
+| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
+| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
+| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
+| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
+| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
+| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
+| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
+| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
+| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
+| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
+| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
+| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
+| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
+| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
+| *5 more rows* |
 
-## Expected Features
+| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
+| --- | --- | --- | --- | --- | --- |
+| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
+| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
+| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
+| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
+| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
+| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
+| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
+| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
+| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
+| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
+| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
+| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
+| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
+| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
+| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
+| *5 more rows* |
 
-Based on the platform sidebar and related modules, the Ledger module is expected to include:
-
-- Customer-wise ledger view
-- Transaction history
-- Debit and credit entries
-- Opening and closing balances
-- Date range filtering
-- Payment reconciliation
-
-## Related Pages
-
-- [Payments Overview](../payments/overview.md) — Payment tracking and reconciliation
-- [Invoices Overview](../invoices/overview.md) — Invoice details for ledger entries
+---
+*Route: `/admin/ledgers/customers`*

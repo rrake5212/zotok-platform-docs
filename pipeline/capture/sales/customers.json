@@ -1,0 +1,385 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/customers",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Customers",
+  "timestamp": "2026-07-10T18:05:54.339137",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Customer",
+        "Customer Code",
+        "Routes",
+        "Segments",
+        "Team Members",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Customer",
+          "Customer Code",
+          "Routes",
+          "Segments",
+          "Team Members",
+          "Actions"
+        ],
+        [
+          "NPNitin PadmawarNitin Padmawar\u2022+919393270202",
+          "bdeb7269-2594-4fb2-ab45-997f53728935bdeb7269-2594-4fb2-ab45-997f53728935",
+          "Nankramguda",
+          "rsvirla_dealer",
+          "Assign"
+        ],
+        [
+          "ARArunArun\u2022+917661987561",
+          "80884469-ced4-486e-9c62-815dfd76c0ed80884469-ced4-486e-9c62-815dfd76c0ed",
+          "Hyderabad",
+          "N.A",
+          "2"
+        ],
+        [
+          "SKSai KiranSai Kiran\u2022+919550112934",
+          "4c768447-a161-4975-bc6a-f116c263cfef4c768447-a161-4975-bc6a-f116c263cfef",
+          "N.A",
+          "N.A",
+          "9"
+        ],
+        [
+          "SSSha Singh Traders User Pvt Ltdsha Singh Traders User pvt Ltd\u2022+917051016552",
+          "748f856a-558e-4356-87f4-d5a4a82f23a5748f856a-558e-4356-87f4-d5a4a82f23a5",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "GIGirishGirish\u2022+919392970203",
+          "34dd4727-6d25-4794-8b03-b3c47cef67db34dd4727-6d25-4794-8b03-b3c47cef67db",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "ASAnshul ShrivastavAnshul Shrivastav\u2022+919766452899",
+          "df8d6e43-a7ae-40c7-9c73-94686165fe05df8d6e43-a7ae-40c7-9c73-94686165fe05",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "ZOZonotest001Zonotest001\u2022+917075852513",
+          "dfede685-10a8-4672-b1f6-a0ce6955777ddfede685-10a8-4672-b1f6-a0ce6955777d",
+          "N.A",
+          "N.A",
+          "3"
+        ],
+        [
+          "ZOZonotest001Zonotest001\u2022+917075852599",
+          "d10e8457-581e-4180-abca-d08c316b4905d10e8457-581e-4180-abca-d08c316b4905",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "91917075852555917075852555\u2022+917075852555",
+          "56743fa4-29aa-44cd-aeb7-774f2fc34ef056743fa4-29aa-44cd-aeb7-774f2fc34ef0",
+          "N.A",
+          "N.A",
+          "2"
+        ],
+        [
+          "91917075852577917075852577\u2022+917075852577",
+          "980e187a-5aec-4023-adc4-1b1d63f50e68980e187a-5aec-4023-adc4-1b1d63f50e68",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917075833577917075833577\u2022+917075833577",
+          "54ab6e3c-2661-4438-b076-96d4b1500b7454ab6e3c-2661-4438-b076-96d4b1500b74",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917077733577917077733577\u2022+917077733577",
+          "ab070c2e-21ee-4461-9ae4-a60adf56f8ddab070c2e-21ee-4461-9ae4-a60adf56f8dd",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117733577917117733577\u2022+917117733577",
+          "88d21a8a-ea5e-4e1f-a553-5081028b192988d21a8a-ea5e-4e1f-a553-5081028b1929",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117743577917117743577\u2022+917117743577",
+          "a397910a-d12e-4206-a429-f1d36815cf42a397910a-d12e-4206-a429-f1d36815cf42",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117742577917117742577\u2022+917117742577",
+          "28822394-2943-451a-a441-475c96bad1a028822394-2943-451a-a441-475c96bad1a0",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117642577917117642577\u2022+917117642577",
+          "e6773dcd-d77b-41b3-b068-88616f7a55a4e6773dcd-d77b-41b3-b068-88616f7a55a4",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "VRVishal RanjanVishal Ranjan\u2022+917702167125",
+          "b1405107-48b2-4fd8-88e3-d4cf11d5caf8b1405107-48b2-4fd8-88e3-d4cf11d5caf8",
+          "jaipur",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "DTDhb TradersDHB Traders\u2022+912141201420",
+          "5415162",
+          "Vijayawada",
+          "usersegment+ 1",
+          "1"
+        ],
+        [
+          "PRPragyaPragya\u2022+917742867500",
+          "c7ad1eb9-32df-414d-8ea9-c0bea3e3bc45c7ad1eb9-32df-414d-8ea9-c0bea3e3bc45",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "INInfinityInfinity\u2022+912275852507",
+          "f5f828e8-bd4a-4043-96a0-3c69f08d590df5f828e8-bd4a-4043-96a0-3c69f08d590d",
+          "N.A",
+          "N.A",
+          "Assign"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Customer",
+        "Customer Code",
+        "Routes",
+        "Segments",
+        "Team Members",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Customer",
+          "Customer Code",
+          "Routes",
+          "Segments",
+          "Team Members",
+          "Actions"
+        ],
+        [
+          "NPNitin PadmawarNitin Padmawar\u2022+919393270202",
+          "bdeb7269-2594-4fb2-ab45-997f53728935bdeb7269-2594-4fb2-ab45-997f53728935",
+          "Nankramguda",
+          "rsvirla_dealer",
+          "Assign"
+        ],
+        [
+          "ARArunArun\u2022+917661987561",
+          "80884469-ced4-486e-9c62-815dfd76c0ed80884469-ced4-486e-9c62-815dfd76c0ed",
+          "Hyderabad",
+          "N.A",
+          "2"
+        ],
+        [
+          "SKSai KiranSai Kiran\u2022+919550112934",
+          "4c768447-a161-4975-bc6a-f116c263cfef4c768447-a161-4975-bc6a-f116c263cfef",
+          "N.A",
+          "N.A",
+          "9"
+        ],
+        [
+          "SSSha Singh Traders User Pvt Ltdsha Singh Traders User pvt Ltd\u2022+917051016552",
+          "748f856a-558e-4356-87f4-d5a4a82f23a5748f856a-558e-4356-87f4-d5a4a82f23a5",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "GIGirishGirish\u2022+919392970203",
+          "34dd4727-6d25-4794-8b03-b3c47cef67db34dd4727-6d25-4794-8b03-b3c47cef67db",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "ASAnshul ShrivastavAnshul Shrivastav\u2022+919766452899",
+          "df8d6e43-a7ae-40c7-9c73-94686165fe05df8d6e43-a7ae-40c7-9c73-94686165fe05",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "ZOZonotest001Zonotest001\u2022+917075852513",
+          "dfede685-10a8-4672-b1f6-a0ce6955777ddfede685-10a8-4672-b1f6-a0ce6955777d",
+          "N.A",
+          "N.A",
+          "3"
+        ],
+        [
+          "ZOZonotest001Zonotest001\u2022+917075852599",
+          "d10e8457-581e-4180-abca-d08c316b4905d10e8457-581e-4180-abca-d08c316b4905",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "91917075852555917075852555\u2022+917075852555",
+          "56743fa4-29aa-44cd-aeb7-774f2fc34ef056743fa4-29aa-44cd-aeb7-774f2fc34ef0",
+          "N.A",
+          "N.A",
+          "2"
+        ],
+        [
+          "91917075852577917075852577\u2022+917075852577",
+          "980e187a-5aec-4023-adc4-1b1d63f50e68980e187a-5aec-4023-adc4-1b1d63f50e68",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917075833577917075833577\u2022+917075833577",
+          "54ab6e3c-2661-4438-b076-96d4b1500b7454ab6e3c-2661-4438-b076-96d4b1500b74",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917077733577917077733577\u2022+917077733577",
+          "ab070c2e-21ee-4461-9ae4-a60adf56f8ddab070c2e-21ee-4461-9ae4-a60adf56f8dd",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117733577917117733577\u2022+917117733577",
+          "88d21a8a-ea5e-4e1f-a553-5081028b192988d21a8a-ea5e-4e1f-a553-5081028b1929",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117743577917117743577\u2022+917117743577",
+          "a397910a-d12e-4206-a429-f1d36815cf42a397910a-d12e-4206-a429-f1d36815cf42",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117742577917117742577\u2022+917117742577",
+          "28822394-2943-451a-a441-475c96bad1a028822394-2943-451a-a441-475c96bad1a0",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "91917117642577917117642577\u2022+917117642577",
+          "e6773dcd-d77b-41b3-b068-88616f7a55a4e6773dcd-d77b-41b3-b068-88616f7a55a4",
+          "N.A",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "VRVishal RanjanVishal Ranjan\u2022+917702167125",
+          "b1405107-48b2-4fd8-88e3-d4cf11d5caf8b1405107-48b2-4fd8-88e3-d4cf11d5caf8",
+          "jaipur",
+          "N.A",
+          "Assign"
+        ],
+        [
+          "DTDhb TradersDHB Traders\u2022+912141201420",
+          "5415162",
+          "Vijayawada",
+          "usersegment+ 1",
+          "1"
+        ],
+        [
+          "PRPragyaPragya\u2022+917742867500",
+          "c7ad1eb9-32df-414d-8ea9-c0bea3e3bc45c7ad1eb9-32df-414d-8ea9-c0bea3e3bc45",
+          "N.A",
+          "N.A",
+          "1"
+        ],
+        [
+          "INInfinityInfinity\u2022+912275852507",
+          "f5f828e8-bd4a-4043-96a0-3c69f08d590df5f828e8-bd4a-4043-96a0-3c69f08d590d",
+          "N.A",
+          "N.A",
+          "Assign"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Members",
+        "Roles"
+      ],
+      "rows": [
+        [
+          "Members",
+          "Roles"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Customers",
+    "Groups",
+    "Dynamic Segments",
+    "Add Customer"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "bdeb7269-2594-4fb2-ab45-997f53728935",
+    "80884469-ced4-486e-9c62-815dfd76c0ed",
+    "4c768447-a161-4975-bc6a-f116c263cfef",
+    "748f856a-558e-4356-87f4-d5a4a82f23a5",
+    "34dd4727-6d25-4794-8b03-b3c47cef67db",
+    "df8d6e43-a7ae-40c7-9c73-94686165fe05",
+    "dfede685-10a8-4672-b1f6-a0ce6955777d",
+    "d10e8457-581e-4180-abca-d08c316b4905",
+    "56743fa4-29aa-44cd-aeb7-774f2fc34ef0",
+    "980e187a-5aec-4023-adc4-1b1d63f50e68",
+    "54ab6e3c-2661-4438-b076-96d4b1500b74",
+    "ab070c2e-21ee-4461-9ae4-a60adf56f8dd",
+    "88d21a8a-ea5e-4e1f-a553-5081028b1929",
+    "a397910a-d12e-4206-a429-f1d36815cf42",
+    "28822394-2943-451a-a441-475c96bad1a0",
+    "e6773dcd-d77b-41b3-b068-88616f7a55a4",
+    "b1405107-48b2-4fd8-88e3-d4cf11d5caf8",
+    "c7ad1eb9-32df-414d-8ea9-c0bea3e3bc45",
+    "f5f828e8-bd4a-4043-96a0-3c69f08d590d"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_customers.png"
+}

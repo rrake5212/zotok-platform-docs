@@ -1,0 +1,46 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/salesteam-clock-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Sales Team ClockIn Report",
+  "timestamp": "2026-07-10T18:07:07.862901",
+  "headings": [],
+  "kpis": [
+    "Total Salespersons0",
+    "0",
+    "Total Customers0",
+    "0",
+    "Total Orders0",
+    "0",
+    "Total Order Value\u20b90",
+    "\u20b90",
+    "Total Payments Collected0",
+    "0"
+  ],
+  "tables": [],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Sales Team Clockin Report05 Jul - 10 Jul 2026DownloadTotal Salespersons0Total Customers0Total Orders0Total Order Value\u20b90Total Payments Collected00 - 0 of 00 / pageSchedule0/3 scheduled"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_sales_team_clockin_report.png"
+}

@@ -1,0 +1,625 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/product-performance-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Product Analysis",
+  "timestamp": "2026-07-10T18:06:57.158467",
+  "headings": [],
+  "kpis": [
+    "Total SKUs18",
+    "18",
+    "Total Orders48",
+    "48",
+    "Total Quantity Sold643",
+    "643",
+    "Total Sales Value\u20b928.39K",
+    "\u20b928.39K"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "Sku",
+        "Total Orders",
+        "Total Qty",
+        "Total Value",
+        "Avg Selling Price",
+        "Category"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "Sku",
+          "Total Orders",
+          "Total Qty",
+          "Total Value",
+          "Avg Selling Price",
+          "Category"
+        ],
+        [
+          "1",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "1",
+          "400",
+          "\u20b916,000",
+          "\u20b940"
+        ],
+        [
+          "2",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "7",
+          "69",
+          "\u20b93,450",
+          "\u20b950"
+        ],
+        [
+          "3",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "8",
+          "20",
+          "\u20b92,880",
+          "\u20b9144"
+        ],
+        [
+          "4",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "11",
+          "68",
+          "\u20b91,732",
+          "\u20b925.47"
+        ],
+        [
+          "5",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "1",
+          "25",
+          "\u20b91,250",
+          "\u20b950"
+        ],
+        [
+          "6",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "2",
+          "15",
+          "\u20b9900",
+          "\u20b960"
+        ],
+        [
+          "7",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "1",
+          "18",
+          "\u20b9864",
+          "\u20b948"
+        ],
+        [
+          "8",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "1",
+          "\u20b9328",
+          "\u20b9328"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "1",
+          "6",
+          "\u20b9300",
+          "\u20b950"
+        ],
+        [
+          "10",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "3",
+          "4",
+          "\u20b9208",
+          "\u20b952"
+        ],
+        [
+          "11",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "4",
+          "5",
+          "\u20b9150",
+          "\u20b930"
+        ],
+        [
+          "12",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "1",
+          "\u20b965",
+          "\u20b965"
+        ],
+        [
+          "13",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "1",
+          "\u20b962",
+          "\u20b962"
+        ],
+        [
+          "14",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "1",
+          "\u20b950",
+          "\u20b950"
+        ],
+        [
+          "15",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "1",
+          "\u20b948",
+          "\u20b948"
+        ],
+        [
+          "16",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "1",
+          "\u20b945",
+          "\u20b945"
+        ],
+        [
+          "17",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "2",
+          "4",
+          "\u20b930",
+          "\u20b97.50"
+        ],
+        [
+          "18",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "1",
+          "3",
+          "\u20b930",
+          "\u20b910"
+        ],
+        [
+          "18Total SKUs",
+          "48Total Orders",
+          "643Total Quantity",
+          "\u20b928,392Total Value",
+          "0Total Categories"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "Sku",
+        "Total Orders",
+        "Total Qty",
+        "Total Value",
+        "Avg Selling Price",
+        "Category"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "Sku",
+          "Total Orders",
+          "Total Qty",
+          "Total Value",
+          "Avg Selling Price",
+          "Category"
+        ],
+        [
+          "1",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "1",
+          "400",
+          "\u20b916,000",
+          "\u20b940"
+        ],
+        [
+          "2",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "7",
+          "69",
+          "\u20b93,450",
+          "\u20b950"
+        ],
+        [
+          "3",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "8",
+          "20",
+          "\u20b92,880",
+          "\u20b9144"
+        ],
+        [
+          "4",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "11",
+          "68",
+          "\u20b91,732",
+          "\u20b925.47"
+        ],
+        [
+          "5",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "1",
+          "25",
+          "\u20b91,250",
+          "\u20b950"
+        ],
+        [
+          "6",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "2",
+          "15",
+          "\u20b9900",
+          "\u20b960"
+        ],
+        [
+          "7",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "1",
+          "18",
+          "\u20b9864",
+          "\u20b948"
+        ],
+        [
+          "8",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "1",
+          "\u20b9328",
+          "\u20b9328"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "1",
+          "6",
+          "\u20b9300",
+          "\u20b950"
+        ],
+        [
+          "10",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "3",
+          "4",
+          "\u20b9208",
+          "\u20b952"
+        ],
+        [
+          "11",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "4",
+          "5",
+          "\u20b9150",
+          "\u20b930"
+        ],
+        [
+          "12",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "1",
+          "\u20b965",
+          "\u20b965"
+        ],
+        [
+          "13",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "1",
+          "\u20b962",
+          "\u20b962"
+        ],
+        [
+          "14",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "1",
+          "\u20b950",
+          "\u20b950"
+        ],
+        [
+          "15",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "1",
+          "\u20b948",
+          "\u20b948"
+        ],
+        [
+          "16",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "1",
+          "\u20b945",
+          "\u20b945"
+        ],
+        [
+          "17",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "2",
+          "4",
+          "\u20b930",
+          "\u20b97.50"
+        ],
+        [
+          "18",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "1",
+          "3",
+          "\u20b930",
+          "\u20b910"
+        ],
+        [
+          "18Total SKUs",
+          "48Total Orders",
+          "643Total Quantity",
+          "\u20b928,392Total Value",
+          "0Total Categories"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "Sku",
+        "Total Orders",
+        "Total Qty",
+        "Total Value",
+        "Avg Selling Price",
+        "Category"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "Sku",
+          "Total Orders",
+          "Total Qty",
+          "Total Value",
+          "Avg Selling Price",
+          "Category"
+        ],
+        [
+          "1",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "1",
+          "400",
+          "\u20b916,000",
+          "\u20b940"
+        ],
+        [
+          "2",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "7",
+          "69",
+          "\u20b93,450",
+          "\u20b950"
+        ],
+        [
+          "3",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "8",
+          "20",
+          "\u20b92,880",
+          "\u20b9144"
+        ],
+        [
+          "4",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "11",
+          "68",
+          "\u20b91,732",
+          "\u20b925.47"
+        ],
+        [
+          "5",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "1",
+          "25",
+          "\u20b91,250",
+          "\u20b950"
+        ],
+        [
+          "6",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "2",
+          "15",
+          "\u20b9900",
+          "\u20b960"
+        ],
+        [
+          "7",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "1",
+          "18",
+          "\u20b9864",
+          "\u20b948"
+        ],
+        [
+          "8",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "1",
+          "\u20b9328",
+          "\u20b9328"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "1",
+          "6",
+          "\u20b9300",
+          "\u20b950"
+        ],
+        [
+          "10",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "3",
+          "4",
+          "\u20b9208",
+          "\u20b952"
+        ],
+        [
+          "11",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "4",
+          "5",
+          "\u20b9150",
+          "\u20b930"
+        ],
+        [
+          "12",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "1",
+          "\u20b965",
+          "\u20b965"
+        ],
+        [
+          "13",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "1",
+          "\u20b962",
+          "\u20b962"
+        ],
+        [
+          "14",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "1",
+          "\u20b950",
+          "\u20b950"
+        ],
+        [
+          "15",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "1",
+          "\u20b948",
+          "\u20b948"
+        ],
+        [
+          "16",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "1",
+          "\u20b945",
+          "\u20b945"
+        ],
+        [
+          "17",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "2",
+          "4",
+          "\u20b930",
+          "\u20b97.50"
+        ],
+        [
+          "18",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "1",
+          "3",
+          "\u20b930",
+          "\u20b910"
+        ],
+        [
+          "18Total SKUs",
+          "48Total Orders",
+          "643Total Quantity",
+          "\u20b928,392Total Value",
+          "0Total Categories"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "\u20b928.39K",
+    "48Total Orders"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_product_analysis.png"
+}

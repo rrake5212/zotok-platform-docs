@@ -1,0 +1,201 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/departments",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Department",
+  "timestamp": "2026-07-10T18:08:12.099613",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Department Name",
+        "Department Code",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Department Name",
+          "Department Code",
+          "Actions"
+        ],
+        [
+          "1",
+          "CIVIL",
+          "CVL"
+        ],
+        [
+          "2",
+          "dfsdf",
+          "sdfdf"
+        ],
+        [
+          "3",
+          "Electrical",
+          "ELEC"
+        ],
+        [
+          "4",
+          "Electronics",
+          "ELECT5608"
+        ],
+        [
+          "5",
+          "Electronicsss",
+          "ELECT5608s"
+        ],
+        [
+          "6",
+          "Mechanical",
+          "MECH"
+        ],
+        [
+          "7",
+          "rtest",
+          "324324"
+        ],
+        [
+          "8",
+          "Sales",
+          "SAL5"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Department Name",
+        "Department Code",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Department Name",
+          "Department Code",
+          "Actions"
+        ],
+        [
+          "1",
+          "CIVIL",
+          "CVL"
+        ],
+        [
+          "2",
+          "dfsdf",
+          "sdfdf"
+        ],
+        [
+          "3",
+          "Electrical",
+          "ELEC"
+        ],
+        [
+          "4",
+          "Electronics",
+          "ELECT5608"
+        ],
+        [
+          "5",
+          "Electronicsss",
+          "ELECT5608s"
+        ],
+        [
+          "6",
+          "Mechanical",
+          "MECH"
+        ],
+        [
+          "7",
+          "rtest",
+          "324324"
+        ],
+        [
+          "8",
+          "Sales",
+          "SAL5"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Department Name",
+        "Department Code",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Department Name",
+          "Department Code",
+          "Actions"
+        ],
+        [
+          "1",
+          "CIVIL",
+          "CVL"
+        ],
+        [
+          "2",
+          "dfsdf",
+          "sdfdf"
+        ],
+        [
+          "3",
+          "Electrical",
+          "ELEC"
+        ],
+        [
+          "4",
+          "Electronics",
+          "ELECT5608"
+        ],
+        [
+          "5",
+          "Electronicsss",
+          "ELECT5608s"
+        ],
+        [
+          "6",
+          "Mechanical",
+          "MECH"
+        ],
+        [
+          "7",
+          "rtest",
+          "324324"
+        ],
+        [
+          "8",
+          "Sales",
+          "SAL5"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Add Department"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "DepartmentAdd Department1 - 8 of 820 / pageS.NoDepartment NameDepartment CodeActions1CIVILCVL2dfsdfsdfdf3ElectricalELEC4ElectronicsELECT56085ElectronicsssELECT5608s6MechanicalMECH7rtest3243248SalesSAL5",
+    "Add Department"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_department.png"
+}

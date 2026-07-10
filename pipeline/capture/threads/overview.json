@@ -1,0 +1,42 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/thread",
+  "title": "Z\u00f6Tok",
+  "module": "Threads",
+  "sub_module": "Threads",
+  "timestamp": "2026-07-10T18:05:29.659621",
+  "headings": [],
+  "kpis": [
+    "ThreadsCustomersGroupsIssuesSignal InboxLast 24 Hours\u200b"
+  ],
+  "tables": [],
+  "buttons": [],
+  "form_fields": [
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "Threads",
+    "No customer threads yet. Customer conversations related to orders, invoices, and payments will appear here",
+    "No customer threads yet. Customer conversations related to orders, invoices, and payments will appear here"
+  ],
+  "empty_states": [
+    "No customer threads yet. Customer conversations related to orders, invoices, and payments will appear here",
+    "No customer threads yet. Customer conversations related to orders, invoices, and payments will appear here",
+    "No customer threads yet. Customer conversations related to orders, invoices, and payments will appear here",
+    "No conversation selectedSelect a conversation from the list to view messages"
+  ],
+  "select_options": [],
+  "screenshot": "capture/screenshots/threads_main.png"
+}

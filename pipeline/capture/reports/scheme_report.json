@@ -1,0 +1,52 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/turnover-scheme-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Scheme Report",
+  "timestamp": "2026-07-10T18:07:48.722539",
+  "headings": [],
+  "kpis": [
+    "Total Invoices0",
+    "0",
+    "Total Invoice Value\u20b90",
+    "\u20b90",
+    "Contribution Invoices0",
+    "0",
+    "Total Contribution\u20b90",
+    "\u20b90"
+  ],
+  "tables": [],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Scheme Report05 Jul - 10 Jul 2026DownloadTotal Invoices0Total Invoice Value\u20b90Contribution Invoices0Total Contribution\u20b90Date: 05 Jul 2026 to 10 Jul 20260 - 0 of 00 / pageSchedule0/3 scheduledNo Reports AvailableNo data available for the selected date range. Try adjusting the date or filters.",
+    "No Reports AvailableNo data available for the selected date range. Try adjusting the date or filters.",
+    "No Reports Available",
+    "No data available for the selected date range. Try adjusting the date or filters."
+  ],
+  "empty_states": [
+    "No Reports AvailableNo data available for the selected date range. Try adjusting the date or filters.",
+    "No Reports AvailableNo data available for the selected date range. Try adjusting the date or filters.",
+    "No Reports Available",
+    "No data available for the selected date range. Try adjusting the date or filters."
+  ],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_scheme_report.png"
+}

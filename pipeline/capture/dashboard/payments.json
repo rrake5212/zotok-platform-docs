@@ -1,0 +1,18 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/home?tab=payments",
+  "title": "Z\u00f6Tok",
+  "module": "Dashboard",
+  "sub_module": "Payments",
+  "timestamp": "2026-07-10T18:05:09.643947",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Hello, Hd AgenciesWelcome to Z\u00f6TokHd AgenciesSalesPaymentsItemDay BookThis Month Till Date0 - 0 of 00 / page"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/dashboard_payments.png"
+}

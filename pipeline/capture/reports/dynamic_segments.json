@@ -1,0 +1,42 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/dynamic-segments-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Dynamic Segments",
+  "timestamp": "2026-07-10T18:07:43.452536",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Dynamic Segments ReportsThe next refresh is scheduled in 0 minutes0 - 0 of 00 / pageSchedule0/3 scheduledNo Reports AvailableNo data available for the selected date range",
+    "No Reports AvailableNo data available for the selected date range",
+    "No Reports Available",
+    "No data available for the selected date range"
+  ],
+  "empty_states": [
+    "No Reports AvailableNo data available for the selected date range",
+    "No Reports AvailableNo data available for the selected date range",
+    "No Reports Available",
+    "No data available for the selected date range"
+  ],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_dynamic_segments.png"
+}

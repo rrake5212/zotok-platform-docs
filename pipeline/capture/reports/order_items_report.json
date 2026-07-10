@@ -1,0 +1,646 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/order-line-report",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Order Items Report",
+  "timestamp": "2026-07-10T18:07:22.037690",
+  "headings": [],
+  "kpis": [
+    "Total SKUs18",
+    "18",
+    "Total Customers7",
+    "7",
+    "Total Order Count46",
+    "46",
+    "Total CFAs1",
+    "1",
+    "Total Orders Amount\u20b928.39K",
+    "\u20b928.39K"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "SKU",
+        "Ordered Quantity",
+        "Order Value",
+        "Number of orders",
+        "CFA",
+        "Order Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "SKU",
+          "Ordered Quantity",
+          "Order Value",
+          "Number of orders",
+          "CFA",
+          "Order Number"
+        ],
+        [
+          "1",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "\u20b950",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "2",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "\u20b945",
+          "1",
+          "HDAX58379-4915"
+        ],
+        [
+          "3",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "68",
+          "\u20b91,732",
+          "11",
+          "HDAX58379-4920, HDAX58..."
+        ],
+        [
+          "4",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "3",
+          "\u20b930",
+          "1",
+          "HDAX58379-4893"
+        ],
+        [
+          "5",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "4",
+          "\u20b9208",
+          "3",
+          "HDAX58379-4887, HDAX58..."
+        ],
+        [
+          "6",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "20",
+          "\u20b92,880",
+          "8",
+          "HDAX58379-4884, HDAX58..."
+        ],
+        [
+          "7",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "4",
+          "\u20b930",
+          "2",
+          "HDAX58379-4896, HDAX58..."
+        ],
+        [
+          "8",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "6",
+          "\u20b9300",
+          "1",
+          "HDAX58379-4899"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "25",
+          "\u20b91,250",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "10",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "\u20b948",
+          "1",
+          "-"
+        ],
+        [
+          "11",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "18",
+          "\u20b9864",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "12",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "69",
+          "\u20b93,450",
+          "7",
+          "HDAX58379-4881, HDAX58..."
+        ],
+        [
+          "13",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "400",
+          "\u20b916,000",
+          "1",
+          "HDAX58379-4903"
+        ],
+        [
+          "14",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "15",
+          "\u20b9900",
+          "2",
+          "HDAX58379-4895, HDAX58..."
+        ],
+        [
+          "15",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "\u20b965",
+          "1",
+          "-"
+        ],
+        [
+          "16",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "5",
+          "\u20b9150",
+          "4",
+          "HDAX58379-4910, HDAX58..."
+        ],
+        [
+          "17",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "\u20b9328",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "18",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "\u20b962",
+          "1",
+          "HDAX58379-4924"
+        ],
+        [
+          "19",
+          "-",
+          "0",
+          "\u20b90",
+          "6",
+          "HDAX58379-4898, HDAX58..."
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "SKU",
+        "Ordered Quantity",
+        "Order Value",
+        "Number of orders",
+        "CFA",
+        "Order Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "SKU",
+          "Ordered Quantity",
+          "Order Value",
+          "Number of orders",
+          "CFA",
+          "Order Number"
+        ],
+        [
+          "1",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "\u20b950",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "2",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "\u20b945",
+          "1",
+          "HDAX58379-4915"
+        ],
+        [
+          "3",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "68",
+          "\u20b91,732",
+          "11",
+          "HDAX58379-4920, HDAX58..."
+        ],
+        [
+          "4",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "3",
+          "\u20b930",
+          "1",
+          "HDAX58379-4893"
+        ],
+        [
+          "5",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "4",
+          "\u20b9208",
+          "3",
+          "HDAX58379-4887, HDAX58..."
+        ],
+        [
+          "6",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "20",
+          "\u20b92,880",
+          "8",
+          "HDAX58379-4884, HDAX58..."
+        ],
+        [
+          "7",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "4",
+          "\u20b930",
+          "2",
+          "HDAX58379-4896, HDAX58..."
+        ],
+        [
+          "8",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "6",
+          "\u20b9300",
+          "1",
+          "HDAX58379-4899"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "25",
+          "\u20b91,250",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "10",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "\u20b948",
+          "1",
+          "-"
+        ],
+        [
+          "11",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "18",
+          "\u20b9864",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "12",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "69",
+          "\u20b93,450",
+          "7",
+          "HDAX58379-4881, HDAX58..."
+        ],
+        [
+          "13",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "400",
+          "\u20b916,000",
+          "1",
+          "HDAX58379-4903"
+        ],
+        [
+          "14",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "15",
+          "\u20b9900",
+          "2",
+          "HDAX58379-4895, HDAX58..."
+        ],
+        [
+          "15",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "\u20b965",
+          "1",
+          "-"
+        ],
+        [
+          "16",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "5",
+          "\u20b9150",
+          "4",
+          "HDAX58379-4910, HDAX58..."
+        ],
+        [
+          "17",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "\u20b9328",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "18",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "\u20b962",
+          "1",
+          "HDAX58379-4924"
+        ],
+        [
+          "19",
+          "-",
+          "0",
+          "\u20b90",
+          "6",
+          "HDAX58379-4898, HDAX58..."
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Product Name",
+        "SKU",
+        "Ordered Quantity",
+        "Order Value",
+        "Number of orders",
+        "CFA",
+        "Order Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Product Name",
+          "SKU",
+          "Ordered Quantity",
+          "Order Value",
+          "Number of orders",
+          "CFA",
+          "Order Number"
+        ],
+        [
+          "1",
+          "PP 280X220  SLIL 50",
+          "2001222",
+          "1",
+          "\u20b950",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "2",
+          "PP 210X170  SLIL 50",
+          "2001232",
+          "1",
+          "\u20b945",
+          "1",
+          "HDAX58379-4915"
+        ],
+        [
+          "3",
+          "PP 210X170  SLIL 25",
+          "2001231",
+          "68",
+          "\u20b91,732",
+          "11",
+          "HDAX58379-4920, HDAX58..."
+        ],
+        [
+          "4",
+          "NOTEBOOK 190 X 155 SOFT CS 48 SL",
+          "2671173",
+          "3",
+          "\u20b930",
+          "1",
+          "HDAX58379-4893"
+        ],
+        [
+          "5",
+          "NB 255X205 SOFT SL 176",
+          "2001067",
+          "4",
+          "\u20b9208",
+          "3",
+          "HDAX58379-4887, HDAX58..."
+        ],
+        [
+          "6",
+          "NB 250X176 SOFT SL 160",
+          "2250046",
+          "20",
+          "\u20b92,880",
+          "8",
+          "HDAX58379-4884, HDAX58..."
+        ],
+        [
+          "7",
+          "NB 240X180 SOFT UR 92",
+          "02000965PPLB",
+          "4",
+          "\u20b930",
+          "2",
+          "HDAX58379-4896, HDAX58..."
+        ],
+        [
+          "8",
+          "NB 240 x 180 SPB-CS Single Line 108",
+          "2010221",
+          "6",
+          "\u20b9300",
+          "1",
+          "HDAX58379-4899"
+        ],
+        [
+          "9",
+          "NB 240 x 180 SPB-CS SL - Interleaf 108",
+          "2010945",
+          "25",
+          "\u20b91,250",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "10",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000222",
+          "1",
+          "\u20b948",
+          "1",
+          "-"
+        ],
+        [
+          "11",
+          "NB 240 X 180 SOFT BPCS 172",
+          "2000221",
+          "18",
+          "\u20b9864",
+          "1",
+          "HDAX58379-4902"
+        ],
+        [
+          "12",
+          "NB 210X170 HARD UR 188",
+          "2001054",
+          "69",
+          "\u20b93,450",
+          "7",
+          "HDAX58379-4881, HDAX58..."
+        ],
+        [
+          "13",
+          "NB 210 X 297 SOFT BPCS UR",
+          "02501867LB",
+          "400",
+          "\u20b916,000",
+          "1",
+          "HDAX58379-4903"
+        ],
+        [
+          "14",
+          "LONGBOOK SOFT BPCS SL 172",
+          "02001012QSLB",
+          "15",
+          "\u20b9900",
+          "2",
+          "HDAX58379-4895, HDAX58..."
+        ],
+        [
+          "15",
+          "LB 272X167 SOFT UR 300",
+          "2331032",
+          "1",
+          "\u20b965",
+          "1",
+          "-"
+        ],
+        [
+          "16",
+          "DB 210X297 SOFT UR 40",
+          "2331001",
+          "5",
+          "\u20b9150",
+          "4",
+          "HDAX58379-4910, HDAX58..."
+        ],
+        [
+          "17",
+          "CP 267 X 203 Soft Spiral Single Line 160",
+          "2105007",
+          "1",
+          "\u20b9328",
+          "1",
+          "HDAX58379-4922"
+        ],
+        [
+          "18",
+          "3 IN 1 (DOUBLE LINES/FOUR LINES WITH GAP/SQUARE -",
+          "2331287",
+          "1",
+          "\u20b962",
+          "1",
+          "HDAX58379-4924"
+        ],
+        [
+          "19",
+          "-",
+          "0",
+          "\u20b90",
+          "6",
+          "HDAX58379-4898, HDAX58..."
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "\u20b928.39K",
+    "HDAX58379-4922",
+    "HDAX58379-4915",
+    "HDAX58379-4920, HDAX58...",
+    "HDAX58379-4893",
+    "HDAX58379-4887, HDAX58...",
+    "HDAX58379-4884, HDAX58...",
+    "HDAX58379-4896, HDAX58...",
+    "HDAX58379-4899",
+    "HDAX58379-4902",
+    "HDAX58379-4902",
+    "HDAX58379-4881, HDAX58...",
+    "HDAX58379-4903",
+    "HDAX58379-4895, HDAX58...",
+    "HDAX58379-4910, HDAX58...",
+    "HDAX58379-4922",
+    "HDAX58379-4924",
+    "HDAX58379-4898, HDAX58..."
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_order_items_report.png"
+}

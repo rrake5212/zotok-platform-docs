@@ -1,0 +1,65 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/myAccount/firmDetails",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Account",
+  "timestamp": "2026-07-10T18:08:01.444648",
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "My Plan"
+    },
+    {
+      "tag": "H4",
+      "text": "Entrepreneur"
+    },
+    {
+      "tag": "H3",
+      "text": "Credits"
+    }
+  ],
+  "kpis": [
+    "Contact DetailsEdit DetailsHda+913203220232\u2022-The mobile number and email above are your login credentials."
+  ],
+  "tables": [],
+  "buttons": [
+    "General",
+    "Credits",
+    "Manage Account",
+    "Edit Details",
+    "Edit Details",
+    "Edit Details",
+    "View Transactions",
+    "Top Up"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "Company NameHd AgenciesTrade NameHDAGSTIN27AAECE6008K1ZLGST Valid Till-",
+    "Mobile+913203220233Company Email IDhda@yopmail.co",
+    "Company Reference CodeHDAX58379",
+    "Hda+913203220232\u2022-",
+    "My Plan",
+    "\u20b95,000.00 /Month \u2022 Valid till 01 Sep 2025",
+    "Remaining   -312  days",
+    "Plan Includes",
+    "Up to 500 Active Customers no charges.",
+    "Additional usage billed \u20b910/ active customer/month.",
+    "WABA set up charges - Zero. Facebook / Meta charges on Actuals.",
+    "Credits",
+    "Credits"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_account.png"
+}

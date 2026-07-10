@@ -1,0 +1,403 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/payments",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Payments",
+  "timestamp": "2026-07-10T18:06:16.824677",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Payment Id",
+        "Doc Type",
+        "UTR",
+        "Status",
+        "Payment Date",
+        "Customer Name",
+        "Payment Mode",
+        "Amount",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Payment Id",
+          "Doc Type",
+          "UTR",
+          "Status",
+          "Payment Date",
+          "Customer Name",
+          "Payment Mode",
+          "Amount",
+          "Actions"
+        ],
+        [
+          "1783620669083",
+          "Payment",
+          "996213837635",
+          "Sent",
+          "9th Jul, 2026",
+          "ZOZotokqa8",
+          "UPI",
+          "\u20b950",
+          "View"
+        ],
+        [
+          "T260707153208393293892",
+          "Payment",
+          "135113853589",
+          "Confirmed",
+          "7th Jul, 2026",
+          "VAVaishnavi",
+          "UPI",
+          "\u20b92,780",
+          "View"
+        ],
+        [
+          "1782820807075",
+          "Payment",
+          "125517400390",
+          "Sent",
+          "30th Jun, 2026",
+          "YKYasaswini kukunoori",
+          "UPI",
+          "\u20b946",
+          "View"
+        ],
+        [
+          "1782800595774",
+          "Payment",
+          "-",
+          "Sent",
+          "30th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b99,000",
+          "View"
+        ],
+        [
+          "1782737269965",
+          "Payment",
+          "-",
+          "Sent",
+          "29th Jun, 2026",
+          "OMOwaiz Mustafa Khan",
+          "CASH",
+          "\u20b99,000",
+          "View"
+        ],
+        [
+          "1782580499191",
+          "Payment",
+          "-",
+          "Sent",
+          "27th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b9900",
+          "View"
+        ],
+        [
+          "1782497582757",
+          "Payment",
+          "-",
+          "Sent",
+          "26th Jun, 2026",
+          "YKYasaswini kukunoori",
+          "CASH",
+          "\u20b9900",
+          "View"
+        ],
+        [
+          "1782495299207",
+          "Payment",
+          "-",
+          "Sent",
+          "26th Jun, 2026",
+          "SPsp pearles ent",
+          "CASH",
+          "\u20b990,000",
+          "View"
+        ],
+        [
+          "5626201",
+          "Payment",
+          "-",
+          "Confirmed",
+          "21st Jun, 2026",
+          "SSSHLOK SUPER MART",
+          "CASH",
+          "\u20b94,000",
+          "View"
+        ],
+        [
+          "1781773979781",
+          "Payment",
+          "-",
+          "Confirmed",
+          "17th Jun, 2026",
+          "ADAli Distributions",
+          "CASH",
+          "\u20b96,666",
+          "View"
+        ],
+        [
+          "1781518705310",
+          "Payment",
+          "-",
+          "Confirmed",
+          "15th Jun, 2026",
+          "SKSai Kiran",
+          "CASH",
+          "\u20b93,438",
+          "View"
+        ],
+        [
+          "1781266961412",
+          "Payment",
+          "-",
+          "Sent",
+          "12th Jun, 2026",
+          "UEumesh ent",
+          "CASH",
+          "\u20b9350",
+          "View"
+        ],
+        [
+          "1781180219325",
+          "Payment",
+          "-",
+          "Confirmed",
+          "11th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b92,391",
+          "View"
+        ],
+        [
+          "1781168179641",
+          "Payment",
+          "-",
+          "Confirmed",
+          "11th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b94,747",
+          "View"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Payment Id",
+        "Doc Type",
+        "UTR",
+        "Status",
+        "Payment Date",
+        "Customer Name",
+        "Payment Mode",
+        "Amount",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Payment Id",
+          "Doc Type",
+          "UTR",
+          "Status",
+          "Payment Date",
+          "Customer Name",
+          "Payment Mode",
+          "Amount",
+          "Actions"
+        ],
+        [
+          "1783620669083",
+          "Payment",
+          "996213837635",
+          "Sent",
+          "9th Jul, 2026",
+          "ZOZotokqa8",
+          "UPI",
+          "\u20b950",
+          "View"
+        ],
+        [
+          "T260707153208393293892",
+          "Payment",
+          "135113853589",
+          "Confirmed",
+          "7th Jul, 2026",
+          "VAVaishnavi",
+          "UPI",
+          "\u20b92,780",
+          "View"
+        ],
+        [
+          "1782820807075",
+          "Payment",
+          "125517400390",
+          "Sent",
+          "30th Jun, 2026",
+          "YKYasaswini kukunoori",
+          "UPI",
+          "\u20b946",
+          "View"
+        ],
+        [
+          "1782800595774",
+          "Payment",
+          "-",
+          "Sent",
+          "30th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b99,000",
+          "View"
+        ],
+        [
+          "1782737269965",
+          "Payment",
+          "-",
+          "Sent",
+          "29th Jun, 2026",
+          "OMOwaiz Mustafa Khan",
+          "CASH",
+          "\u20b99,000",
+          "View"
+        ],
+        [
+          "1782580499191",
+          "Payment",
+          "-",
+          "Sent",
+          "27th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b9900",
+          "View"
+        ],
+        [
+          "1782497582757",
+          "Payment",
+          "-",
+          "Sent",
+          "26th Jun, 2026",
+          "YKYasaswini kukunoori",
+          "CASH",
+          "\u20b9900",
+          "View"
+        ],
+        [
+          "1782495299207",
+          "Payment",
+          "-",
+          "Sent",
+          "26th Jun, 2026",
+          "SPsp pearles ent",
+          "CASH",
+          "\u20b990,000",
+          "View"
+        ],
+        [
+          "5626201",
+          "Payment",
+          "-",
+          "Confirmed",
+          "21st Jun, 2026",
+          "SSSHLOK SUPER MART",
+          "CASH",
+          "\u20b94,000",
+          "View"
+        ],
+        [
+          "1781773979781",
+          "Payment",
+          "-",
+          "Confirmed",
+          "17th Jun, 2026",
+          "ADAli Distributions",
+          "CASH",
+          "\u20b96,666",
+          "View"
+        ],
+        [
+          "1781518705310",
+          "Payment",
+          "-",
+          "Confirmed",
+          "15th Jun, 2026",
+          "SKSai Kiran",
+          "CASH",
+          "\u20b93,438",
+          "View"
+        ],
+        [
+          "1781266961412",
+          "Payment",
+          "-",
+          "Sent",
+          "12th Jun, 2026",
+          "UEumesh ent",
+          "CASH",
+          "\u20b9350",
+          "View"
+        ],
+        [
+          "1781180219325",
+          "Payment",
+          "-",
+          "Confirmed",
+          "11th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b92,391",
+          "View"
+        ],
+        [
+          "1781168179641",
+          "Payment",
+          "-",
+          "Confirmed",
+          "11th Jun, 2026",
+          "GOGowtham",
+          "CASH",
+          "\u20b94,747",
+          "View"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "1783620669083",
+    "T260707153208393293892",
+    "1782820807075",
+    "1782800595774",
+    "1782737269965",
+    "1782580499191",
+    "1782497582757",
+    "1782495299207",
+    "5626201",
+    "1781773979781",
+    "1781518705310",
+    "1781266961412",
+    "1781180219325",
+    "1781168179641"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_payments.png"
+}

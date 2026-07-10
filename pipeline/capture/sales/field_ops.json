@@ -1,0 +1,64 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/field-ops/dashboard",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Field Ops",
+  "timestamp": "2026-07-10T18:06:26.171363",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [
+    "Dashboard",
+    "Schedules",
+    "Plans",
+    "Routes",
+    "Sales Team",
+    "Create Plan",
+    "Create Plan"
+  ],
+  "form_fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "Select Folder",
+      "label": "Select Folder",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "All Segments",
+      "label": "All Segments",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "Select Folder",
+      "label": "Select Folder",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "Field OpsDashboardSchedulesPlansRoutesSales TeamWeekly Sales TrendsJuly 2026This is a sample visualization of your weekly sales trend.Start now to plan and optimize your sales team's strategy.Create PlanMonthly Sales TrendsJuly 2026This is a sample visualization of your monthly sales trend.Start now"
+  ],
+  "empty_states": [
+    "This is a sample visualization of your weekly sales trend.Start now to plan and optimize your sales team's strategy.Create Plan",
+    "This is a sample visualization of your weekly sales trend.Start now to plan and optimize your sales team's strategy.",
+    "This is a sample visualization of your monthly sales trend.Start now to plan and optimize your sales team's strategy.Create Plan",
+    "This is a sample visualization of your monthly sales trend.Start now to plan and optimize your sales team's strategy."
+  ],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_field_ops.png"
+}

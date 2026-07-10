@@ -1,43 +1,49 @@
 ---
-sidebar_position: 1
+sidebar_position: 11
+title: "Payments"
 ---
 
-# Payments Module
+# Payments
 
 ## Overview
 
-The Payments module helps you track incoming payments, manage receivable ageing, and configure ageing buckets.
+This page provides access to payments functionality within the ZöTok platform.
 
-## Accessing Payments
+### Data Table
 
-Click **Payments** (💳 icon) in the left navigation sidebar. This opens the **Payment View Settings** overlay.
+| Payment Id | Doc Type | UTR | Status | Payment Date | Customer Name | Payment Mode | Amount |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1783620669083 | Payment | 996213837635 | Sent | 9th Jul, 2026 | ZOZotokqa8 | UPI | ₹50 |
+| T260707153208393293892 | Payment | 135113853589 | Confirmed | 7th Jul, 2026 | VAVaishnavi | UPI | ₹2,780 |
+| 1782820807075 | Payment | 125517400390 | Sent | 30th Jun, 2026 | YKYasaswini kukunoori | UPI | ₹46 |
+| 1782800595774 | Payment | - | Sent | 30th Jun, 2026 | GOGowtham | CASH | ₹9,000 |
+| 1782737269965 | Payment | - | Sent | 29th Jun, 2026 | OMOwaiz Mustafa Khan | CASH | ₹9,000 |
+| 1782580499191 | Payment | - | Sent | 27th Jun, 2026 | GOGowtham | CASH | ₹900 |
+| 1782497582757 | Payment | - | Sent | 26th Jun, 2026 | YKYasaswini kukunoori | CASH | ₹900 |
+| 1782495299207 | Payment | - | Sent | 26th Jun, 2026 | SPsp pearles ent | CASH | ₹90,000 |
+| 5626201 | Payment | - | Confirmed | 21st Jun, 2026 | SSSHLOK SUPER MART | CASH | ₹4,000 |
+| 1781773979781 | Payment | - | Confirmed | 17th Jun, 2026 | ADAli Distributions | CASH | ₹6,666 |
+| 1781518705310 | Payment | - | Confirmed | 15th Jun, 2026 | SKSai Kiran | CASH | ₹3,438 |
+| 1781266961412 | Payment | - | Sent | 12th Jun, 2026 | UEumesh ent | CASH | ₹350 |
+| 1781180219325 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹2,391 |
+| 1781168179641 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹4,747 |
 
-## Payment View Settings
+| Payment Id | Doc Type | UTR | Status | Payment Date | Customer Name | Payment Mode | Amount |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1783620669083 | Payment | 996213837635 | Sent | 9th Jul, 2026 | ZOZotokqa8 | UPI | ₹50 |
+| T260707153208393293892 | Payment | 135113853589 | Confirmed | 7th Jul, 2026 | VAVaishnavi | UPI | ₹2,780 |
+| 1782820807075 | Payment | 125517400390 | Sent | 30th Jun, 2026 | YKYasaswini kukunoori | UPI | ₹46 |
+| 1782800595774 | Payment | - | Sent | 30th Jun, 2026 | GOGowtham | CASH | ₹9,000 |
+| 1782737269965 | Payment | - | Sent | 29th Jun, 2026 | OMOwaiz Mustafa Khan | CASH | ₹9,000 |
+| 1782580499191 | Payment | - | Sent | 27th Jun, 2026 | GOGowtham | CASH | ₹900 |
+| 1782497582757 | Payment | - | Sent | 26th Jun, 2026 | YKYasaswini kukunoori | CASH | ₹900 |
+| 1782495299207 | Payment | - | Sent | 26th Jun, 2026 | SPsp pearles ent | CASH | ₹90,000 |
+| 5626201 | Payment | - | Confirmed | 21st Jun, 2026 | SSSHLOK SUPER MART | CASH | ₹4,000 |
+| 1781773979781 | Payment | - | Confirmed | 17th Jun, 2026 | ADAli Distributions | CASH | ₹6,666 |
+| 1781518705310 | Payment | - | Confirmed | 15th Jun, 2026 | SKSai Kiran | CASH | ₹3,438 |
+| 1781266961412 | Payment | - | Sent | 12th Jun, 2026 | UEumesh ent | CASH | ₹350 |
+| 1781180219325 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹2,391 |
+| 1781168179641 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹4,747 |
 
-![Settings Overlay](/screenshots/settings/06_Navigation_to_Module_enhanced.jpg)
-
-### Ageing Configuration
-
-Configure how receivables are aged:
-
-- **Ageing By** — Choose **Due Date** or **Bill Date**
-
-### Ageing Bucket Ranges
-
-| Bucket | Range | Description |
-|--------|-------|-------------|
-| 1 | 0–10 Days | Current / near-term receivables |
-| 2 | 11–20 Days | Early overdue |
-| 3 | 21–30 Days | Moderate overdue |
-| 4 | 31–40 Days | Attention required |
-| 5 | 41–50 Days | Escalation needed |
-| 6 | Over 50 Days | Critical — immediate follow-up |
-
-### Empty State
-
-When no invoices exist, the system displays: "No invoices to show."
-
-## Actions
-
-- **Save** — Apply your configuration
-- **Cancel** — Discard changes
+---
+*Route: `/admin/payments`*

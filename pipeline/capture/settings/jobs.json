@@ -1,0 +1,142 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/jobs",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Jobs",
+  "timestamp": "2026-07-10T18:09:02.513295",
+  "headings": [],
+  "kpis": [
+    "Customers (1)",
+    "state (2)",
+    "customerId (2)"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "Schedule Report",
+        "Report Date Range",
+        "Filters",
+        "Trigger On",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Schedule Report",
+          "Report Date Range",
+          "Filters",
+          "Trigger On",
+          "Actions"
+        ],
+        [
+          "Order Report",
+          "20 Apr 2026 - 20 Apr 2026",
+          "Customers (1)",
+          "Daily at 9:00 AM"
+        ],
+        [
+          "Order Report",
+          "-",
+          "No filters",
+          "Monthly at 9:00 PM"
+        ],
+        [
+          "Customer Analysis Report",
+          "-",
+          "No filters",
+          "Weekly at 12:15 PM"
+        ],
+        [
+          "Customer Analysis Report",
+          "-",
+          "No filters",
+          "Daily at 10:00 AM"
+        ],
+        [
+          "Check Ins Report",
+          "-",
+          "No filters",
+          "Daily at 11:30 AM"
+        ],
+        [
+          "Customer Analysis Report",
+          "13 Apr 2026 - 17 Apr 2026",
+          "state (2)customerId (2)",
+          "Daily at 9:00 AM"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Schedule Report",
+        "Report Date Range",
+        "Filters",
+        "Trigger On",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Schedule Report",
+          "Report Date Range",
+          "Filters",
+          "Trigger On",
+          "Actions"
+        ],
+        [
+          "Order Report",
+          "20 Apr 2026 - 20 Apr 2026",
+          "Customers (1)",
+          "Daily at 9:00 AM"
+        ],
+        [
+          "Order Report",
+          "-",
+          "No filters",
+          "Monthly at 9:00 PM"
+        ],
+        [
+          "Customer Analysis Report",
+          "-",
+          "No filters",
+          "Weekly at 12:15 PM"
+        ],
+        [
+          "Customer Analysis Report",
+          "-",
+          "No filters",
+          "Daily at 10:00 AM"
+        ],
+        [
+          "Check Ins Report",
+          "-",
+          "No filters",
+          "Daily at 11:30 AM"
+        ],
+        [
+          "Customer Analysis Report",
+          "13 Apr 2026 - 17 Apr 2026",
+          "state (2)customerId (2)",
+          "Daily at 9:00 AM"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "JobsSchedule ReportReport Date RangeFiltersTrigger OnActionsOrder Report20 Apr 2026 - 20 Apr 2026Customers (1)Daily at 9:00 AMOrder Report-No filtersMonthly at 9:00 PMCustomer Analysis Report-No filtersWeekly at 12:15 PMCustomer Analysis Report-No filtersDaily at 10:00 AMCheck Ins Report-No filtersD"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_jobs.png"
+}

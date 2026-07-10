@@ -1,0 +1,448 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/customer-performance-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Customer Analysis",
+  "timestamp": "2026-07-10T18:06:51.455996",
+  "headings": [],
+  "kpis": [
+    "Total Orders46",
+    "46",
+    "Total Order Value\u20b928.44K",
+    "\u20b928.44K",
+    "Total Invoices1",
+    "1",
+    "Total Invoices Value\u20b997.24K",
+    "\u20b997.24K",
+    "Total Outstanding\u20b92.09Cr",
+    "\u20b92.09Cr"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.NO",
+        "Customer Name",
+        "Total Orders",
+        "Order value",
+        "Number of Invoices",
+        "Invoices Value",
+        "Total Pending Invoices",
+        "Pending invoices Value",
+        "Credit Limit",
+        "Total Outstanding"
+      ],
+      "rows": [
+        [
+          "S.NO",
+          "Customer Name",
+          "Total Orders",
+          "Order value",
+          "Number of Invoices",
+          "Invoices Value",
+          "Total Pending Invoices",
+          "Pending invoices Value",
+          "Credit Limit",
+          "Total Outstanding"
+        ],
+        [
+          "1",
+          "GOGowthamGowtham",
+          "25",
+          "\u20b94,039",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b913,131",
+          "\u20b91,24,20,402.59"
+        ],
+        [
+          "2",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "12",
+          "\u20b919,741",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b91,066"
+        ],
+        [
+          "3",
+          "ZOZotokqa8Zotokqa8",
+          "4",
+          "\u20b92,514",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b94,297"
+        ],
+        [
+          "4",
+          "VAVaishnaviVaishnavi",
+          "2",
+          "\u20b9648",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b92,495"
+        ],
+        [
+          "5",
+          "CDChandu DhondiChandu Dhondi",
+          "1",
+          "\u20b9432",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "6",
+          "RURuthvikRuthvik",
+          "1",
+          "\u20b9950",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "7",
+          "SBSaiteja BadiniSaiteja Badini",
+          "1",
+          "\u20b9113",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b9450"
+        ],
+        [
+          "8",
+          "SKSai KiranSai Kiran",
+          "0",
+          "\u20b90",
+          "1",
+          "\u20b997,241",
+          "1",
+          "\u20b997,241",
+          "\u20b91,000",
+          "\u20b981,87,175"
+        ],
+        [
+          "46Total Orders",
+          "\u20b928,437Total Order Value",
+          "1Total Invoices",
+          "\u20b997,241Total Invoices Value",
+          "1Total Pending Invoices",
+          "\u20b997,241Total Pending Invoices Value"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NO",
+        "Customer Name",
+        "Total Orders",
+        "Order value",
+        "Number of Invoices",
+        "Invoices Value",
+        "Total Pending Invoices",
+        "Pending invoices Value",
+        "Credit Limit",
+        "Total Outstanding"
+      ],
+      "rows": [
+        [
+          "S.NO",
+          "Customer Name",
+          "Total Orders",
+          "Order value",
+          "Number of Invoices",
+          "Invoices Value",
+          "Total Pending Invoices",
+          "Pending invoices Value",
+          "Credit Limit",
+          "Total Outstanding"
+        ],
+        [
+          "1",
+          "GOGowthamGowtham",
+          "25",
+          "\u20b94,039",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b913,131",
+          "\u20b91,24,20,402.59"
+        ],
+        [
+          "2",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "12",
+          "\u20b919,741",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b91,066"
+        ],
+        [
+          "3",
+          "ZOZotokqa8Zotokqa8",
+          "4",
+          "\u20b92,514",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b94,297"
+        ],
+        [
+          "4",
+          "VAVaishnaviVaishnavi",
+          "2",
+          "\u20b9648",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b92,495"
+        ],
+        [
+          "5",
+          "CDChandu DhondiChandu Dhondi",
+          "1",
+          "\u20b9432",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "6",
+          "RURuthvikRuthvik",
+          "1",
+          "\u20b9950",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "7",
+          "SBSaiteja BadiniSaiteja Badini",
+          "1",
+          "\u20b9113",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b9450"
+        ],
+        [
+          "8",
+          "SKSai KiranSai Kiran",
+          "0",
+          "\u20b90",
+          "1",
+          "\u20b997,241",
+          "1",
+          "\u20b997,241",
+          "\u20b91,000",
+          "\u20b981,87,175"
+        ],
+        [
+          "46Total Orders",
+          "\u20b928,437Total Order Value",
+          "1Total Invoices",
+          "\u20b997,241Total Invoices Value",
+          "1Total Pending Invoices",
+          "\u20b997,241Total Pending Invoices Value"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.NO",
+        "Customer Name",
+        "Total Orders",
+        "Order value",
+        "Number of Invoices",
+        "Invoices Value",
+        "Total Pending Invoices",
+        "Pending invoices Value",
+        "Credit Limit",
+        "Total Outstanding"
+      ],
+      "rows": [
+        [
+          "S.NO",
+          "Customer Name",
+          "Total Orders",
+          "Order value",
+          "Number of Invoices",
+          "Invoices Value",
+          "Total Pending Invoices",
+          "Pending invoices Value",
+          "Credit Limit",
+          "Total Outstanding"
+        ],
+        [
+          "1",
+          "GOGowthamGowtham",
+          "25",
+          "\u20b94,039",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b913,131",
+          "\u20b91,24,20,402.59"
+        ],
+        [
+          "2",
+          "YKYasaswini kukunooriYasaswini kukunoori",
+          "12",
+          "\u20b919,741",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b91,066"
+        ],
+        [
+          "3",
+          "ZOZotokqa8Zotokqa8",
+          "4",
+          "\u20b92,514",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b94,297"
+        ],
+        [
+          "4",
+          "VAVaishnaviVaishnavi",
+          "2",
+          "\u20b9648",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "-\u20b92,495"
+        ],
+        [
+          "5",
+          "CDChandu DhondiChandu Dhondi",
+          "1",
+          "\u20b9432",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "6",
+          "RURuthvikRuthvik",
+          "1",
+          "\u20b9950",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90"
+        ],
+        [
+          "7",
+          "SBSaiteja BadiniSaiteja Badini",
+          "1",
+          "\u20b9113",
+          "0",
+          "\u20b90",
+          "0",
+          "\u20b90",
+          "\u20b90",
+          "\u20b9450"
+        ],
+        [
+          "8",
+          "SKSai KiranSai Kiran",
+          "0",
+          "\u20b90",
+          "1",
+          "\u20b997,241",
+          "1",
+          "\u20b997,241",
+          "\u20b91,000",
+          "\u20b981,87,175"
+        ],
+        [
+          "46Total Orders",
+          "\u20b928,437Total Order Value",
+          "1Total Invoices",
+          "\u20b997,241Total Invoices Value",
+          "1Total Pending Invoices",
+          "\u20b997,241Total Pending Invoices Value"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "\u20b928.44K",
+    "\u20b997.24K",
+    "\u20b92.09Cr",
+    "46Total Orders",
+    "1Total Invoices",
+    "1Total Pending Invoices"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_customer_analysis.png"
+}

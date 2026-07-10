@@ -1,0 +1,184 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/payment-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Payment Report",
+  "timestamp": "2026-07-10T18:07:32.815507",
+  "headings": [],
+  "kpis": [
+    "Total Payments1",
+    "1",
+    "Total Payments Value\u20b92.78K",
+    "\u20b92.78K"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Trasaction Date",
+        "Reference Number",
+        "Bank Transaction ID",
+        "Payment Mode",
+        "Transaction Type",
+        "Transaction Value",
+        "Payment Status",
+        "Collected By",
+        "Customer Name",
+        "Invoice Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Trasaction Date",
+          "Reference Number",
+          "Bank Transaction ID",
+          "Payment Mode",
+          "Transaction Type",
+          "Transaction Value",
+          "Payment Status",
+          "Collected By",
+          "Customer Name",
+          "Invoice Number"
+        ],
+        [
+          "1",
+          "7th Jul, 2026",
+          "T2607071532083932...",
+          "135113853589",
+          "UPI",
+          "OFLN",
+          "\u20b92,780",
+          "Confirmed",
+          "-",
+          "DTVaishnaviVaishnavi",
+          "-"
+        ],
+        [
+          "1Total Payments",
+          "\u20b92,780Total Transaction Value"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Trasaction Date",
+        "Reference Number",
+        "Bank Transaction ID",
+        "Payment Mode",
+        "Transaction Type",
+        "Transaction Value",
+        "Payment Status",
+        "Collected By",
+        "Customer Name",
+        "Invoice Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Trasaction Date",
+          "Reference Number",
+          "Bank Transaction ID",
+          "Payment Mode",
+          "Transaction Type",
+          "Transaction Value",
+          "Payment Status",
+          "Collected By",
+          "Customer Name",
+          "Invoice Number"
+        ],
+        [
+          "1",
+          "7th Jul, 2026",
+          "T2607071532083932...",
+          "135113853589",
+          "UPI",
+          "OFLN",
+          "\u20b92,780",
+          "Confirmed",
+          "-",
+          "DTVaishnaviVaishnavi",
+          "-"
+        ],
+        [
+          "1Total Payments",
+          "\u20b92,780Total Transaction Value"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Trasaction Date",
+        "Reference Number",
+        "Bank Transaction ID",
+        "Payment Mode",
+        "Transaction Type",
+        "Transaction Value",
+        "Payment Status",
+        "Collected By",
+        "Customer Name",
+        "Invoice Number"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Trasaction Date",
+          "Reference Number",
+          "Bank Transaction ID",
+          "Payment Mode",
+          "Transaction Type",
+          "Transaction Value",
+          "Payment Status",
+          "Collected By",
+          "Customer Name",
+          "Invoice Number"
+        ],
+        [
+          "1",
+          "7th Jul, 2026",
+          "T2607071532083932...",
+          "135113853589",
+          "UPI",
+          "OFLN",
+          "\u20b92,780",
+          "Confirmed",
+          "-",
+          "DTVaishnaviVaishnavi",
+          "-"
+        ],
+        [
+          "1Total Payments",
+          "\u20b92,780Total Transaction Value"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Payment Report05 Jul - 10 Jul 2026DownloadTotal Payments1Total Payments Value\u20b92.78K1 - 1 of 120 / pageSchedule0/3 scheduledS.NoTrasaction DateReference NumberBank Transaction IDPayment ModeTransaction TypeTransaction ValuePayment StatusCollected ByCustomer NameInvoice Number17th Jul, 2026T2607071532",
+    "\u20b92.78K",
+    "T2607071532083932..."
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_payment_report.png"
+}

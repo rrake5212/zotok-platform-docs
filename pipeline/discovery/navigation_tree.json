@@ -1,0 +1,238 @@
+{
+  "base_url": "https://app-qa.zotok.ai",
+  "phone": "3203220232",
+  "home_url": "https://app-qa.zotok.ai/admin/home",
+  "sidebar": {
+    "Threads": {
+      "url": "https://app-qa.zotok.ai/admin/thread",
+      "secondary_items": [
+        {
+          "text": "ThreadsH",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Threads",
+          "href": "",
+          "tag": "DIV"
+        }
+      ]
+    },
+    "Sales": {
+      "url": "https://app-qa.zotok.ai/admin/grow-dashboard/Sales",
+      "secondary_items": [
+        {
+          "text": "Grow",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Campaign",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "AI Agent",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Customers",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Products",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Orders",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Invoices",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Payments",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Ledger",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Field Ops",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Schemes",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Price List",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Forms",
+          "href": "",
+          "tag": "DIV"
+        }
+      ]
+    },
+    "Reports": {
+      "url": "https://app-qa.zotok.ai/admin/customer-performance-reports",
+      "secondary_items": [
+        {
+          "text": "Customer Analysis",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Product Analysis",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Sales Team Activity",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Sales Team ClockIn Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Checkins",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Order Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Order Items Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Invoice Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Payment Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Supply Tracker",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Dynamic Segments",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Scheme Report",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Trial Balance",
+          "href": "",
+          "tag": "DIV"
+        }
+      ]
+    },
+    "Settings": {
+      "url": "https://app-qa.zotok.ai/admin/myAccount/firmDetails",
+      "secondary_items": [
+        {
+          "text": "Account",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "My Team",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Department",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "WhatsApp",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Chat Widget",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Apps",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "CFA",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Divisions",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Notification",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Bank Details",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "File Manager",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Config Settings",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Jobs",
+          "href": "",
+          "tag": "DIV"
+        },
+        {
+          "text": "Edit Details",
+          "href": "",
+          "tag": "SPAN"
+        }
+      ]
+    }
+  },
+  "timestamp": 1783706299.211454
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "tag": "DIV",
+    "class": "sidebar-root",
+    "text": "HomeNewH",
+    "rect": "8,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "sidebar-primary",
+    "text": "HomeNewH",
+    "rect": "8,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-list",
+    "text": "HomeNewH",
+    "rect": "8,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-items-list",
+    "text": "HomeNew",
+    "rect": "8,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-item-wrapper",
+    "text": "Home",
+    "rect": "16,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-item is-active-primary",
+    "text": "Home",
+    "rect": "16,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-font-regular p-item-text",
+    "text": "Home",
+    "rect": "24,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-item-wrapper primary-item-inactive tour-target",
+    "text": "New",
+    "rect": "16,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "primary-item",
+    "text": "New",
+    "rect": "14,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "sidebar-new-badge primary-font-regular",
+    "text": "New",
+    "rect": "13,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "switch-tab-button-container",
+    "text": "SalesPaymentsItemDay Book",
+    "rect": "75,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "swicth-tab-button  swicth-active-tab-button ",
+    "text": "Sales",
+    "rect": "75,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "swicth-tab-button  ",
+    "text": "Payments",
+    "rect": "190,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "swicth-tab-button  ",
+    "text": "Item",
+    "rect": "305,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "swicth-tab-button  ",
+    "text": "Day Book",
+    "rect": "420,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "tile ",
+    "text": "Today\u20b90",
+    "rect": "69,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "tile ",
+    "text": "Yesterday\u20b90",
+    "rect": "411,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "tile ",
+    "text": "Unpaid Invoice Value\u20b91.25L",
+    "rect": "754,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "tile ",
+    "text": "Total Sales\u20b91.25L",
+    "rect": "1096,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "legend-list",
+    "text": "Sai Kiran\u20b997.24KUnknown\u20b926.5KGowtham\u20b91.1K",
+    "rect": "319,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "Sai Kiran\u20b997.24K",
+    "rect": "319,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "Unknown\u20b926.5K",
+    "rect": "319,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "Gowtham\u20b91.1K",
+    "rect": "319,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "legend-list",
+    "text": "500082\u20b982.41KUnknown\u20b926.5K500084\u20b90",
+    "rect": "1004,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "500082\u20b982.41K",
+    "rect": "1004,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "Unknown\u20b926.5K",
+    "rect": "1004,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "legend-row  ",
+    "text": "500084\u20b90",
+    "rect": "1004,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "download-menu",
+    "text": "XLSXPDF",
+    "rect": "1383,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "TABLE",
+    "class": "sd-table",
+    "text": "NameTotal SalesSai Kiran\u20b997.24KUnknown\u20b926.5KGowtham\u20b91.1K",
+    "rect": "70,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "TABLE",
+    "class": "sd-table",
+    "text": "NameTotal SalesNo data available",
+    "rect": "526,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "TABLE",
+    "class": "sd-table",
+    "text": "NameTotal SalesHYDERABAD\u20b997.24KUnknown\u20b926.5KRANGAREDDY\u20b91.1K",
+    "rect": "983,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "sidebar-popover-icon",
+    "text": "\ud83d\udce2",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "sidebar-popover-content",
+    "text": "Threads moved hereYou can now find all your threads in the m",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "SPAN",
+    "class": "primary-font-semibold sidebar-popover-content-title",
+    "text": "Threads moved here",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "SPAN",
+    "class": "primary-font-regular sidebar-popover-content-description",
+    "text": "You can now find all your threads in the main navigation",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "DIV",
+    "class": "sidebar-popover-footer",
+    "text": "Ok, Got it",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  },
+  {
+    "tag": "BUTTON",
+    "class": "zo-button zo-button--primary zo-button--small zo-button--squared sidebar-popover-button",
+    "text": "Ok, Got it",
+    "rect": "76,{Math.round(rect.y)} {Math.round(rect.w)}x{Math.round(rect.h)}",
+    "role": "",
+    "id": ""
+  }
+]

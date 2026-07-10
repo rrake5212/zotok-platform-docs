@@ -1,0 +1,315 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/catalog/schemes",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Schemes",
+  "timestamp": "2026-07-10T18:06:31.673861",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Schemes",
+        "Applies to",
+        "Scheme Type",
+        "Status",
+        "Price",
+        "Price With Margin",
+        "Min Qty",
+        "Free Qty",
+        "Discount",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Schemes",
+          "Applies to",
+          "Scheme Type",
+          "Status",
+          "Price",
+          "Price With Margin",
+          "Min Qty",
+          "Free Qty",
+          "Discount",
+          "Actions"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL2332Scheduled: 03/07/2026 to 06/07/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL2332Scheduled: 12/04/2026 to 13/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL233562Scheduled: 12/04/2026 to 13/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "30.00%"
+        ],
+        [
+          "All products promotionsScheme Code: ALLPROD818Scheduled: 14/04/2026 to 16/04/202",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "test offer abilityScheme Code: feawfrtScheduled: 15/04/2026 to 21/04/2026",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "20",
+          "-",
+          "5.00%"
+        ],
+        [
+          "Division schemeScheme Code: division11Scheduled: 14/04/2026 to 16/04/2026",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All products promotionScheme Code: ALLPROD77Scheduled: 15/04/2026 to 16/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "Specific customers schemeScheme Code: SpeprodScheduled: 15/04/2026 to 17/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "appy scheme for divisions(Steel)Scheme Code: sch004Scheduled: 18/05/2026 to 30/0",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "45.00%"
+        ],
+        [
+          "apply discount for categories(nylon)Scheme Code: sch009Scheduled: 18/05/2026 to ",
+          "Categories",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "4",
+          "-",
+          "5.00%"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Schemes",
+        "Applies to",
+        "Scheme Type",
+        "Status",
+        "Price",
+        "Price With Margin",
+        "Min Qty",
+        "Free Qty",
+        "Discount",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Schemes",
+          "Applies to",
+          "Scheme Type",
+          "Status",
+          "Price",
+          "Price With Margin",
+          "Min Qty",
+          "Free Qty",
+          "Discount",
+          "Actions"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL2332Scheduled: 03/07/2026 to 06/07/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL2332Scheduled: 12/04/2026 to 13/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All Products DiscountScheme Code: ALL233562Scheduled: 12/04/2026 to 13/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "30.00%"
+        ],
+        [
+          "All products promotionsScheme Code: ALLPROD818Scheduled: 14/04/2026 to 16/04/202",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "test offer abilityScheme Code: feawfrtScheduled: 15/04/2026 to 21/04/2026",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "20",
+          "-",
+          "5.00%"
+        ],
+        [
+          "Division schemeScheme Code: division11Scheduled: 14/04/2026 to 16/04/2026",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "All products promotionScheme Code: ALLPROD77Scheduled: 15/04/2026 to 16/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "Specific customers schemeScheme Code: SpeprodScheduled: 15/04/2026 to 17/04/2026",
+          "All Products",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "1",
+          "-",
+          "10.00%"
+        ],
+        [
+          "appy scheme for divisions(Steel)Scheme Code: sch004Scheduled: 18/05/2026 to 30/0",
+          "Divisions",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "5",
+          "-",
+          "45.00%"
+        ],
+        [
+          "apply discount for categories(nylon)Scheme Code: sch009Scheduled: 18/05/2026 to ",
+          "Categories",
+          "Offer Discount",
+          "Expired",
+          "-",
+          "-",
+          "4",
+          "-",
+          "5.00%"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired",
+    "Expired"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_schemes.png"
+}

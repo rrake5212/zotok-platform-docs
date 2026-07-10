@@ -1,0 +1,431 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/myaccount/bankDetails",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Bank Details",
+  "timestamp": "2026-07-10T18:08:48.396645",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "S.no",
+        "Account Number",
+        "Account Holder Name",
+        "Bank Name",
+        "IFSC Code",
+        "CFA",
+        "Actions",
+        "S.no",
+        "Phone Number",
+        "UPI ID",
+        "UPI Account Holder Name",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Account Number",
+          "Account Holder Name",
+          "Bank Name",
+          "IFSC Code",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "239888888888883209Payment AdvisePayment Reminders",
+          "zot test",
+          "fahhhhh",
+          "8293AKJF2I39934",
+          "All"
+        ],
+        [
+          "2",
+          "8937489835983",
+          "JHJHJKHKJF",
+          "JHjkfjkdfkj",
+          "KJHKJDFHJH",
+          "All"
+        ],
+        [
+          "S.no",
+          "Phone Number",
+          "UPI ID",
+          "UPI Account Holder Name",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "+911111111398Payment AdvisePayment Reminders",
+          "something@upi",
+          "Checking something",
+          "All"
+        ],
+        [
+          "2",
+          "+91911505965626",
+          "ddbo1@ybl",
+          "DGBD",
+          "All"
+        ],
+        [
+          "3",
+          "+14005260500",
+          "hdb@ybl",
+          "Test Account",
+          "All"
+        ],
+        [
+          "4",
+          "+911400526050",
+          "hd566b@ybl",
+          "Test Account UPI",
+          "All"
+        ],
+        [
+          "5",
+          "+9193123456789",
+          "gvgv@gyvh",
+          "hbhbj",
+          "All"
+        ],
+        [
+          "6",
+          "+2875875875",
+          "vsreddy@sbi",
+          "Sridhar",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Account Number",
+        "Account Holder Name",
+        "Bank Name",
+        "IFSC Code",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Account Number",
+          "Account Holder Name",
+          "Bank Name",
+          "IFSC Code",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "239888888888883209Payment AdvisePayment Reminders",
+          "zot test",
+          "fahhhhh",
+          "8293AKJF2I39934",
+          "All"
+        ],
+        [
+          "2",
+          "8937489835983",
+          "JHJHJKHKJF",
+          "JHjkfjkdfkj",
+          "KJHKJDFHJH",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Account Number",
+        "Account Holder Name",
+        "Bank Name",
+        "IFSC Code",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Account Number",
+          "Account Holder Name",
+          "Bank Name",
+          "IFSC Code",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "239888888888883209Payment AdvisePayment Reminders",
+          "zot test",
+          "fahhhhh",
+          "8293AKJF2I39934",
+          "All"
+        ],
+        [
+          "2",
+          "8937489835983",
+          "JHJHJKHKJF",
+          "JHjkfjkdfkj",
+          "KJHKJDFHJH",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Account Number",
+        "Account Holder Name",
+        "Bank Name",
+        "IFSC Code",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Account Number",
+          "Account Holder Name",
+          "Bank Name",
+          "IFSC Code",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "239888888888883209Payment AdvisePayment Reminders",
+          "zot test",
+          "fahhhhh",
+          "8293AKJF2I39934",
+          "All"
+        ],
+        [
+          "2",
+          "8937489835983",
+          "JHJHJKHKJF",
+          "JHjkfjkdfkj",
+          "KJHKJDFHJH",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Phone Number",
+        "UPI ID",
+        "UPI Account Holder Name",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Phone Number",
+          "UPI ID",
+          "UPI Account Holder Name",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "+911111111398Payment AdvisePayment Reminders",
+          "something@upi",
+          "Checking something",
+          "All"
+        ],
+        [
+          "2",
+          "+91911505965626",
+          "ddbo1@ybl",
+          "DGBD",
+          "All"
+        ],
+        [
+          "3",
+          "+14005260500",
+          "hdb@ybl",
+          "Test Account",
+          "All"
+        ],
+        [
+          "4",
+          "+911400526050",
+          "hd566b@ybl",
+          "Test Account UPI",
+          "All"
+        ],
+        [
+          "5",
+          "+9193123456789",
+          "gvgv@gyvh",
+          "hbhbj",
+          "All"
+        ],
+        [
+          "6",
+          "+2875875875",
+          "vsreddy@sbi",
+          "Sridhar",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Phone Number",
+        "UPI ID",
+        "UPI Account Holder Name",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Phone Number",
+          "UPI ID",
+          "UPI Account Holder Name",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "+911111111398Payment AdvisePayment Reminders",
+          "something@upi",
+          "Checking something",
+          "All"
+        ],
+        [
+          "2",
+          "+91911505965626",
+          "ddbo1@ybl",
+          "DGBD",
+          "All"
+        ],
+        [
+          "3",
+          "+14005260500",
+          "hdb@ybl",
+          "Test Account",
+          "All"
+        ],
+        [
+          "4",
+          "+911400526050",
+          "hd566b@ybl",
+          "Test Account UPI",
+          "All"
+        ],
+        [
+          "5",
+          "+9193123456789",
+          "gvgv@gyvh",
+          "hbhbj",
+          "All"
+        ],
+        [
+          "6",
+          "+2875875875",
+          "vsreddy@sbi",
+          "Sridhar",
+          "All"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.no",
+        "Phone Number",
+        "UPI ID",
+        "UPI Account Holder Name",
+        "CFA",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "S.no",
+          "Phone Number",
+          "UPI ID",
+          "UPI Account Holder Name",
+          "CFA",
+          "Actions"
+        ],
+        [
+          "1",
+          "+911111111398Payment AdvisePayment Reminders",
+          "something@upi",
+          "Checking something",
+          "All"
+        ],
+        [
+          "2",
+          "+91911505965626",
+          "ddbo1@ybl",
+          "DGBD",
+          "All"
+        ],
+        [
+          "3",
+          "+14005260500",
+          "hdb@ybl",
+          "Test Account",
+          "All"
+        ],
+        [
+          "4",
+          "+911400526050",
+          "hd566b@ybl",
+          "Test Account UPI",
+          "All"
+        ],
+        [
+          "5",
+          "+9193123456789",
+          "gvgv@gyvh",
+          "hbhbj",
+          "All"
+        ],
+        [
+          "6",
+          "+2875875875",
+          "vsreddy@sbi",
+          "Sridhar",
+          "All"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Add Account"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "Payment AdvisePayment Reminders",
+    "Payment Advise",
+    "Payment Reminders",
+    "Payment AdvisePayment Reminders",
+    "Payment Advise",
+    "Payment Reminders"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_bank_details.png"
+}

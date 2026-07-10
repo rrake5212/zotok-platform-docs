@@ -1,0 +1,205 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/invoice-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Invoice Report",
+  "timestamp": "2026-07-10T18:07:27.422029",
+  "headings": [],
+  "kpis": [
+    "Total Invoices Issued1",
+    "1",
+    "Total Invoice Value\u20b997.24K",
+    "\u20b997.24K",
+    "Number of Paid Invoices0",
+    "0",
+    "Number of Unpaid Invoices1",
+    "1",
+    "Total Outstanding Amount\u20b997.24K",
+    "\u20b997.24K"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Invoice Date",
+        "Customer Name",
+        "Invoice Number",
+        "Status",
+        "Invoice Value",
+        "Due Date",
+        "Order Number",
+        "Order value",
+        "Number of SKUs",
+        "Dispatch Doc Number",
+        "Dispacth Date"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Invoice Date",
+          "Customer Name",
+          "Invoice Number",
+          "Status",
+          "Invoice Value",
+          "Due Date",
+          "Order Number",
+          "Order value",
+          "Number of SKUs",
+          "Dispatch Doc Number",
+          "Dispacth Date"
+        ],
+        [
+          "1",
+          "6th Jul, 2026",
+          "SKSai KiranSai Kiran",
+          "725/2026-27",
+          "Pending",
+          "\u20b997,241",
+          "24th Sep, 2026",
+          "\u20b90",
+          "0",
+          "-",
+          "-"
+        ],
+        [
+          "1Total Invoices",
+          "\u20b997,241Total Invoice Value",
+          "-",
+          "\u20b90Total Order Value",
+          "-"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Invoice Date",
+        "Customer Name",
+        "Invoice Number",
+        "Status",
+        "Invoice Value",
+        "Due Date",
+        "Order Number",
+        "Order value",
+        "Number of SKUs",
+        "Dispatch Doc Number",
+        "Dispacth Date"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Invoice Date",
+          "Customer Name",
+          "Invoice Number",
+          "Status",
+          "Invoice Value",
+          "Due Date",
+          "Order Number",
+          "Order value",
+          "Number of SKUs",
+          "Dispatch Doc Number",
+          "Dispacth Date"
+        ],
+        [
+          "1",
+          "6th Jul, 2026",
+          "SKSai KiranSai Kiran",
+          "725/2026-27",
+          "Pending",
+          "\u20b997,241",
+          "24th Sep, 2026",
+          "\u20b90",
+          "0",
+          "-",
+          "-"
+        ],
+        [
+          "1Total Invoices",
+          "\u20b997,241Total Invoice Value",
+          "-",
+          "\u20b90Total Order Value",
+          "-"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Invoice Date",
+        "Customer Name",
+        "Invoice Number",
+        "Status",
+        "Invoice Value",
+        "Due Date",
+        "Order Number",
+        "Order value",
+        "Number of SKUs",
+        "Dispatch Doc Number",
+        "Dispacth Date"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Invoice Date",
+          "Customer Name",
+          "Invoice Number",
+          "Status",
+          "Invoice Value",
+          "Due Date",
+          "Order Number",
+          "Order value",
+          "Number of SKUs",
+          "Dispatch Doc Number",
+          "Dispacth Date"
+        ],
+        [
+          "1",
+          "6th Jul, 2026",
+          "SKSai KiranSai Kiran",
+          "725/2026-27",
+          "Pending",
+          "\u20b997,241",
+          "24th Sep, 2026",
+          "\u20b90",
+          "0",
+          "-",
+          "-"
+        ],
+        [
+          "1Total Invoices",
+          "\u20b997,241Total Invoice Value",
+          "-",
+          "\u20b90Total Order Value",
+          "-"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "Invoice Report05 Jul - 10 Jul 2026DownloadTotal Invoices Issued1Total Invoice Value\u20b997.24KNumber of Paid Invoices0Number of Unpaid Invoices1Total Outstanding Amount\u20b997.24K1 - 1 of 120 / pageSchedule0/3 scheduledS.NoInvoice DateCustomer NameInvoice NumberStatusInvoice ValueDue DateOrder NumberOrder v",
+    "\u20b997.24K",
+    "\u20b997.24K"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_invoice_report.png"
+}

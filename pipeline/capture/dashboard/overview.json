@@ -1,0 +1,339 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/home",
+  "title": "Z\u00f6Tok",
+  "module": "Dashboard",
+  "sub_module": "Overview",
+  "timestamp": "2026-07-10T18:05:06.031673",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "State",
+        "totalSales",
+        "categoryname",
+        "categorycode",
+        "averageSales",
+        "totalInvoices",
+        "totalCgstAmount",
+        "orderNumbers",
+        "orderValue",
+        "averageQty",
+        "totalQty"
+      ],
+      "rows": [
+        [
+          "State",
+          "totalSales",
+          "categoryname",
+          "categorycode",
+          "averageSales",
+          "totalInvoices",
+          "totalCgstAmount",
+          "orderNumbers",
+          "orderValue",
+          "averageQty",
+          "totalQty"
+        ],
+        [
+          "Telangana",
+          "\u20b982.41K",
+          "\u2014",
+          "\u2014",
+          "\u20b927.47K",
+          "3",
+          "\u20b97.42K",
+          "\u2014",
+          "\u2014",
+          "3.333",
+          "10"
+        ],
+        [
+          "Unknown",
+          "\u20b926.5K",
+          "\u2014",
+          "\u2014",
+          "\u20b913.25K",
+          "1",
+          "\u20b91.25K",
+          "\u2014",
+          "\u2014",
+          "3.5",
+          "7"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "State",
+        "totalSales",
+        "categoryname",
+        "categorycode",
+        "averageSales",
+        "totalInvoices",
+        "totalCgstAmount",
+        "orderNumbers",
+        "orderValue",
+        "averageQty",
+        "totalQty"
+      ],
+      "rows": [
+        [
+          "State",
+          "totalSales",
+          "categoryname",
+          "categorycode",
+          "averageSales",
+          "totalInvoices",
+          "totalCgstAmount",
+          "orderNumbers",
+          "orderValue",
+          "averageQty",
+          "totalQty"
+        ],
+        [
+          "Telangana",
+          "\u20b982.41K",
+          "\u2014",
+          "\u2014",
+          "\u20b927.47K",
+          "3",
+          "\u20b97.42K",
+          "\u2014",
+          "\u2014",
+          "3.333",
+          "10"
+        ],
+        [
+          "Unknown",
+          "\u20b926.5K",
+          "\u2014",
+          "\u2014",
+          "\u20b913.25K",
+          "1",
+          "\u20b91.25K",
+          "\u2014",
+          "\u2014",
+          "3.5",
+          "7"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Name",
+        "Total Sales"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Total Sales"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Name",
+        "Total Sales"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Total Sales"
+        ],
+        [
+          "No data available"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Name",
+        "Total Sales"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Total Sales"
+        ],
+        [
+          "HYDERABAD",
+          "\u20b997.24K"
+        ],
+        [
+          "Unknown",
+          "\u20b926.5K"
+        ],
+        [
+          "RANGAREDDY",
+          "\u20b91.1K"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Today\u20b90",
+    "Yesterday\u20b90",
+    "Unpaid Invoice Value\u20b91.25L",
+    "Total Sales\u20b91.25L",
+    "Sai Kiran\u20b997.24K",
+    "Unknown\u20b926.5K",
+    "Gowtham\u20b91.1K"
+  ],
+  "form_fields": [
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "customerId",
+      "label": "customerId",
+      "required": false
+    },
+    {
+      "type": "select-one",
+      "name": "",
+      "placeholder": "",
+      "label": "Page size",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "pincode",
+      "label": "pincode",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "District",
+      "label": "District",
+      "required": false
+    },
+    {
+      "type": "select-one",
+      "name": "",
+      "placeholder": "",
+      "label": "Page size",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "State",
+      "label": "State",
+      "required": false
+    },
+    {
+      "type": "select-one",
+      "name": "",
+      "placeholder": "",
+      "label": "Page size",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "customerId",
+      "label": "customerId",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "productId",
+      "label": "productId",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "District",
+      "label": "District",
+      "required": false
+    },
+    {
+      "type": "select-one",
+      "name": "",
+      "placeholder": "",
+      "label": "Page size",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "1 - 3 of 310 / Page20 / Page50 / Page100 / Page",
+    "1 - 3 of 310 / Page20 / Page50 / Page100 / Page",
+    "1 - 2 of 210 / Page20 / Page50 / Page100 / Page",
+    "1 - 3 of 310 / Page20 / Page50 / Page100 / Page"
+  ],
+  "empty_states": [
+    "No data available"
+  ],
+  "select_options": [
+    "10 / Page",
+    "20 / Page",
+    "50 / Page",
+    "100 / Page",
+    "10 / Page",
+    "20 / Page",
+    "50 / Page",
+    "100 / Page",
+    "10 / Page",
+    "20 / Page",
+    "50 / Page",
+    "100 / Page",
+    "10 / Page",
+    "20 / Page",
+    "50 / Page",
+    "100 / Page"
+  ],
+  "screenshot": "capture/screenshots/dashboard_overview.png"
+}

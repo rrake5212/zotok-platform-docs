@@ -1,0 +1,460 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/invoices",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Invoices",
+  "timestamp": "2026-07-10T18:06:11.263240",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Invoice No. & Date",
+        "Due Date",
+        "Invoice Amount",
+        "Customer Name",
+        "Message Status",
+        "Engaged",
+        "Status",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Invoice No. & Date",
+          "Due Date",
+          "Invoice Amount",
+          "Customer Name",
+          "Message Status",
+          "Engaged",
+          "Status",
+          "Actions"
+        ],
+        [
+          "725/2026-276th Jul, 2026",
+          "24th Sep, 2026",
+          "\u20b997,241",
+          "SKSai Kiran",
+          "Delivered",
+          "-",
+          "Pending"
+        ],
+        [
+          "1553262623rd Jul, 2026",
+          "16th Jul, 2026",
+          "\u20b9600",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "232322nd Jul, 2026",
+          "8th Aug, 2026",
+          "\u20b9500",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "2627632nd Jul, 2026",
+          "12th Jul, 2026",
+          "\u20b926,500",
+          "OTOmarzai Traders",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "PC-178273567382430th Jun, 2026",
+          "10th Jul, 2026",
+          "\u20b92,777",
+          "VAVaishnavi",
+          "Seen",
+          "Generate payment advice",
+          "Paid"
+        ],
+        [
+          "652625024th Jun, 2026",
+          "7th Jul, 2026",
+          "\u20b92,316.34",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "10000121st Jun, 2026",
+          "2nd Jul, 2026",
+          "\u20b94,000",
+          "SSSHLOK SUPER MART",
+          "-",
+          "-",
+          "Paid"
+        ],
+        [
+          "54632616th Jun, 2026",
+          "29th Jun, 2026",
+          "\u20b92,167",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "Inv166260116th Jun, 2026",
+          "26th Jun, 2026",
+          "\u20b91,000",
+          "ZOZotokqa8",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "Invoice73715th Jun, 2026",
+          "3rd Sep, 2026",
+          "\u20b93,438",
+          "SKSai Kiran",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "Invoice83815th Jun, 2026",
+          "25th Jun, 2026",
+          "\u20b9288",
+          "VAVaishnavi",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001814th Jun, 2026",
+          "28th Jun, 2026",
+          "\u20b938,144.31",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001914th Jun, 2026",
+          "29th Jun, 2026",
+          "\u20b918,480.80",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001014th Jun, 2026",
+          "25th Jun, 2026",
+          "\u20b914,306.40",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "202030112th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b91,200",
+          "UEumesh ent",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "65263212th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b9550",
+          "UEumesh ent",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "THP/25-26/1450/8612th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b93,347",
+          "ZOZotokqa8",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "testinvoice101011th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b92,391",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "Invoice737311th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b9397",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "IN2112910th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b92,36,000",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Invoice No. & Date",
+        "Due Date",
+        "Invoice Amount",
+        "Customer Name",
+        "Message Status",
+        "Engaged",
+        "Status",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Invoice No. & Date",
+          "Due Date",
+          "Invoice Amount",
+          "Customer Name",
+          "Message Status",
+          "Engaged",
+          "Status",
+          "Actions"
+        ],
+        [
+          "725/2026-276th Jul, 2026",
+          "24th Sep, 2026",
+          "\u20b997,241",
+          "SKSai Kiran",
+          "Delivered",
+          "-",
+          "Pending"
+        ],
+        [
+          "1553262623rd Jul, 2026",
+          "16th Jul, 2026",
+          "\u20b9600",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "232322nd Jul, 2026",
+          "8th Aug, 2026",
+          "\u20b9500",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "2627632nd Jul, 2026",
+          "12th Jul, 2026",
+          "\u20b926,500",
+          "OTOmarzai Traders",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "PC-178273567382430th Jun, 2026",
+          "10th Jul, 2026",
+          "\u20b92,777",
+          "VAVaishnavi",
+          "Seen",
+          "Generate payment advice",
+          "Paid"
+        ],
+        [
+          "652625024th Jun, 2026",
+          "7th Jul, 2026",
+          "\u20b92,316.34",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "10000121st Jun, 2026",
+          "2nd Jul, 2026",
+          "\u20b94,000",
+          "SSSHLOK SUPER MART",
+          "-",
+          "-",
+          "Paid"
+        ],
+        [
+          "54632616th Jun, 2026",
+          "29th Jun, 2026",
+          "\u20b92,167",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "Inv166260116th Jun, 2026",
+          "26th Jun, 2026",
+          "\u20b91,000",
+          "ZOZotokqa8",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "Invoice73715th Jun, 2026",
+          "3rd Sep, 2026",
+          "\u20b93,438",
+          "SKSai Kiran",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "Invoice83815th Jun, 2026",
+          "25th Jun, 2026",
+          "\u20b9288",
+          "VAVaishnavi",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001814th Jun, 2026",
+          "28th Jun, 2026",
+          "\u20b938,144.31",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001914th Jun, 2026",
+          "29th Jun, 2026",
+          "\u20b918,480.80",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "In0001014th Jun, 2026",
+          "25th Jun, 2026",
+          "\u20b914,306.40",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "202030112th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b91,200",
+          "UEumesh ent",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "65263212th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b9550",
+          "UEumesh ent",
+          "-",
+          "-",
+          "Pending"
+        ],
+        [
+          "THP/25-26/1450/8612th Jun, 2026",
+          "22nd Jun, 2026",
+          "\u20b93,347",
+          "ZOZotokqa8",
+          "Seen",
+          "-",
+          "Pending"
+        ],
+        [
+          "testinvoice101011th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b92,391",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "Invoice737311th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b9397",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Paid"
+        ],
+        [
+          "IN2112910th Jun, 2026",
+          "21st Jun, 2026",
+          "\u20b92,36,000",
+          "GOGowtham",
+          "Seen",
+          "-",
+          "Pending"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "Bulk Actions",
+    "725/2026-276th Jul, 2026",
+    "Delivered",
+    "1553262623rd Jul, 2026",
+    "232322nd Jul, 2026",
+    "2627632nd Jul, 2026",
+    "PC-178273567382430th Jun, 2026",
+    "Generate payment advice",
+    "652625024th Jun, 2026",
+    "10000121st Jun, 2026",
+    "54632616th Jun, 2026",
+    "Inv166260116th Jun, 2026",
+    "Invoice73715th Jun, 2026",
+    "Invoice83815th Jun, 2026",
+    "In0001814th Jun, 2026",
+    "In0001914th Jun, 2026",
+    "In0001014th Jun, 2026",
+    "202030112th Jun, 2026",
+    "65263212th Jun, 2026",
+    "THP/25-26/1450/8612th Jun, 2026",
+    "testinvoice101011th Jun, 2026",
+    "Invoice737311th Jun, 2026",
+    "IN2112910th Jun, 2026"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_invoices.png"
+}

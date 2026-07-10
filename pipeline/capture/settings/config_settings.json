@@ -1,0 +1,28 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/workspace-config",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Config Settings",
+  "timestamp": "2026-07-10T18:08:57.200002",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_config_settings.png"
+}

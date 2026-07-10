@@ -1,0 +1,473 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/priceList",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Price List",
+  "timestamp": "2026-07-10T18:06:37.117056",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Name",
+        "Code",
+        "Created On",
+        "Criteria",
+        "No.Of Products",
+        "Status",
+        "Customers",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Code",
+          "Created On",
+          "Criteria",
+          "No.Of Products",
+          "Status",
+          "Customers",
+          "Actions"
+        ],
+        [
+          "TTTSS0001",
+          "TTTSS0001",
+          "22/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "-"
+        ],
+        [
+          "JUN0001/PL/01",
+          "JUN0001/PL/01",
+          "16/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Arya Mithun"
+        ],
+        [
+          "JUNPL0101",
+          "JUNPL0101",
+          "16/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Jilhewar Kirana Merchant"
+        ],
+        [
+          "Regular Sales Price",
+          "Regular Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+2"
+        ],
+        [
+          "Regular Purchase Price",
+          "Regular Purchase Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active"
+        ],
+        [
+          "Small Account Sales Price",
+          "Small Account Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active"
+        ],
+        [
+          "Discount Purchase Price",
+          "Discount Purchase Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+1"
+        ],
+        [
+          "Distributor Sales Price",
+          "Distributor Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+1"
+        ],
+        [
+          "Base Price",
+          "Base Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Shivanshi Purohit +5"
+        ],
+        [
+          "Testing HD 11",
+          "PL4865",
+          "05/06/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "sp pearles01 ent  +6"
+        ],
+        [
+          "SA4421",
+          "AN5732",
+          "25/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "Sai Kiran"
+        ],
+        [
+          "YA3705",
+          "NI6600",
+          "12/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "YA4261",
+          "NI4503",
+          "12/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "Hyderabad Test Price list",
+          "56250622",
+          "05/05/2026",
+          "cfa-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "XTL/2627/005",
+          "XTL/2627/005",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/007",
+          "XTL/2627/007",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/0012",
+          "XTL/2627/0012",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/0022",
+          "XTL/2627/0022",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/002",
+          "XTL/2627/002",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/001",
+          "XTL/2627/001",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Name",
+        "Code",
+        "Created On",
+        "Criteria",
+        "No.Of Products",
+        "Status",
+        "Customers",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Code",
+          "Created On",
+          "Criteria",
+          "No.Of Products",
+          "Status",
+          "Customers",
+          "Actions"
+        ],
+        [
+          "TTTSS0001",
+          "TTTSS0001",
+          "22/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "-"
+        ],
+        [
+          "JUN0001/PL/01",
+          "JUN0001/PL/01",
+          "16/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Arya Mithun"
+        ],
+        [
+          "JUNPL0101",
+          "JUNPL0101",
+          "16/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Jilhewar Kirana Merchant"
+        ],
+        [
+          "Regular Sales Price",
+          "Regular Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+2"
+        ],
+        [
+          "Regular Purchase Price",
+          "Regular Purchase Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active"
+        ],
+        [
+          "Small Account Sales Price",
+          "Small Account Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active"
+        ],
+        [
+          "Discount Purchase Price",
+          "Discount Purchase Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+1"
+        ],
+        [
+          "Distributor Sales Price",
+          "Distributor Sales Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "+1"
+        ],
+        [
+          "Base Price",
+          "Base Price",
+          "12/06/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Shivanshi Purohit +5"
+        ],
+        [
+          "Testing HD 11",
+          "PL4865",
+          "05/06/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "sp pearles01 ent  +6"
+        ],
+        [
+          "SA4421",
+          "AN5732",
+          "25/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "Sai Kiran"
+        ],
+        [
+          "YA3705",
+          "NI6600",
+          "12/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "YA4261",
+          "NI4503",
+          "12/05/2026",
+          "customer-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "Hyderabad Test Price list",
+          "56250622",
+          "05/05/2026",
+          "cfa-price",
+          "0",
+          "Expired",
+          "-"
+        ],
+        [
+          "XTL/2627/005",
+          "XTL/2627/005",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/007",
+          "XTL/2627/007",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/0012",
+          "XTL/2627/0012",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/0022",
+          "XTL/2627/0022",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/002",
+          "XTL/2627/002",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ],
+        [
+          "XTL/2627/001",
+          "XTL/2627/001",
+          "16/04/2026",
+          "customer-price",
+          "0",
+          "Active",
+          "Sumit Shah"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List",
+    "TTTSS0001",
+    "TTTSS0001",
+    "JUN0001/PL/01",
+    "JUN0001/PL/01",
+    "JUNPL0101",
+    "JUNPL0101",
+    "Regular Sales Price",
+    "Regular Sales Price",
+    "Regular Purchase Price",
+    "Regular Purchase Price",
+    "Small Account Sales Price",
+    "Small Account Sales Price",
+    "Discount Purchase Price",
+    "Discount Purchase Price",
+    "Distributor Sales Price",
+    "Distributor Sales Price",
+    "Base Price",
+    "Base Price",
+    "Testing HD 11",
+    "PL4865",
+    "SA4421",
+    "AN5732",
+    "YA3705",
+    "NI6600",
+    "YA4261",
+    "NI4503",
+    "Hyderabad Test Price list",
+    "56250622",
+    "XTL/2627/005",
+    "XTL/2627/005",
+    "XTL/2627/007",
+    "XTL/2627/007",
+    "XTL/2627/0012",
+    "XTL/2627/0012",
+    "XTL/2627/0022",
+    "XTL/2627/0022",
+    "XTL/2627/002",
+    "XTL/2627/002",
+    "XTL/2627/001",
+    "XTL/2627/001"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_price_list.png"
+}

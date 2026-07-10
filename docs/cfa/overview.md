@@ -1,0 +1,53 @@
+---
+sidebar_position: 37
+title: "CFA"
+---
+
+# CFA
+
+## Overview
+
+This page provides access to cfa functionality within the ZöTok platform.
+
+### Data Table
+
+| Name | Type | GST | Mobile Number | CFA Code | City | State | Pin Code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CDCFA DIST338 | - | - | +93234234343 | CF338 | Nanded | MAHARASHTRA | 400338 |
+| CFCFA-141052 | CFA/Godown | - | +914102148521 | CFA-141052 | Delhi | DELHI | 214102 |
+| CDCFA DIST171 | CFA | - | +912324252771 | CF171 | Nanded | MAHARASHTRA | 400171 |
+| CDCFA DIST445 | CFA | - | +912324253045 | CF445 | Nanded | MAHARASHTRA | 400445 |
+| CDCFA DIST464 | CFA | - | +912324253064 | CF464 | Nanded | MAHARASHTRA | 400464 |
+| CDCFA DIST447 | CFA | - | +912324253047 | CF447 | Nanded | MAHARASHTRA | 400447 |
+| CDCFA DIST81 | CFA | - | +912324252681 | CF081 | Nanded | MAHARASHTRA | 400081 |
+| CDCFA DIST419 | CFA | - | +912324253019 | CF419 | Nanded | MAHARASHTRA | 400419 |
+| CDCFA DIST133 | CFA | - | +912324252733 | CF133 | Nanded | MAHARASHTRA | 400133 |
+| CDCFA DIST303 | CFA | - | +912324252903 | CF303 | Nanded | MAHARASHTRA | 400303 |
+| CDCFA DIST73 | CFA | - | +912324252673 | CF073 | Nanded | MAHARASHTRA | 400073 |
+| CDCFA DIST189 | CFA | - | +912324252789 | CF189 | Nanded | MAHARASHTRA | 400189 |
+| CDCFA DIST332 | CFA | - | +912324252932 | CF332 | Nanded | MAHARASHTRA | 400332 |
+| CDCFA DIST247 | CFA | - | +912324252847 | CF247 | Nanded | MAHARASHTRA | 400247 |
+| TETesting_cfaa | CFA | - | +50334242443 | CFA | hyderabad | TELANGANA | 600058 |
+| *5 more rows* |
+
+| Name | Type | GST | Mobile Number | CFA Code | City | State | Pin Code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CDCFA DIST338 | - | - | +93234234343 | CF338 | Nanded | MAHARASHTRA | 400338 |
+| CFCFA-141052 | CFA/Godown | - | +914102148521 | CFA-141052 | Delhi | DELHI | 214102 |
+| CDCFA DIST171 | CFA | - | +912324252771 | CF171 | Nanded | MAHARASHTRA | 400171 |
+| CDCFA DIST445 | CFA | - | +912324253045 | CF445 | Nanded | MAHARASHTRA | 400445 |
+| CDCFA DIST464 | CFA | - | +912324253064 | CF464 | Nanded | MAHARASHTRA | 400464 |
+| CDCFA DIST447 | CFA | - | +912324253047 | CF447 | Nanded | MAHARASHTRA | 400447 |
+| CDCFA DIST81 | CFA | - | +912324252681 | CF081 | Nanded | MAHARASHTRA | 400081 |
+| CDCFA DIST419 | CFA | - | +912324253019 | CF419 | Nanded | MAHARASHTRA | 400419 |
+| CDCFA DIST133 | CFA | - | +912324252733 | CF133 | Nanded | MAHARASHTRA | 400133 |
+| CDCFA DIST303 | CFA | - | +912324252903 | CF303 | Nanded | MAHARASHTRA | 400303 |
+| CDCFA DIST73 | CFA | - | +912324252673 | CF073 | Nanded | MAHARASHTRA | 400073 |
+| CDCFA DIST189 | CFA | - | +912324252789 | CF189 | Nanded | MAHARASHTRA | 400189 |
+| CDCFA DIST332 | CFA | - | +912324252932 | CF332 | Nanded | MAHARASHTRA | 400332 |
+| CDCFA DIST247 | CFA | - | +912324252847 | CF247 | Nanded | MAHARASHTRA | 400247 |
+| TETesting_cfaa | CFA | - | +50334242443 | CFA | hyderabad | TELANGANA | 600058 |
+| *5 more rows* |
+
+---
+*Route: `/admin/cfa`*

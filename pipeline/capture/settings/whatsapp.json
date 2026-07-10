@@ -1,0 +1,226 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/whatsapp/onboarding",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "WhatsApp",
+  "timestamp": "2026-07-10T18:08:17.413163",
+  "headings": [
+    {
+      "tag": "H5",
+      "text": "WhatsApp Account Manager"
+    }
+  ],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "WABA ID",
+        "Display Name",
+        "WhatsApp Number",
+        "Message Limit",
+        "Quality Rating",
+        "Service Provider",
+        "Status",
+        "WABA Type",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "WABA ID",
+          "Display Name",
+          "WhatsApp Number",
+          "Message Limit",
+          "Quality Rating",
+          "Service Provider",
+          "Status",
+          "WABA Type",
+          "Actions"
+        ],
+        [
+          "933161282864956",
+          "Zotok QA",
+          "+917893034036",
+          "10000",
+          "Green",
+          "Aisensy",
+          "Active Now",
+          "Cloud API"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "WABA ID",
+        "Display Name",
+        "WhatsApp Number",
+        "Message Limit",
+        "Quality Rating",
+        "Service Provider",
+        "Status",
+        "WABA Type",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "WABA ID",
+          "Display Name",
+          "WhatsApp Number",
+          "Message Limit",
+          "Quality Rating",
+          "Service Provider",
+          "Status",
+          "WABA Type",
+          "Actions"
+        ],
+        [
+          "933161282864956",
+          "Zotok QA",
+          "+917893034036",
+          "10000",
+          "Green",
+          "Aisensy",
+          "Active Now",
+          "Cloud API"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "WABA ID",
+        "Display Name",
+        "WhatsApp Number",
+        "Message Limit",
+        "Quality Rating",
+        "Service Provider",
+        "Status",
+        "WABA Type",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "WABA ID",
+          "Display Name",
+          "WhatsApp Number",
+          "Message Limit",
+          "Quality Rating",
+          "Service Provider",
+          "Status",
+          "WABA Type",
+          "Actions"
+        ],
+        [
+          "933161282864956",
+          "Zotok QA",
+          "+917893034036",
+          "10000",
+          "Green",
+          "Aisensy",
+          "Active Now",
+          "Cloud API"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Mobile Number",
+        "Account Name",
+        "Status",
+        "Last Synced On",
+        "Chat History Available From",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Mobile Number",
+          "Account Name",
+          "Status",
+          "Last Synced On",
+          "Chat History Available From",
+          "Actions"
+        ],
+        [
+          "+917331193113",
+          "zotok ai testing",
+          "Active Now",
+          "32 Min Ago",
+          "09 Jul, 2026"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Mobile Number",
+        "Account Name",
+        "Status",
+        "Last Synced On",
+        "Chat History Available From",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Mobile Number",
+          "Account Name",
+          "Status",
+          "Last Synced On",
+          "Chat History Available From",
+          "Actions"
+        ],
+        [
+          "+917331193113",
+          "zotok ai testing",
+          "Active Now",
+          "32 Min Ago",
+          "09 Jul, 2026"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Mobile Number",
+        "Account Name",
+        "Status",
+        "Last Synced On",
+        "Chat History Available From",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Mobile Number",
+          "Account Name",
+          "Status",
+          "Last Synced On",
+          "Chat History Available From",
+          "Actions"
+        ],
+        [
+          "+917331193113",
+          "zotok ai testing",
+          "Active Now",
+          "32 Min Ago",
+          "09 Jul, 2026"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Connect/Create WABA"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "WhatsApp Account ManagerWABA AccountsConnect/Create WABAWABA IDDisplay NameWhatsApp NumberMessage LimitQuality RatingService ProviderStatusWABA TypeActions933161282864956Zotok QA+91789303403610000GreenAisensyActive NowCloud APIPersonal WhatsApp AccountsLink With Existing WhatsappMobile NumberAccount"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_whatsapp.png"
+}

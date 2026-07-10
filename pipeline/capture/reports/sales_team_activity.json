@@ -1,0 +1,255 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/sales-leaderboard-reports",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Sales Team Activity",
+  "timestamp": "2026-07-10T18:07:02.568518",
+  "headings": [],
+  "kpis": [
+    "Total Salespersons2",
+    "2",
+    "Total Customers2",
+    "2",
+    "Total Orders5",
+    "5",
+    "Total Order Value\u20b938.03K",
+    "\u20b938.03K",
+    "Total Payments Collected0",
+    "0"
+  ],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Salesperson Name",
+        "Customers",
+        "CheckIns",
+        "Number of Orders",
+        "Total SKU",
+        "Order Value",
+        "Payments Collected by UPI",
+        "Payments collected by Cash",
+        "Payments Collected by Cheque",
+        "Total Payments Collected"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Salesperson Name",
+          "Customers",
+          "CheckIns",
+          "Number of Orders",
+          "Total SKU",
+          "Order Value",
+          "Payments Collected by UPI",
+          "Payments collected by Cash",
+          "Payments Collected by Cheque",
+          "Total Payments Collected"
+        ],
+        [
+          "1",
+          "SRsridhar",
+          "0",
+          "0",
+          "2",
+          "3",
+          "\u20b937,100",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2",
+          "KAKalavathi",
+          "2",
+          "2",
+          "3",
+          "2",
+          "\u20b9930",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2Total Salespersons",
+          "2Total Customers",
+          "2Total Checkins",
+          "5Total Orders",
+          "5Total SKUs",
+          "\u20b938,030Total Order Value",
+          "\u20b90Total Payments Collected by UPI",
+          "\u20b90Total Payments Collected by Cash",
+          "\u20b90Total Payments Collected by Cheque",
+          "0Total Payments Collected"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Salesperson Name",
+        "Customers",
+        "CheckIns",
+        "Number of Orders",
+        "Total SKU",
+        "Order Value",
+        "Payments Collected by UPI",
+        "Payments collected by Cash",
+        "Payments Collected by Cheque",
+        "Total Payments Collected"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Salesperson Name",
+          "Customers",
+          "CheckIns",
+          "Number of Orders",
+          "Total SKU",
+          "Order Value",
+          "Payments Collected by UPI",
+          "Payments collected by Cash",
+          "Payments Collected by Cheque",
+          "Total Payments Collected"
+        ],
+        [
+          "1",
+          "SRsridhar",
+          "0",
+          "0",
+          "2",
+          "3",
+          "\u20b937,100",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2",
+          "KAKalavathi",
+          "2",
+          "2",
+          "3",
+          "2",
+          "\u20b9930",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2Total Salespersons",
+          "2Total Customers",
+          "2Total Checkins",
+          "5Total Orders",
+          "5Total SKUs",
+          "\u20b938,030Total Order Value",
+          "\u20b90Total Payments Collected by UPI",
+          "\u20b90Total Payments Collected by Cash",
+          "\u20b90Total Payments Collected by Cheque",
+          "0Total Payments Collected"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Salesperson Name",
+        "Customers",
+        "CheckIns",
+        "Number of Orders",
+        "Total SKU",
+        "Order Value",
+        "Payments Collected by UPI",
+        "Payments collected by Cash",
+        "Payments Collected by Cheque",
+        "Total Payments Collected"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Salesperson Name",
+          "Customers",
+          "CheckIns",
+          "Number of Orders",
+          "Total SKU",
+          "Order Value",
+          "Payments Collected by UPI",
+          "Payments collected by Cash",
+          "Payments Collected by Cheque",
+          "Total Payments Collected"
+        ],
+        [
+          "1",
+          "SRsridhar",
+          "0",
+          "0",
+          "2",
+          "3",
+          "\u20b937,100",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2",
+          "KAKalavathi",
+          "2",
+          "2",
+          "3",
+          "2",
+          "\u20b9930",
+          "\u20b90",
+          "\u20b90",
+          "\u20b90",
+          "0"
+        ],
+        [
+          "2Total Salespersons",
+          "2Total Customers",
+          "2Total Checkins",
+          "5Total Orders",
+          "5Total SKUs",
+          "\u20b938,030Total Order Value",
+          "\u20b90Total Payments Collected by UPI",
+          "\u20b90Total Payments Collected by Cash",
+          "\u20b90Total Payments Collected by Cheque",
+          "0Total Payments Collected"
+        ]
+      ]
+    }
+  ],
+  "buttons": [
+    "Download",
+    "Schedule"
+  ],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance",
+    "\u20b938.03K",
+    "sridhar",
+    "Kalavathi",
+    "2Total Checkins",
+    "5Total Orders"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_sales_team_activity.png"
+}

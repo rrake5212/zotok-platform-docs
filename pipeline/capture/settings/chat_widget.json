@@ -1,0 +1,126 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/whatsapp/botSetting",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Chat Widget",
+  "timestamp": "2026-07-10T18:08:20.688739",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [
+    "Copy code"
+  ],
+  "form_fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "ant design",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "ant design",
+      "required": false
+    },
+    {
+      "type": "textarea",
+      "name": "",
+      "placeholder": "Type Message here...",
+      "label": "Type Message here...",
+      "required": false
+    },
+    {
+      "type": "textarea",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "combobox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "text",
+      "name": "State",
+      "placeholder": "",
+      "label": "State",
+      "required": false
+    },
+    {
+      "type": "number",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "number",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "Primary ColorUsed in buttons, links message bubbles & more to highlight & emphasize",
+    "Primary Color",
+    "Used in buttons, links message bubbles & more to highlight & emphasize",
+    "Launcher LogoSquare images (PNG, JPG, or GIF 72\u00d772px) with solid backgrounds work best.",
+    "Launcher Logo",
+    "Square images (PNG, JPG, or GIF 72\u00d772px) with solid backgrounds work best.",
+    "Chat Header LogoAdd PNG, JPG, or GIF. Your logo may be resized to fit the header.",
+    "Chat Header Logo",
+    "Add PNG, JPG, or GIF. Your logo may be resized to fit the header.",
+    "Bot NameTurn this on to display bot name for the response messages.",
+    "Bot Name",
+    "Turn this on to display bot name for the response messages.",
+    "Show dynamic welcome message by defaultTurn this on to display a dynamic welcome message automatically. Turn it off to add and customize your own welcome message.",
+    "Show dynamic welcome message by default",
+    "Turn this on to display a dynamic welcome message automatically. Turn it off to add and customize your own welcome message.",
+    "\ud83d\udc4b Hi there! Welcome! How can we help you today?",
+    "Adjust your launcher\u2019s positioning on computers & tablets",
+    "Position",
+    "Side spacing",
+    "Bottom spacing",
+    "Add the following script to your website to enable the chat launcher. Where to place it?: Paste the code just before the closing <body/> tag on your website",
+    "Copy code",
+    "Hd Agencies",
+    "Hd Agencies",
+    "Ask me anything"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_chat_widget.png"
+}

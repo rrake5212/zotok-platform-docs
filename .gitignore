@@ -11,6 +11,9 @@
 # Videos — source media, not part of docs
 /videos/
 
+# Pipeline screenshots (copied to static/screenshots/ for serving)
+pipeline/capture/screenshots/
+
 # Misc
 .DS_Store
 .env.local

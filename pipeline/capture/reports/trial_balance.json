@@ -1,0 +1,506 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/customer-closing-balance",
+  "title": "Z\u00f6Tok",
+  "module": "Reports",
+  "sub_module": "Trial Balance",
+  "timestamp": "2026-07-10T18:07:52.214420",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Customer Name",
+        "Customer Code",
+        "ERP Outstanding Amount",
+        "Zotok Outstanding Amount"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Customer Name",
+          "Customer Code",
+          "ERP Outstanding Amount",
+          "Zotok Outstanding Amount"
+        ],
+        [
+          "1",
+          "zot two",
+          "cust900",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "2",
+          "zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "3",
+          "zeus",
+          "gh42123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "4",
+          "xyz",
+          "BB9024",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "5",
+          "white screen test",
+          "WST",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "6",
+          "cdcdcvsfd",
+          "vfdvd",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "7",
+          "We-ARE-Stuck",
+          "W123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "8",
+          "dsfbdg",
+          "ve4gerv",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "9",
+          "vishwa",
+          "3323923",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "10",
+          "virosh",
+          "c229092",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "11",
+          "elorce",
+          "INR",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "12",
+          "wfegtrgwf",
+          "3r3v4v",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "13",
+          "veena Plt",
+          "cq23290",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "14",
+          "vasanthi ent",
+          "c2032s",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "15",
+          "Varun teja",
+          "899892",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "16",
+          "unicorn",
+          "c89w3",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "17",
+          "umesh ent",
+          "c90900",
+          "DR \u20b90",
+          "DR \u20b91,400"
+        ],
+        [
+          "18",
+          "trinketsandtales",
+          "BB9025",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "19",
+          "testCustomer22",
+          "0werer",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "20",
+          "Test56",
+          "JHJH3455",
+          "DR \u20b90",
+          "DR \u20b90"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Customer Name",
+        "Customer Code",
+        "ERP Outstanding Amount",
+        "Zotok Outstanding Amount"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Customer Name",
+          "Customer Code",
+          "ERP Outstanding Amount",
+          "Zotok Outstanding Amount"
+        ],
+        [
+          "1",
+          "zot two",
+          "cust900",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "2",
+          "zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "3",
+          "zeus",
+          "gh42123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "4",
+          "xyz",
+          "BB9024",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "5",
+          "white screen test",
+          "WST",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "6",
+          "cdcdcvsfd",
+          "vfdvd",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "7",
+          "We-ARE-Stuck",
+          "W123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "8",
+          "dsfbdg",
+          "ve4gerv",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "9",
+          "vishwa",
+          "3323923",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "10",
+          "virosh",
+          "c229092",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "11",
+          "elorce",
+          "INR",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "12",
+          "wfegtrgwf",
+          "3r3v4v",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "13",
+          "veena Plt",
+          "cq23290",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "14",
+          "vasanthi ent",
+          "c2032s",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "15",
+          "Varun teja",
+          "899892",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "16",
+          "unicorn",
+          "c89w3",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "17",
+          "umesh ent",
+          "c90900",
+          "DR \u20b90",
+          "DR \u20b91,400"
+        ],
+        [
+          "18",
+          "trinketsandtales",
+          "BB9025",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "19",
+          "testCustomer22",
+          "0werer",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "20",
+          "Test56",
+          "JHJH3455",
+          "DR \u20b90",
+          "DR \u20b90"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Customer Name",
+        "Customer Code",
+        "ERP Outstanding Amount",
+        "Zotok Outstanding Amount"
+      ],
+      "rows": [
+        [
+          "S.No",
+          "Customer Name",
+          "Customer Code",
+          "ERP Outstanding Amount",
+          "Zotok Outstanding Amount"
+        ],
+        [
+          "1",
+          "zot two",
+          "cust900",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "2",
+          "zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "3",
+          "zeus",
+          "gh42123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "4",
+          "xyz",
+          "BB9024",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "5",
+          "white screen test",
+          "WST",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "6",
+          "cdcdcvsfd",
+          "vfdvd",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "7",
+          "We-ARE-Stuck",
+          "W123",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "8",
+          "dsfbdg",
+          "ve4gerv",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "9",
+          "vishwa",
+          "3323923",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "10",
+          "virosh",
+          "c229092",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "11",
+          "elorce",
+          "INR",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "12",
+          "wfegtrgwf",
+          "3r3v4v",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "13",
+          "veena Plt",
+          "cq23290",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "14",
+          "vasanthi ent",
+          "c2032s",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "15",
+          "Varun teja",
+          "899892",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "16",
+          "unicorn",
+          "c89w3",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "17",
+          "umesh ent",
+          "c90900",
+          "DR \u20b90",
+          "DR \u20b91,400"
+        ],
+        [
+          "18",
+          "trinketsandtales",
+          "BB9025",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "19",
+          "testCustomer22",
+          "0werer",
+          "DR \u20b90",
+          "DR \u20b90"
+        ],
+        [
+          "20",
+          "Test56",
+          "JHJH3455",
+          "DR \u20b90",
+          "DR \u20b90"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Reports",
+    "Customer Analysis",
+    "Product Analysis",
+    "Sales Team Activity",
+    "Sales Team ClockIn Report",
+    "Checkins",
+    "Order Report",
+    "Order Items Report",
+    "Invoice Report",
+    "Payment Report",
+    "Supply Tracker",
+    "Dynamic Segments",
+    "Scheme Report",
+    "Trial Balance"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/reports_trial_balance.png"
+}

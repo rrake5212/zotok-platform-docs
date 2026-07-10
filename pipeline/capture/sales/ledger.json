@@ -1,0 +1,569 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/ledgers/customers",
+  "title": "Z\u00f6Tok",
+  "module": "Sales",
+  "sub_module": "Ledger",
+  "timestamp": "2026-07-10T18:06:20.298347",
+  "headings": [],
+  "kpis": [],
+  "tables": [
+    {
+      "headers": [
+        "Customer Name",
+        "Customer Code",
+        "Credit Limit",
+        "Outstanding Amount",
+        "Last Updated Date",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Customer Name",
+          "Customer Code",
+          "Credit Limit",
+          "Outstanding Amount",
+          "Last Updated Date",
+          "Actions"
+        ],
+        [
+          "ZTZot Twozot two",
+          "cust900",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZOZonotest001zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZEZeuszeus",
+          "gh42123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "XYXyzxyz",
+          "BB9024",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WSWhite Screen Testwhite screen customer",
+          "WST",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "CDCdcdcvsfdwdcwdcf",
+          "vfdvd",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WEWe-are-stuckwAS",
+          "W123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "DSDsfbdgvsfvdfvf",
+          "ve4gerv",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIVishwavishwa",
+          "3323923",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIViroshvirosh",
+          "c229092",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ELElorcevijay",
+          "INR",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WFWfegtrgwfverfvgg",
+          "3r3v4v",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VPVeena Pltveena",
+          "cq23290",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VEVasanthi Entvasanthi",
+          "c2032s",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VTVarun Tejavarun teja",
+          "899892",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UNUnicornunicorn",
+          "c89w3",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UEUmesh Entumesh",
+          "c90900",
+          "\u20b90",
+          "DR  \u20b91,400",
+          "01/07/2026",
+          "Go to Ledger"
+        ],
+        [
+          "TRTrinketsandtalestrinketsandtales",
+          "BB9025",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETestcustomer22testCustomer23",
+          "0werer",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETest56test19",
+          "JHJH3455",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Customer Name",
+        "Customer Code",
+        "Credit Limit",
+        "Outstanding Amount",
+        "Last Updated Date",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Customer Name",
+          "Customer Code",
+          "Credit Limit",
+          "Outstanding Amount",
+          "Last Updated Date",
+          "Actions"
+        ],
+        [
+          "ZTZot Twozot two",
+          "cust900",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZOZonotest001zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZEZeuszeus",
+          "gh42123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "XYXyzxyz",
+          "BB9024",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WSWhite Screen Testwhite screen customer",
+          "WST",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "CDCdcdcvsfdwdcwdcf",
+          "vfdvd",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WEWe-are-stuckwAS",
+          "W123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "DSDsfbdgvsfvdfvf",
+          "ve4gerv",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIVishwavishwa",
+          "3323923",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIViroshvirosh",
+          "c229092",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ELElorcevijay",
+          "INR",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WFWfegtrgwfverfvgg",
+          "3r3v4v",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VPVeena Pltveena",
+          "cq23290",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VEVasanthi Entvasanthi",
+          "c2032s",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VTVarun Tejavarun teja",
+          "899892",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UNUnicornunicorn",
+          "c89w3",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UEUmesh Entumesh",
+          "c90900",
+          "\u20b90",
+          "DR  \u20b91,400",
+          "01/07/2026",
+          "Go to Ledger"
+        ],
+        [
+          "TRTrinketsandtalestrinketsandtales",
+          "BB9025",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETestcustomer22testCustomer23",
+          "0werer",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETest56test19",
+          "JHJH3455",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Customer Name",
+        "Customer Code",
+        "Credit Limit",
+        "Outstanding Amount",
+        "Last Updated Date",
+        "Actions"
+      ],
+      "rows": [
+        [
+          "Customer Name",
+          "Customer Code",
+          "Credit Limit",
+          "Outstanding Amount",
+          "Last Updated Date",
+          "Actions"
+        ],
+        [
+          "ZTZot Twozot two",
+          "cust900",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZOZonotest001zonotest001",
+          "8986e1c7-7808-4ce4-9b19-2849ff18658e",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ZEZeuszeus",
+          "gh42123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "XYXyzxyz",
+          "BB9024",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WSWhite Screen Testwhite screen customer",
+          "WST",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "CDCdcdcvsfdwdcwdcf",
+          "vfdvd",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WEWe-are-stuckwAS",
+          "W123",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "DSDsfbdgvsfvdfvf",
+          "ve4gerv",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIVishwavishwa",
+          "3323923",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VIViroshvirosh",
+          "c229092",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "ELElorcevijay",
+          "INR",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "WFWfegtrgwfverfvgg",
+          "3r3v4v",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VPVeena Pltveena",
+          "cq23290",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VEVasanthi Entvasanthi",
+          "c2032s",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "VTVarun Tejavarun teja",
+          "899892",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UNUnicornunicorn",
+          "c89w3",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "UEUmesh Entumesh",
+          "c90900",
+          "\u20b90",
+          "DR  \u20b91,400",
+          "01/07/2026",
+          "Go to Ledger"
+        ],
+        [
+          "TRTrinketsandtalestrinketsandtales",
+          "BB9025",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETestcustomer22testCustomer23",
+          "0werer",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ],
+        [
+          "TETest56test19",
+          "JHJH3455",
+          "\u20b90",
+          "\u20b90",
+          "-",
+          "Go to Ledger"
+        ]
+      ]
+    }
+  ],
+  "buttons": [],
+  "form_fields": [],
+  "text_sections": [
+    "Campaign",
+    "AI Agent",
+    "Customers",
+    "Products",
+    "Orders",
+    "Invoices",
+    "Payments",
+    "Ledger",
+    "Field Ops",
+    "Schemes",
+    "Price List"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/sales_ledger.png"
+}

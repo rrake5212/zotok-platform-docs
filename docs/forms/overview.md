@@ -1,32 +1,60 @@
 ---
-sidebar_position: 8
+sidebar_position: 16
+title: "Forms"
 ---
 
-# Forms Module
+# Forms
 
 ## Overview
 
-The Forms module manages digital forms for data collection. It is accessible from the main navigation sidebar.
+This page provides access to forms functionality within the ZöTok platform.
 
-:::info
-This module is visible in the platform sidebar. A dedicated walkthrough video is not yet available. This page will be updated with detailed screenshots and step-by-step instructions when the walkthrough is processed.
-:::
+### Data Table
 
-## Accessing Forms
+| Title | Type | Total Responses | Last Submitted | Created By | Status | Actions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Distributor-Registration | Survey | 0 | 10/07/2026, 06:03 AM | Hda | Active |  |
+| Petnikota | Survey | 0 | 30/03/2026, 12:05 PM | Hda | Active |  |
+| Customer Onboarding | Survey | 1 | 06/11/2025, 08:10 AM | Hda | Active |  |
+| Bulk order query | Survey | 21 | 24/10/2025, 11:18 AM | Hda | Active |  |
+| Bulk order query_2 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Bulk order query_3 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Book scheme | Survey | 6 | 17/10/2025, 06:22 AM | Hda | Active |  |
+| Book a site visit | Survey | 8 | 18/09/2025, 12:18 PM | Hda | Active |  |
+| Get a quote | Survey | 9 | 18/09/2025, 12:30 PM | Hda | Active |  |
+| Register a dealer | Survey | 7 | 16/09/2025, 11:55 AM | Hda | Active |  |
 
-Click **Forms** (📝 icon) in the left navigation sidebar.
+| Title | Type | Total Responses | Last Submitted | Created By | Status | Actions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Distributor-Registration | Survey | 0 | 10/07/2026, 06:03 AM | Hda | Active |  |
+| Petnikota | Survey | 0 | 30/03/2026, 12:05 PM | Hda | Active |  |
+| Customer Onboarding | Survey | 1 | 06/11/2025, 08:10 AM | Hda | Active |  |
+| Bulk order query | Survey | 21 | 24/10/2025, 11:18 AM | Hda | Active |  |
+| Bulk order query_2 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Bulk order query_3 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Book scheme | Survey | 6 | 17/10/2025, 06:22 AM | Hda | Active |  |
+| Book a site visit | Survey | 8 | 18/09/2025, 12:18 PM | Hda | Active |  |
+| Get a quote | Survey | 9 | 18/09/2025, 12:30 PM | Hda | Active |  |
+| Register a dealer | Survey | 7 | 16/09/2025, 11:55 AM | Hda | Active |  |
 
-## Expected Features
+| Title | Type | Total Responses | Last Submitted | Created By | Status | Actions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Distributor-Registration | Survey | 0 | 10/07/2026, 06:03 AM | Hda | Active |  |
+| Petnikota | Survey | 0 | 30/03/2026, 12:05 PM | Hda | Active |  |
+| Customer Onboarding | Survey | 1 | 06/11/2025, 08:10 AM | Hda | Active |  |
+| Bulk order query | Survey | 21 | 24/10/2025, 11:18 AM | Hda | Active |  |
+| Bulk order query_2 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Bulk order query_3 | Survey | 0 | 05/01/2026, 07:59 AM | Hda | Inactive |  |
+| Book scheme | Survey | 6 | 17/10/2025, 06:22 AM | Hda | Active |  |
+| Book a site visit | Survey | 8 | 18/09/2025, 12:18 PM | Hda | Active |  |
+| Get a quote | Survey | 9 | 18/09/2025, 12:30 PM | Hda | Active |  |
+| Register a dealer | Survey | 7 | 16/09/2025, 11:55 AM | Hda | Active |  |
 
-Based on the platform sidebar, the Forms module is expected to include:
+### Available Actions
 
-- Form creation and design
-- Form templates
-- Data collection and submission tracking
-- Form responses and reporting
-- Field data capture integration
+| Action | Description |
+|--------|-------------|
+| **Create Form** | |
 
-## Related Pages
-
-- [Field Ops Overview](../field-ops/overview.md) — Forms used in field operations
-- [Campaigns Overview](../campaigns/overview.md) — Forms used in campaign data collection
+---
+*Route: `/admin/forms`*

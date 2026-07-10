@@ -1,0 +1,78 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/filemanager",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "File Manager",
+  "timestamp": "2026-07-10T18:08:51.785493",
+  "headings": [],
+  "kpis": [
+    "ZoAI Knowledge4 ItemsNew_leads broucher BirlaNu_Pipes and Fittings Brochure_16 July 2025_Digital_11zon.pdf View All Files",
+    "ZoAI Knowledge4 Items",
+    "4 Items",
+    "New_leads broucher BirlaNu_Pipes and Fittings Brochure_16 July 2025_Digital_11zon.pdf",
+    "BirlaNu_Pipes and Fittings Brochure_16 July 2025_Digital_11zon.pdf",
+    "BirlaNu_Pipes and Fittings Brochure_16 July 2025_Digital_11zon.pdf",
+    "PDF Templates8 ItemsCredit_note.html Debit_note.html Dispach-note.html Manage All Templates",
+    "PDF Templates8 Items",
+    "8 Items",
+    "Product Assets / Media2 ItemsCatalogue Image gallery View All Files",
+    "Product Assets / Media2 Items",
+    "2 Items",
+    "Customer Hub2 ItemsList View Detail View Manage Customer Hub",
+    "Customer Hub2 Items",
+    "2 Items"
+  ],
+  "tables": [],
+  "buttons": [
+    "drive",
+    "Add Tags",
+    "Upload File",
+    "Upload Folder",
+    "Create Folder",
+    "Actions"
+  ],
+  "form_fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "Search",
+      "label": "Search",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "15 items",
+    "Add Tags",
+    "Upload File",
+    "Upload Folder",
+    "Create Folder",
+    "Actions",
+    "Select all files",
+    "Select all files",
+    "Clear selection",
+    "Clear selection",
+    "Delete files",
+    "Delete files",
+    "Download files",
+    "Download files"
+  ],
+  "empty_states": [],
+  "select_options": [
+    "Select all files",
+    "Clear selection",
+    "Delete files",
+    "Download files"
+  ],
+  "screenshot": "capture/screenshots/settings_file_manager.png"
+}

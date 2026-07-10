@@ -1,0 +1,55 @@
+{
+  "url": "https://app-qa.zotok.ai/admin/myAccount/notifications",
+  "title": "Z\u00f6Tok",
+  "module": "Settings",
+  "sub_module": "Notification",
+  "timestamp": "2026-07-10T18:08:42.839152",
+  "headings": [],
+  "kpis": [],
+  "tables": [],
+  "buttons": [],
+  "form_fields": [
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "",
+      "required": false
+    }
+  ],
+  "text_sections": [
+    "Settings",
+    "Account",
+    "My Team",
+    "Department",
+    "WhatsApp",
+    "Chat Widget",
+    "Divisions",
+    "Notification",
+    "Bank Details",
+    "File Manager",
+    "Config Settings",
+    "Notification SettingsConfigure notification settings for your firmPrincipal NotificationsSelect AllOrder UpdatesFine-tune order update notifications to align with your business requirementEmailWebSMSAppWhatsAppZoAi UpdatesEmailWebSMSAppWhatsApp",
+    "Select All",
+    "Order UpdatesFine-tune order update notifications to align with your business requirement",
+    "Fine-tune order update notifications to align with your business requirement",
+    "ZoAi Updates"
+  ],
+  "empty_states": [],
+  "select_options": [],
+  "screenshot": "capture/screenshots/settings_notification.png"
+}
