@@ -2,6 +2,8 @@
 
 A Docusaurus 3.10 documentation site for the ZoTok field operations and distributor management platform, with an integrated video-to-manual pipeline.
 
+> **July 11, 2026 — Rollback:** The v2 migration (Vite + Markdoc + React + Tailwind) was reverted. Docusaurus is the sole docs platform. See `PRIORITY.md` for the current roadmap (content re-capture + Playwright validation).
+
 **Live site:** https://rrake5212.github.io/zotok-platform-docs/  
 **Repository:** https://github.com/rrake5212/zotok-platform-docs
 
@@ -9,9 +11,10 @@ A Docusaurus 3.10 documentation site for the ZoTok field operations and distribu
 
 ```
 platform-docs/
-├── docs/                        # Markdown documentation (68 pages across 30+ topics)
+├── docs/                        # Markdown documentation (57 pages across 46 modules)
+├── PRIORITY.md                  # Current roadmap — content re-capture + validation
 ├── src/                         # Docusaurus React source
-├── static/screenshots/          # Screenshots organized by module (25+ module folders)
+├── static/screenshots/          # Screenshots organized by module (44 module folders, 83 files)
 │   ├── dashboard/               #   Video pipeline frames + Playwright captures
 │   ├── threads/                 #   Video pipeline frames
 │   ├── settings/                #   Video pipeline frames
@@ -35,9 +38,9 @@ platform-docs/
 ├── videos/                      # Source MP4 walkthroughs (gitignored, ~400 MB)
 │   ├── Home and Threads.mp4
 │   └── GROW AND CAMPAIGN.mp4
-├── .github/workflows/deploy.yml # GitHub Actions → GitHub Pages CI/CD
+├── .github/workflows/deploy.yml # GitHub Actions → GitHub Pages CI/CD (builds from root)
 ├── docusaurus.config.ts         # Site config (GH Pages target)
-├── sidebars.ts                  # 11 module categories, 68 pages
+├── sidebars.ts                  # 9 sidebar categories, 57 pages
 └── package.json                 # Docusaurus 3.10 + React 19
 ```
 
@@ -67,7 +70,7 @@ platform-docs/
 | WhatsApp & Communication | 2 | 2 | Playwright |
 | Integrations & Data | 5 | 5 | Playwright |
 | Configuration | 3 | 3 | Playwright |
-| **Total** | **68** | **75+** | |
+| **Total** | **57** | **83** | |
 
 ## Local Development
 
@@ -112,9 +115,14 @@ This site started as two separate folders:
 **July 10, 2026 — Playwright Expansion:**
 - A Playwright browser automation pipeline was built to capture live UI data from `https://app-qa.zotok.ai`
 - 44 pages across Sales, Reports, and Settings modules were captured and converted to Docusaurus markdown
-- Documentation expanded from 29 pages to 68 pages
+- Documentation expanded from 29 pages to 57 pages
 - All Playwright scripts live in `pipeline/` (discover_app.py, capture_module.py, restructure.py, fix_screenshots.py)
 - Live screenshots replaced placeholder content in previously thin modules (Customers, Orders, Invoices, etc.)
+
+**July 11, 2026 — v2 Migration Reverted:**
+- A migration to Vite + Markdoc + React + Tailwind (platform-docs-v2/) was attempted but reverted due to unnecessary complexity
+- Docusaurus restored as sole docs platform; deploy workflow reverted to build from root
+- See `PRIORITY.md` for current roadmap (content re-capture with improved DOM extraction + Playwright validation suite)
 
 ## Deployment
 

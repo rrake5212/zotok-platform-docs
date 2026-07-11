@@ -74,8 +74,15 @@ Extract documentation directly from the live ZoTok platform at `https://app-qa.z
 |------|---------|
 | `discovery/navigation_tree.json` | Navigation map output from Phase 1 |
 | `discovery/cookies.json` | Saved session cookies (reused between phases) |
-| `capture/` | Raw capture data (44 JSON files as of Jul 2026) |
+| `capture/` | Raw capture data (45 JSON files as of Jul 2026) |
 | `capture/screenshots/` | Raw screenshots (gitignored; copies go to `static/screenshots/`) |
+
+### Known Issue — Duplicated Table Content
+
+The first Playwright capture pass (Jul 2026) produced duplicated table blocks in 27 of
+57 pages. Root cause: `page.evaluate()` with `textContent` concatenates nested React
+elements, and `restructure.py` emitted the same table twice. The fix — improved DOM
+extraction using child-node walkers — is documented in `../PRIORITY.md` (Priority 1).
 
 ### Full Run (all phases)
 
