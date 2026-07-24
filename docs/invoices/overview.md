@@ -3,51 +3,69 @@ sidebar_position: 10
 title: "Invoices"
 ---
 
-# Invoices
+# 🧾 Invoices
+
+Create, view, and manage invoices with payment tracking and ageing analysis.
 
 ## Overview
 
-This page provides access to invoices functionality within the ZöTok platform.
+This page covers the Invoices module in the ZöTok platform.
 
-### Data Table
+![Invoices Screenshot 1](/screenshots/invoices/screenshot-00.jpg)
 
-| Invoice No. & Date | Due Date | Invoice Amount | Customer Name | Message Status | Engaged | Status | Actions |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 725/2026-276th Jul, 2026 | 24th Sep, 2026 | ₹97,241 | SKSai Kiran | Delivered | - | Pending |  |
-| 1553262623rd Jul, 2026 | 16th Jul, 2026 | ₹600 | GOGowtham | Seen | - | Pending |  |
-| 232322nd Jul, 2026 | 8th Aug, 2026 | ₹500 | GOGowtham | Seen | - | Pending |  |
-| 2627632nd Jul, 2026 | 12th Jul, 2026 | ₹26,500 | OTOmarzai Traders | - | - | Pending |  |
-| PC-178273567382430th Jun, 2026 | 10th Jul, 2026 | ₹2,777 | VAVaishnavi | Seen | Generate payment advice | Paid |  |
-| 652625024th Jun, 2026 | 7th Jul, 2026 | ₹2,316.34 | GOGowtham | Seen | - | Pending |  |
-| 10000121st Jun, 2026 | 2nd Jul, 2026 | ₹4,000 | SSSHLOK SUPER MART | - | - | Paid |  |
-| 54632616th Jun, 2026 | 29th Jun, 2026 | ₹2,167 | GOGowtham | Seen | - | Pending |  |
-| Inv166260116th Jun, 2026 | 26th Jun, 2026 | ₹1,000 | ZOZotokqa8 | - | - | Pending |  |
-| Invoice73715th Jun, 2026 | 3rd Sep, 2026 | ₹3,438 | SKSai Kiran | Seen | - | Paid |  |
-| Invoice83815th Jun, 2026 | 25th Jun, 2026 | ₹288 | VAVaishnavi | Seen | - | Pending |  |
-| In0001814th Jun, 2026 | 28th Jun, 2026 | ₹38,144.31 | GOGowtham | Seen | - | Pending |  |
-| In0001914th Jun, 2026 | 29th Jun, 2026 | ₹18,480.80 | GOGowtham | Seen | - | Pending |  |
-| In0001014th Jun, 2026 | 25th Jun, 2026 | ₹14,306.40 | GOGowtham | Seen | - | Pending |  |
-| 202030112th Jun, 2026 | 22nd Jun, 2026 | ₹1,200 | UEumesh ent | - | - | Pending |  |
-| *5 more rows* |
+![Invoices Screenshot 2](/screenshots/invoices/screenshot-01.jpg)
 
-| Invoice No. & Date | Due Date | Invoice Amount | Customer Name | Message Status | Engaged | Status | Actions |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 725/2026-276th Jul, 2026 | 24th Sep, 2026 | ₹97,241 | SKSai Kiran | Delivered | - | Pending |  |
-| 1553262623rd Jul, 2026 | 16th Jul, 2026 | ₹600 | GOGowtham | Seen | - | Pending |  |
-| 232322nd Jul, 2026 | 8th Aug, 2026 | ₹500 | GOGowtham | Seen | - | Pending |  |
-| 2627632nd Jul, 2026 | 12th Jul, 2026 | ₹26,500 | OTOmarzai Traders | - | - | Pending |  |
-| PC-178273567382430th Jun, 2026 | 10th Jul, 2026 | ₹2,777 | VAVaishnavi | Seen | Generate payment advice | Paid |  |
-| 652625024th Jun, 2026 | 7th Jul, 2026 | ₹2,316.34 | GOGowtham | Seen | - | Pending |  |
-| 10000121st Jun, 2026 | 2nd Jul, 2026 | ₹4,000 | SSSHLOK SUPER MART | - | - | Paid |  |
-| 54632616th Jun, 2026 | 29th Jun, 2026 | ₹2,167 | GOGowtham | Seen | - | Pending |  |
-| Inv166260116th Jun, 2026 | 26th Jun, 2026 | ₹1,000 | ZOZotokqa8 | - | - | Pending |  |
-| Invoice73715th Jun, 2026 | 3rd Sep, 2026 | ₹3,438 | SKSai Kiran | Seen | - | Paid |  |
-| Invoice83815th Jun, 2026 | 25th Jun, 2026 | ₹288 | VAVaishnavi | Seen | - | Pending |  |
-| In0001814th Jun, 2026 | 28th Jun, 2026 | ₹38,144.31 | GOGowtham | Seen | - | Pending |  |
-| In0001914th Jun, 2026 | 29th Jun, 2026 | ₹18,480.80 | GOGowtham | Seen | - | Pending |  |
-| In0001014th Jun, 2026 | 25th Jun, 2026 | ₹14,306.40 | GOGowtham | Seen | - | Pending |  |
-| 202030112th Jun, 2026 | 22nd Jun, 2026 | ₹1,200 | UEumesh ent | - | - | Pending |  |
-| *5 more rows* |
+![Invoices Screenshot 3](/screenshots/invoices/screenshot-02.jpg)
+
+![Invoices Screenshot 4](/screenshots/invoices/screenshot-03.jpg)
+
+![Invoices Screenshot 5](/screenshots/invoices/screenshot-04.jpg)
+
+![Invoices Screenshot 6](/screenshots/invoices/screenshot-05.jpg)
+
+![Invoices Screenshot 7](/screenshots/invoices/screenshot-06.jpg)
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| | 2.4L |
+| | 36476671 |
+| | 243565789765453 |
+| | 555 |
+| | 10 |
+
+## Available Actions
+
+| Action | Description |
+|--------|-------------|
+| **Download Invoices** | |
+| **Add Reminder** | |
+| **Save** | |
+
+## Features
+
+- Tax Invoioe - SMO/28-27}219
+- app.zotok.ei/acimlr/invoices
+- Invcices
+- Dispatch Note
+- Invoices
+- Total
+- Paid
+- pedun
+- Over cus
+- Czmpaikn
+- Al Ager
+- Bulk Actions
+Pagination: 1 - 2 of 2
+- 20 / page
+- Customers
+- Invoice No. &: Date
+- Due Date
+- Invoice Amount
+- Customer Name
+- Message Status ()
 
 ---
-*Route: `/admin/invoices`*
+
+*Page generated from video walkthrough via OCR pipeline.*

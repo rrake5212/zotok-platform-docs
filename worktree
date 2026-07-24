@@ -1,0 +1,34 @@
+# ✔️ VIDEO PIPELINE COMPLETE (July 23, 2026)
+
+## Result: 11 modules processed — 10 via video pipeline, 1 retained from Playwright
+
+### Pipeline Results
+| Module | Video | Result | Frames | Notes |
+|--------|-------|--------|--------|-------|
+| payments | payments.mov | ✅ Pipeline | 7 | 44s video, clean capture |
+| invoices | invoices.mov | ✅ Pipeline | 7 | 45s video, clean capture |
+| ledger | ledger.mov | ✅ Pipeline | 12 | 55s video, clean capture |
+| ai-agent | Ai Agent.mov | ✅ Pipeline | 16 | 122s video |
+| checkins | checkin.mov | ✅ Pipeline | 16 | 122s video |
+| customers | customers.mov | ✅ Pipeline | 16 | 122s video |
+| field-ops | fieldops.mov | ❌ Corrupted | — | **moov atom not found** — retained existing Playwright capture page |
+| orders | orders.mov | ✅ Pipeline | 27 | 157s video (longest) |
+| price-list | price list.mov | ✅ Pipeline | 14 | 88s video |
+| products | products.mov | ✅ Pipeline | 11 | 56s video |
+| schemes | schemes.mov | ✅ Pipeline | 31 | 241s video (most frames) |
+
+### Known Issue: fieldops.mov
+`fieldops.mov` (38 MB) is a corrupted MP4 file with a missing `moov` atom (critical metadata). OpenCV and ffmpeg both fail to open it. The existing page from the Playwright capture pipeline remains in place — it had no duplicated tables (had no tables at all), so no regressive content.
+
+### Sidebar Fixes (orphan pages added)
+- `settings/sales-view-settings` → Dashboard section
+- `settings/payment-view-settings` → Dashboard section
+- `sales/overview` → Sales section (first item)
+- `queries/overview` → Threads section
+
+### Dead Links Fixed
+- `dashboard/customer-table.md`: `../settings/sales-view-settings.md` → `../settings/sales-view-settings`
+- `day-book/overview.md`: 2 links fixed from `.md` → Docusaurus path format
+
+### Next
+All phases complete. Commit and push to deploy.

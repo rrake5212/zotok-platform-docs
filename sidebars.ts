@@ -20,12 +20,15 @@ const sidebars: SidebarsConfig = {
         'dashboard/payments',
         'dashboard/item',
         'dashboard/day-book',
+        'settings/sales-view-settings',
+        'settings/payment-view-settings',
       ],
     },
     {
       type: 'category',
       label: 'Sales',
       items: [
+        'sales/overview',
         'grow/overview',
         'campaigns/overview',
         'ai-agent/overview',
@@ -66,6 +69,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'threads/overview',
         'threads/query-types',
+        'queries/overview',
       ],
     },
     {

@@ -28,5 +28,5 @@ Based on the platform sidebar, the Day Book module is expected to include:
 
 ## Related Pages
 
-- [Ledger Overview](../ledger/overview.md) — Detailed ledger entries
-- [Payments Overview](../payments/overview.md) — Payment transactions
+- [Ledger Overview](../ledger/overview) — Detailed ledger entries
+- [Payments Overview](../payments/overview) — Payment transactions

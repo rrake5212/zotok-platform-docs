@@ -1,52 +1,71 @@
 ---
-sidebar_position: 22
+sidebar_position: 21
 title: "Checkins"
 ---
 
-# Checkins
+# 📍 Checkins
+
+View and analyze sales team check-in locations, routes, and field visit history.
 
 ## Overview
 
-This page provides access to checkins functionality within the ZöTok platform.
+This page covers the Checkins module in the ZöTok platform.
 
-### Key Metrics
+![Checkins Screenshot 1](/screenshots/checkins/screenshot-00.jpg)
+
+![Checkins Screenshot 2](/screenshots/checkins/screenshot-01.jpg)
+
+![Checkins Screenshot 3](/screenshots/checkins/screenshot-02.jpg)
+
+![Checkins Screenshot 4](/screenshots/checkins/screenshot-03.jpg)
+
+![Checkins Screenshot 5](/screenshots/checkins/screenshot-04.jpg)
+
+![Checkins Screenshot 6](/screenshots/checkins/screenshot-05.jpg)
+
+![Checkins Screenshot 7](/screenshots/checkins/screenshot-06.jpg)
+
+## Key Metrics
 
 | Metric | Value |
 |--------|-------|
-| Total Check-ins3 | |
-| Total orders2 | |
-| Total Payments Collected0 | |
-| Total Payment Collected value₹0 | |
+| | 23 |
+| | 21 |
+| | 22 |
 
-### Data Table
-
-| S.No | Sales Person | Customer | Check In Date: | Check In Time: | Check In Status | No Of Orders | Total Payments Collected |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Kalavathi | VAVaishnaviVaishnavi | 8th Jul, 2026 | 04:56 PM | Invalid | 1 | 0 |
-| 2 | Kalavathi | YKYasaswini kukunooriYasaswini kukunoori | 8th Jul, 2026 | 04:51 PM | New Location | 1 | 0 |
-| 3 | OPoptimusbumbleBee | 7th Jul, 2026 | 12:09 PM | Valid | 0 | 0 | ₹0 |
-| 3Total Customers | - | 2Total Orders | 0Total Payments Collected | ₹0Total Payments Collected Value | ₹0Total Payment collected by Cash | ₹0Total Payment collected by UPI | ₹0Total Payment collected by Cheque |
-
-| S.No | Sales Person | Customer | Check In Date: | Check In Time: | Check In Status | No Of Orders | Total Payments Collected |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Kalavathi | VAVaishnaviVaishnavi | 8th Jul, 2026 | 04:56 PM | Invalid | 1 | 0 |
-| 2 | Kalavathi | YKYasaswini kukunooriYasaswini kukunoori | 8th Jul, 2026 | 04:51 PM | New Location | 1 | 0 |
-| 3 | OPoptimusbumbleBee | 7th Jul, 2026 | 12:09 PM | Valid | 0 | 0 | ₹0 |
-| 3Total Customers | - | 2Total Orders | 0Total Payments Collected | ₹0Total Payments Collected Value | ₹0Total Payment collected by Cash | ₹0Total Payment collected by UPI | ₹0Total Payment collected by Cheque |
-
-| S.No | Sales Person | Customer | Check In Date: | Check In Time: | Check In Status | No Of Orders | Total Payments Collected |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Kalavathi | VAVaishnaviVaishnavi | 8th Jul, 2026 | 04:56 PM | Invalid | 1 | 0 |
-| 2 | Kalavathi | YKYasaswini kukunooriYasaswini kukunoori | 8th Jul, 2026 | 04:51 PM | New Location | 1 | 0 |
-| 3 | OPoptimusbumbleBee | 7th Jul, 2026 | 12:09 PM | Valid | 0 | 0 | ₹0 |
-| 3Total Customers | - | 2Total Orders | 0Total Payments Collected | ₹0Total Payments Collected Value | ₹0Total Payment collected by Cash | ₹0Total Payment collected by UPI | ₹0Total Payment collected by Cheque |
-
-### Available Actions
+## Available Actions
 
 | Action | Description |
 |--------|-------------|
-| **Download** | |
-| **Schedule** | |
+| **+, Download** | |
+| **New Locaticn** | |
+| **New Location** | |
+| **Apply** | |
+| **Clear Flter** | |
+
+## Features
+
+- app.zotok.ei/acimlr/sales-team-checkln-reports
+- Sales Team Checkin
+- [ Las: Month (11 ue  30 xun 2626) *
+- anilyss
+- Total Cleck-ins
+- Total orders
+- Total Paymenils Collected
+- Total Payment Collected value
+- ?0 ①
+- Pml.ar
+- Analyss
+Pagination: 1 - 20 of 23 (20 / page)
+- Ksies lesm
+- Aiivily
+- @ Schedue
+- 0/3 scheduled
+- Saies Team
+- Cloxki
+- S.No
+- Seles Person
 
 ---
-*Route: `/admin/sales-team-checkin-reports`*
+
+*Page generated from video walkthrough via OCR pipeline.*

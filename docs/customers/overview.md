@@ -3,60 +3,105 @@ sidebar_position: 7
 title: "Customers"
 ---
 
-# Customers
+# 👥 Customers
+
+Centralized customer directory with search, filters, profiling, and transaction history.
 
 ## Overview
 
-This page provides access to customers functionality within the ZöTok platform.
+This page covers the Customers module in the ZöTok platform.
 
-### Data Table
+![Customers Screenshot 1](/screenshots/customers/screenshot-00.jpg)
 
-| Customer | Customer Code | Routes | Segments | Team Members | Actions |
-| --- | --- | --- | --- | --- | --- |
-| NPNitin PadmawarNitin Padmawar•+91939327 | bdeb7269-2594-4fb2-ab45-997f53728935 | Nankramguda | rsvirla_dealer | Assign |  |
-| ARArunArun•+917661987561 | 80884469-ced4-486e-9c62-815dfd76c0ed | Hyderabad | N.A | 2 |  |
-| SKSai KiranSai Kiran•+919550112934 | 4c768447-a161-4975-bc6a-f116c263cfef | N.A | N.A | 9 |  |
-| SSSha Singh Traders User Pvt Ltdsha Sing | 748f856a-558e-4356-87f4-d5a4a82f23a5 | N.A | N.A | 1 |  |
-| GIGirishGirish•+919392970203 | 34dd4727-6d25-4794-8b03-b3c47cef67db | N.A | N.A | Assign |  |
-| ASAnshul ShrivastavAnshul Shrivastav•+91 | df8d6e43-a7ae-40c7-9c73-94686165fe05 | N.A | N.A | Assign |  |
-| ZOZonotest001Zonotest001•+917075852513 | dfede685-10a8-4672-b1f6-a0ce6955777d | N.A | N.A | 3 |  |
-| ZOZonotest001Zonotest001•+917075852599 | d10e8457-581e-4180-abca-d08c316b4905 | N.A | N.A | 1 |  |
-| 91917075852555917075852555•+917075852555 | 56743fa4-29aa-44cd-aeb7-774f2fc34ef0 | N.A | N.A | 2 |  |
-| 91917075852577917075852577•+917075852577 | 980e187a-5aec-4023-adc4-1b1d63f50e68 | N.A | N.A | Assign |  |
-| 91917075833577917075833577•+917075833577 | 54ab6e3c-2661-4438-b076-96d4b1500b74 | N.A | N.A | Assign |  |
-| 91917077733577917077733577•+917077733577 | ab070c2e-21ee-4461-9ae4-a60adf56f8dd | N.A | N.A | Assign |  |
-| 91917117733577917117733577•+917117733577 | 88d21a8a-ea5e-4e1f-a553-5081028b1929 | N.A | N.A | Assign |  |
-| 91917117743577917117743577•+917117743577 | a397910a-d12e-4206-a429-f1d36815cf42 | N.A | N.A | Assign |  |
-| 91917117742577917117742577•+917117742577 | 28822394-2943-451a-a441-475c96bad1a0 | N.A | N.A | Assign |  |
-| *5 more rows* |
+![Customers Screenshot 2](/screenshots/customers/screenshot-01.jpg)
 
-| Customer | Customer Code | Routes | Segments | Team Members | Actions |
-| --- | --- | --- | --- | --- | --- |
-| NPNitin PadmawarNitin Padmawar•+91939327 | bdeb7269-2594-4fb2-ab45-997f53728935 | Nankramguda | rsvirla_dealer | Assign |  |
-| ARArunArun•+917661987561 | 80884469-ced4-486e-9c62-815dfd76c0ed | Hyderabad | N.A | 2 |  |
-| SKSai KiranSai Kiran•+919550112934 | 4c768447-a161-4975-bc6a-f116c263cfef | N.A | N.A | 9 |  |
-| SSSha Singh Traders User Pvt Ltdsha Sing | 748f856a-558e-4356-87f4-d5a4a82f23a5 | N.A | N.A | 1 |  |
-| GIGirishGirish•+919392970203 | 34dd4727-6d25-4794-8b03-b3c47cef67db | N.A | N.A | Assign |  |
-| ASAnshul ShrivastavAnshul Shrivastav•+91 | df8d6e43-a7ae-40c7-9c73-94686165fe05 | N.A | N.A | Assign |  |
-| ZOZonotest001Zonotest001•+917075852513 | dfede685-10a8-4672-b1f6-a0ce6955777d | N.A | N.A | 3 |  |
-| ZOZonotest001Zonotest001•+917075852599 | d10e8457-581e-4180-abca-d08c316b4905 | N.A | N.A | 1 |  |
-| 91917075852555917075852555•+917075852555 | 56743fa4-29aa-44cd-aeb7-774f2fc34ef0 | N.A | N.A | 2 |  |
-| 91917075852577917075852577•+917075852577 | 980e187a-5aec-4023-adc4-1b1d63f50e68 | N.A | N.A | Assign |  |
-| 91917075833577917075833577•+917075833577 | 54ab6e3c-2661-4438-b076-96d4b1500b74 | N.A | N.A | Assign |  |
-| 91917077733577917077733577•+917077733577 | ab070c2e-21ee-4461-9ae4-a60adf56f8dd | N.A | N.A | Assign |  |
-| 91917117733577917117733577•+917117733577 | 88d21a8a-ea5e-4e1f-a553-5081028b1929 | N.A | N.A | Assign |  |
-| 91917117743577917117743577•+917117743577 | a397910a-d12e-4206-a429-f1d36815cf42 | N.A | N.A | Assign |  |
-| 91917117742577917117742577•+917117742577 | 28822394-2943-451a-a441-475c96bad1a0 | N.A | N.A | Assign |  |
-| *5 more rows* |
+![Customers Screenshot 3](/screenshots/customers/screenshot-02.jpg)
 
-### Available Actions
+![Customers Screenshot 4](/screenshots/customers/screenshot-03.jpg)
+
+![Customers Screenshot 5](/screenshots/customers/screenshot-04.jpg)
+
+![Customers Screenshot 6](/screenshots/customers/screenshot-05.jpg)
+
+![Customers Screenshot 7](/screenshots/customers/screenshot-06.jpg)
+
+![Customers Screenshot 8](/screenshots/customers/screenshot-07.jpg)
+
+![Customers Screenshot 9](/screenshots/customers/screenshot-08.jpg)
+
+![Customers Screenshot 10](/screenshots/customers/screenshot-09.jpg)
+
+![Customers Screenshot 11](/screenshots/customers/screenshot-10.jpg)
+
+![Customers Screenshot 12](/screenshots/customers/screenshot-11.jpg)
+
+![Customers Screenshot 13](/screenshots/customers/screenshot-12.jpg)
+
+![Customers Screenshot 14](/screenshots/customers/screenshot-13.jpg)
+
+![Customers Screenshot 15](/screenshots/customers/screenshot-14.jpg)
+
+![Customers Screenshot 16](/screenshots/customers/screenshot-15.jpg)
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| | 14 |
+| | 35 |
+| | 11 |
+| | 52.472428 |
+| | 8440095048 |
+| | 8080808080 |
+| | 090802728616 |
+| | 1010101010 |
+| | 0000 |
+| | 958595008916 |
+| | 102010 |
+
+## Available Actions
 
 | Action | Description |
 |--------|-------------|
-| **Customers** | |
-| **Groups** | |
-| **Dynamic Segments** | |
+| **Add Firm Name** | |
+| **New Lead** | |
+| **View Workflow** | |
+| **Address** | |
+| **Created On** | |
+| **Refreshed On ()** | |
+| **dCancel** | |
+| **Create Dynamic Segments** | |
+| **Preview** | |
+| **AddFustomer** | |
+| **Bulk Upload** | |
+| **Download Customers** | |
+| **Download History** | |
+| **Create Custom Fieids** | |
 | **Add Customer** | |
 
+## Features
+
+- Tax Invoioe - SM0/28-27}210
+- app.zotok.ei/acimlr/customers
+- Customers
+- Groups
+- Dynamic Segments
+- O Add Customer V
+Pagination: 1 - 20 of 19 (20 / page)
+- Grow
+- Customer
+- Customer Code
+- Routes
+- Segments
+- Team Members
+- Actlons
+- Cmoakr
+- Dabur_custoner
+- ""o[sn"nqe
+- + +917217217217
+- DC01
+- Hy:LRt_3 TaiChowti Hy:Uau_4Swibpe:
+
 ---
-*Route: `/admin/customers`*
+
+*Page generated from video walkthrough via OCR pipeline.*

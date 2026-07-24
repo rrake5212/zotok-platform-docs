@@ -3,70 +3,78 @@ sidebar_position: 12
 title: "Ledger"
 ---
 
-# Ledger
+# 📒 Ledger
+
+Customer-wise ledger with balance tracking, transaction history, and reconciliation.
 
 ## Overview
 
-This page provides access to ledger functionality within the ZöTok platform.
+This page covers the Ledger module in the ZöTok platform.
 
-### Data Table
+![Ledger Screenshot 1](/screenshots/ledger/screenshot-00.jpg)
 
-| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
-| --- | --- | --- | --- | --- | --- |
-| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
-| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
-| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
-| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
-| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
-| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
-| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
-| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
-| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
-| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
-| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
-| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
-| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
-| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
-| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
-| *5 more rows* |
+![Ledger Screenshot 2](/screenshots/ledger/screenshot-01.jpg)
 
-| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
-| --- | --- | --- | --- | --- | --- |
-| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
-| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
-| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
-| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
-| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
-| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
-| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
-| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
-| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
-| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
-| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
-| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
-| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
-| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
-| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
-| *5 more rows* |
+![Ledger Screenshot 3](/screenshots/ledger/screenshot-02.jpg)
 
-| Customer Name | Customer Code | Credit Limit | Outstanding Amount | Last Updated Date | Actions |
-| --- | --- | --- | --- | --- | --- |
-| ZTZot Twozot two | cust900 | ₹0 | ₹0 | - | Go to Ledger |
-| ZOZonotest001zonotest001 | 8986e1c7-7808-4ce4-9b19-2849ff18658e | ₹0 | ₹0 | - | Go to Ledger |
-| ZEZeuszeus | gh42123 | ₹0 | ₹0 | - | Go to Ledger |
-| XYXyzxyz | BB9024 | ₹0 | ₹0 | - | Go to Ledger |
-| WSWhite Screen Testwhite screen customer | WST | ₹0 | ₹0 | - | Go to Ledger |
-| CDCdcdcvsfdwdcwdcf | vfdvd | ₹0 | ₹0 | - | Go to Ledger |
-| WEWe-are-stuckwAS | W123 | ₹0 | ₹0 | - | Go to Ledger |
-| DSDsfbdgvsfvdfvf | ve4gerv | ₹0 | ₹0 | - | Go to Ledger |
-| VIVishwavishwa | 3323923 | ₹0 | ₹0 | - | Go to Ledger |
-| VIViroshvirosh | c229092 | ₹0 | ₹0 | - | Go to Ledger |
-| ELElorcevijay | INR | ₹0 | ₹0 | - | Go to Ledger |
-| WFWfegtrgwfverfvgg | 3r3v4v | ₹0 | ₹0 | - | Go to Ledger |
-| VPVeena Pltveena | cq23290 | ₹0 | ₹0 | - | Go to Ledger |
-| VEVasanthi Entvasanthi | c2032s | ₹0 | ₹0 | - | Go to Ledger |
-| VTVarun Tejavarun teja | 899892 | ₹0 | ₹0 | - | Go to Ledger |
-| *5 more rows* |
+![Ledger Screenshot 4](/screenshots/ledger/screenshot-03.jpg)
+
+![Ledger Screenshot 5](/screenshots/ledger/screenshot-04.jpg)
+
+![Ledger Screenshot 6](/screenshots/ledger/screenshot-05.jpg)
+
+![Ledger Screenshot 7](/screenshots/ledger/screenshot-06.jpg)
+
+![Ledger Screenshot 8](/screenshots/ledger/screenshot-07.jpg)
+
+![Ledger Screenshot 9](/screenshots/ledger/screenshot-08.jpg)
+
+![Ledger Screenshot 10](/screenshots/ledger/screenshot-09.jpg)
+
+![Ledger Screenshot 11](/screenshots/ledger/screenshot-10.jpg)
+
+![Ledger Screenshot 12](/screenshots/ledger/screenshot-11.jpg)
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| | 70 |
+| | 20 |
+| | 153 |
+| | 1734595683674 |
+
+## Available Actions
+
+| Action | Description |
+|--------|-------------|
+| **Cancel** | |
+| **Save 5etlegs** | |
+| **Save Setings** | |
+
+## Features
+
+- Tax Invoioe - SMQ/28-27}210
+- app.zotok.ei/acimlr/ledgers/customers
+- Ledgers
+Pagination: 1 - 17 of 17 (20 / page)
+- Customer Name
+- Customer Code
+- Credit Umlt
+- Outstandlng Amount
+- Last Updated Date
+- Actlons
+- Cmoakr
+- Shashank
+- shashank01
+- Go to Ledger
+- Al Ager
+- Zotokqa8
+- Zstcksa
+- bci0e99ef-cd68-49e9-b933-55157ca82cd17
+- CR 255
+- 03/06/2026
 
 ---
-*Route: `/admin/ledgers/customers`*
+
+*Page generated from video walkthrough via OCR pipeline.*

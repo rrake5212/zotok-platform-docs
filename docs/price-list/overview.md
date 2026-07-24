@@ -3,51 +3,105 @@ sidebar_position: 15
 title: "Price List"
 ---
 
-# Price List
+# 💰 Price List
+
+Configure product pricing, price tiers, and customer-specific price lists.
 
 ## Overview
 
-This page provides access to price list functionality within the ZöTok platform.
+This page covers the Price List module in the ZöTok platform.
 
-### Data Table
+![Price List Screenshot 1](/screenshots/price-list/screenshot-00.jpg)
 
-| Name | Code | Created On | Criteria | No.Of Products | Status | Customers | Actions |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| TTTSS0001 | TTTSS0001 | 22/06/2026 | customer-price | 0 | Active | - |  |
-| JUN0001/PL/01 | JUN0001/PL/01 | 16/06/2026 | customer-price | 0 | Active | Arya Mithun |  |
-| JUNPL0101 | JUNPL0101 | 16/06/2026 | customer-price | 0 | Active | Jilhewar Kirana Merchant |  |
-| Regular Sales Price | Regular Sales Price | 12/06/2026 | customer-price | 0 | Active | +2 |  |
-| Regular Purchase Price | Regular Purchase Price | 12/06/2026 | customer-price | 0 | Active |  |  |
-| Small Account Sales Price | Small Account Sales Price | 12/06/2026 | customer-price | 0 | Active |  |  |
-| Discount Purchase Price | Discount Purchase Price | 12/06/2026 | customer-price | 0 | Active | +1 |  |
-| Distributor Sales Price | Distributor Sales Price | 12/06/2026 | customer-price | 0 | Active | +1 |  |
-| Base Price | Base Price | 12/06/2026 | customer-price | 0 | Active | Shivanshi Purohit +5 |  |
-| Testing HD 11 | PL4865 | 05/06/2026 | customer-price | 0 | Expired | sp pearles01 ent  +6 |  |
-| SA4421 | AN5732 | 25/05/2026 | customer-price | 0 | Expired | Sai Kiran |  |
-| YA3705 | NI6600 | 12/05/2026 | customer-price | 0 | Expired | - |  |
-| YA4261 | NI4503 | 12/05/2026 | customer-price | 0 | Expired | - |  |
-| Hyderabad Test Price list | 56250622 | 05/05/2026 | cfa-price | 0 | Expired | - |  |
-| XTL/2627/005 | XTL/2627/005 | 16/04/2026 | customer-price | 0 | Active | Sumit Shah |  |
-| *5 more rows* |
+![Price List Screenshot 2](/screenshots/price-list/screenshot-01.jpg)
 
-| Name | Code | Created On | Criteria | No.Of Products | Status | Customers | Actions |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| TTTSS0001 | TTTSS0001 | 22/06/2026 | customer-price | 0 | Active | - |  |
-| JUN0001/PL/01 | JUN0001/PL/01 | 16/06/2026 | customer-price | 0 | Active | Arya Mithun |  |
-| JUNPL0101 | JUNPL0101 | 16/06/2026 | customer-price | 0 | Active | Jilhewar Kirana Merchant |  |
-| Regular Sales Price | Regular Sales Price | 12/06/2026 | customer-price | 0 | Active | +2 |  |
-| Regular Purchase Price | Regular Purchase Price | 12/06/2026 | customer-price | 0 | Active |  |  |
-| Small Account Sales Price | Small Account Sales Price | 12/06/2026 | customer-price | 0 | Active |  |  |
-| Discount Purchase Price | Discount Purchase Price | 12/06/2026 | customer-price | 0 | Active | +1 |  |
-| Distributor Sales Price | Distributor Sales Price | 12/06/2026 | customer-price | 0 | Active | +1 |  |
-| Base Price | Base Price | 12/06/2026 | customer-price | 0 | Active | Shivanshi Purohit +5 |  |
-| Testing HD 11 | PL4865 | 05/06/2026 | customer-price | 0 | Expired | sp pearles01 ent  +6 |  |
-| SA4421 | AN5732 | 25/05/2026 | customer-price | 0 | Expired | Sai Kiran |  |
-| YA3705 | NI6600 | 12/05/2026 | customer-price | 0 | Expired | - |  |
-| YA4261 | NI4503 | 12/05/2026 | customer-price | 0 | Expired | - |  |
-| Hyderabad Test Price list | 56250622 | 05/05/2026 | cfa-price | 0 | Expired | - |  |
-| XTL/2627/005 | XTL/2627/005 | 16/04/2026 | customer-price | 0 | Active | Sumit Shah |  |
-| *5 more rows* |
+![Price List Screenshot 3](/screenshots/price-list/screenshot-02.jpg)
+
+![Price List Screenshot 4](/screenshots/price-list/screenshot-03.jpg)
+
+![Price List Screenshot 5](/screenshots/price-list/screenshot-04.jpg)
+
+![Price List Screenshot 6](/screenshots/price-list/screenshot-05.jpg)
+
+![Price List Screenshot 7](/screenshots/price-list/screenshot-06.jpg)
+
+![Price List Screenshot 8](/screenshots/price-list/screenshot-07.jpg)
+
+![Price List Screenshot 9](/screenshots/price-list/screenshot-08.jpg)
+
+![Price List Screenshot 10](/screenshots/price-list/screenshot-09.jpg)
+
+![Price List Screenshot 11](/screenshots/price-list/screenshot-10.jpg)
+
+![Price List Screenshot 12](/screenshots/price-list/screenshot-11.jpg)
+
+![Price List Screenshot 13](/screenshots/price-list/screenshot-12.jpg)
+
+![Price List Screenshot 14](/screenshots/price-list/screenshot-13.jpg)
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| | 10 |
+| | 6995 |
+| | 40,000 |
+| | 30,000 |
+| | 25,000 |
+| | 3138275 |
+| | 113 |
+| | 3135537 |
+| | 3135536 |
+| | 110 |
+| | 3134612 |
+| | 3117368 |
+| | 20 |
+| | 3103412 |
+| | 107 |
+| | 3103357 |
+| | 106 |
+| | 3.999 |
+| | 3103224 |
+| | 30 |
+
+## Available Actions
+
+| Action | Description |
+|--------|-------------|
+| **Created On** | |
+| **Create Price List** | |
+| **Review** | |
+| **Apply w Change to All** | |
+| **Apply % Charge to All** | |
+| **Apply x Charnge to All** | |
+| **Apply % Change to All** | |
+| **Create Rule** | |
+| **Apply % Changa to Al** | |
+| **Edit** | |
+
+## Features
+
+- app.zotok.ei/acimlr/prloeList
+- Price List
+- ① Create Price Uist
+Pagination: 1 - 20 of 83 (20 / page)
+- Grow
+- Name
+- Code
+- uo peqee
+- Criterla
+- No.af Products
+- Status
+- Customers
+- Actlons
+- ADV5
+- 20/07/2026
+- customer-price
+- Active
+- Al Ager
+- Slab8
+- Slab13
 
 ---
-*Route: `/admin/priceList`*
+
+*Page generated from video walkthrough via OCR pipeline.*

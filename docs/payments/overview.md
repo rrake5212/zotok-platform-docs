@@ -3,47 +3,69 @@ sidebar_position: 11
 title: "Payments"
 ---
 
-# Payments
+# 💳 Payments
+
+Track incoming payments, manage receivable ageing, and configure ageing buckets.
 
 ## Overview
 
-This page provides access to payments functionality within the ZöTok platform.
+This page covers the Payments module in the ZöTok platform.
 
-### Data Table
+![Payments Screenshot 1](/screenshots/payments/screenshot-00.jpg)
 
-| Payment Id | Doc Type | UTR | Status | Payment Date | Customer Name | Payment Mode | Amount |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1783620669083 | Payment | 996213837635 | Sent | 9th Jul, 2026 | ZOZotokqa8 | UPI | ₹50 |
-| T260707153208393293892 | Payment | 135113853589 | Confirmed | 7th Jul, 2026 | VAVaishnavi | UPI | ₹2,780 |
-| 1782820807075 | Payment | 125517400390 | Sent | 30th Jun, 2026 | YKYasaswini kukunoori | UPI | ₹46 |
-| 1782800595774 | Payment | - | Sent | 30th Jun, 2026 | GOGowtham | CASH | ₹9,000 |
-| 1782737269965 | Payment | - | Sent | 29th Jun, 2026 | OMOwaiz Mustafa Khan | CASH | ₹9,000 |
-| 1782580499191 | Payment | - | Sent | 27th Jun, 2026 | GOGowtham | CASH | ₹900 |
-| 1782497582757 | Payment | - | Sent | 26th Jun, 2026 | YKYasaswini kukunoori | CASH | ₹900 |
-| 1782495299207 | Payment | - | Sent | 26th Jun, 2026 | SPsp pearles ent | CASH | ₹90,000 |
-| 5626201 | Payment | - | Confirmed | 21st Jun, 2026 | SSSHLOK SUPER MART | CASH | ₹4,000 |
-| 1781773979781 | Payment | - | Confirmed | 17th Jun, 2026 | ADAli Distributions | CASH | ₹6,666 |
-| 1781518705310 | Payment | - | Confirmed | 15th Jun, 2026 | SKSai Kiran | CASH | ₹3,438 |
-| 1781266961412 | Payment | - | Sent | 12th Jun, 2026 | UEumesh ent | CASH | ₹350 |
-| 1781180219325 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹2,391 |
-| 1781168179641 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹4,747 |
+![Payments Screenshot 2](/screenshots/payments/screenshot-01.jpg)
 
-| Payment Id | Doc Type | UTR | Status | Payment Date | Customer Name | Payment Mode | Amount |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1783620669083 | Payment | 996213837635 | Sent | 9th Jul, 2026 | ZOZotokqa8 | UPI | ₹50 |
-| T260707153208393293892 | Payment | 135113853589 | Confirmed | 7th Jul, 2026 | VAVaishnavi | UPI | ₹2,780 |
-| 1782820807075 | Payment | 125517400390 | Sent | 30th Jun, 2026 | YKYasaswini kukunoori | UPI | ₹46 |
-| 1782800595774 | Payment | - | Sent | 30th Jun, 2026 | GOGowtham | CASH | ₹9,000 |
-| 1782737269965 | Payment | - | Sent | 29th Jun, 2026 | OMOwaiz Mustafa Khan | CASH | ₹9,000 |
-| 1782580499191 | Payment | - | Sent | 27th Jun, 2026 | GOGowtham | CASH | ₹900 |
-| 1782497582757 | Payment | - | Sent | 26th Jun, 2026 | YKYasaswini kukunoori | CASH | ₹900 |
-| 1782495299207 | Payment | - | Sent | 26th Jun, 2026 | SPsp pearles ent | CASH | ₹90,000 |
-| 5626201 | Payment | - | Confirmed | 21st Jun, 2026 | SSSHLOK SUPER MART | CASH | ₹4,000 |
-| 1781773979781 | Payment | - | Confirmed | 17th Jun, 2026 | ADAli Distributions | CASH | ₹6,666 |
-| 1781518705310 | Payment | - | Confirmed | 15th Jun, 2026 | SKSai Kiran | CASH | ₹3,438 |
-| 1781266961412 | Payment | - | Sent | 12th Jun, 2026 | UEumesh ent | CASH | ₹350 |
-| 1781180219325 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹2,391 |
-| 1781168179641 | Payment | - | Confirmed | 11th Jun, 2026 | GOGowtham | CASH | ₹4,747 |
+![Payments Screenshot 3](/screenshots/payments/screenshot-02.jpg)
+
+![Payments Screenshot 4](/screenshots/payments/screenshot-03.jpg)
+
+![Payments Screenshot 5](/screenshots/payments/screenshot-04.jpg)
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| | 3600 |
+| | 1782976630430 |
+| | 689967372051 |
+| | 230 |
+| | 1784198084516 |
+| | 544235829807 |
+| | 390 |
+| | 1784193079651 |
+| | 350 |
+| | 1784712090615 |
+
+## Available Actions
+
+| Action | Description |
+|--------|-------------|
+| **View →** | |
+| **View** | |
+
+## Features
+
+- Tax Invoioe - SMO/28-27/210
+- app.zotok.ei/acimlr/payments
+- Payments
+- Tatai Suocesfull Peyments
+- quisua/eg supuad eo1
+- Total Failee Payments
+- &0 ①
+- ?0 ①
+- Bulk Action V
+Pagination: 1 - 3 of 3
+- 20 / page
+- Al Ager
+- Payment Id ()
+- Doc Type
+- Status
+- Payment Date
+- Customer Name
+- apow wawfied
+- Amount
+- Actions
 
 ---
-*Route: `/admin/payments`*
+
+*Page generated from video walkthrough via OCR pipeline.*

@@ -33,4 +33,4 @@ Click any column header to sort the table in ascending or descending order. The 
 
 ## Configuration
 
-You can customize which columns appear in the table via the **Sales View Settings** overlay. See [Sales View Settings](../settings/sales-view-settings.md) for details.
+You can customize which columns appear in the table via the **Sales View Settings** overlay. See [Sales View Settings](../settings/sales-view-settings) for details.

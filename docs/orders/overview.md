@@ -3,74 +3,135 @@ sidebar_position: 9
 title: "Orders"
 ---
 
-# Orders
+# 📋 Orders
+
+Track and manage sales orders with status tracking, filters, and order processing workflows.
 
 ## Overview
 
-This page provides access to orders functionality within the ZöTok platform.
+This page covers the Orders module in the ZöTok platform.
 
-### Key Metrics
+![Orders Screenshot 1](/screenshots/orders/screenshot-00.jpg)
+
+![Orders Screenshot 2](/screenshots/orders/screenshot-01.jpg)
+
+![Orders Screenshot 3](/screenshots/orders/screenshot-02.jpg)
+
+![Orders Screenshot 4](/screenshots/orders/screenshot-03.jpg)
+
+![Orders Screenshot 5](/screenshots/orders/screenshot-04.jpg)
+
+![Orders Screenshot 6](/screenshots/orders/screenshot-05.jpg)
+
+![Orders Screenshot 7](/screenshots/orders/screenshot-06.jpg)
+
+![Orders Screenshot 8](/screenshots/orders/screenshot-07.jpg)
+
+![Orders Screenshot 9](/screenshots/orders/screenshot-08.jpg)
+
+![Orders Screenshot 10](/screenshots/orders/screenshot-09.jpg)
+
+![Orders Screenshot 11](/screenshots/orders/screenshot-10.jpg)
+
+![Orders Screenshot 12](/screenshots/orders/screenshot-11.jpg)
+
+![Orders Screenshot 13](/screenshots/orders/screenshot-12.jpg)
+
+![Orders Screenshot 14](/screenshots/orders/screenshot-13.jpg)
+
+![Orders Screenshot 15](/screenshots/orders/screenshot-14.jpg)
+
+![Orders Screenshot 16](/screenshots/orders/screenshot-15.jpg)
+
+![Orders Screenshot 17](/screenshots/orders/screenshot-16.jpg)
+
+![Orders Screenshot 18](/screenshots/orders/screenshot-17.jpg)
+
+![Orders Screenshot 19](/screenshots/orders/screenshot-18.jpg)
+
+![Orders Screenshot 20](/screenshots/orders/screenshot-19.jpg)
+
+![Orders Screenshot 21](/screenshots/orders/screenshot-20.jpg)
+
+![Orders Screenshot 22](/screenshots/orders/screenshot-21.jpg)
+
+![Orders Screenshot 23](/screenshots/orders/screenshot-22.jpg)
+
+![Orders Screenshot 24](/screenshots/orders/screenshot-23.jpg)
+
+![Orders Screenshot 25](/screenshots/orders/screenshot-24.jpg)
+
+![Orders Screenshot 26](/screenshots/orders/screenshot-25.jpg)
+
+![Orders Screenshot 27](/screenshots/orders/screenshot-26.jpg)
+
+## Key Metrics
 
 | Metric | Value |
 |--------|-------|
-| OrdersTotal Order Value₹20.55KTotal Amount Saved₹0Total Orders57Total Invoiced Value₹27.77Total Invoiced Qty0 | |
-| Total Order Value₹20.55KTotal Amount Saved₹0Total Orders57Total Invoiced Value₹27.77Total Invoiced Qty0 | |
-| Total Order Value₹20.55K | |
-| Total Amount Saved₹0 | |
-| Total Orders57 | |
-| Total Invoiced Value₹27.77 | |
-| Total Invoiced Qty0 | |
+| | 18 |
+| | 250 |
+| | 425.48 |
+| | 370 |
+| | 20 |
+| | 2.340 |
+| | 1,000 |
+| | 29,990 |
+| | 20,000 |
+| | 45862632 |
+| | 1,750 |
+| | 240 |
+| | 145062632 |
+| | 257.25 |
+| | 221.40 |
+| | 252 |
+| | 1.78K |
+| | 11 |
+| | 2.50 |
+| | 2,340 |
 
-### Data Table
-
-| Order No. | Order Date | Status | SKU Count | Customer Name | Net Order Value | Order Saving | Tags |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| HDAX58379-4935 | 10/07/2026 12:07:59 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹25 | ₹0 | Add Tag |
-| HDAX58379-4934 | 10/07/2026 12:07:58 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹174 | ₹0 | Add Tag |
-| HDAX58379-4933 | 10/07/2026 10:57:20 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹351 | ₹0 | Add Tag |
-| HDAX58379-4932 | 10/07/2026 10:50:04 | Submitted | 1 | GOGowthamGowtham | ₹20 | ₹0 | Add Tag |
-| HDAX58379-4931 | 10/07/2026 10:06:30 | Accepted | 1 | GOGowthamGowtham | ₹50 | ₹0 | Add Tag |
-| HDAX58379-4930 | 10/07/2026 07:45:38 | Submitted | 1 | GOGowthamGowtham | ₹144 | ₹0 | Add Tag |
-| HDAX58379-4929 | 10/07/2026 07:44:27 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹290 | ₹0 | Add Tag |
-| HDAX58379-4928 | 10/07/2026 07:32:56 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
-| HDAX58379-4927 | 10/07/2026 07:18:47 | Accepted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹30 | ₹0 | Add Tag |
-| HDAX58379-4926 | 10/07/2026 07:18:45 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
-| HDAX58379-4925 | 10/07/2026 07:06:32 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹55 | ₹0 | Add Tag |
-| HDAX58379-4924 | 10/07/2026 05:39:32 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹62 | ₹0 | Add Tag |
-| HDAX58379-4923 | 10/07/2026 05:36:06 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
-| HDAX58379-4922 | 10/07/2026 05:36:05 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹389 | ₹0 | Add Tag |
-| HDAX58379-4921 | 10/07/2026 05:33:18 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
-| *25 more rows* |
-
-| Order No. | Order Date | Status | SKU Count | Customer Name | Net Order Value | Order Saving | Tags |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| HDAX58379-4935 | 10/07/2026 12:07:59 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹25 | ₹0 | Add Tag |
-| HDAX58379-4934 | 10/07/2026 12:07:58 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹174 | ₹0 | Add Tag |
-| HDAX58379-4933 | 10/07/2026 10:57:20 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹351 | ₹0 | Add Tag |
-| HDAX58379-4932 | 10/07/2026 10:50:04 | Submitted | 1 | GOGowthamGowtham | ₹20 | ₹0 | Add Tag |
-| HDAX58379-4931 | 10/07/2026 10:06:30 | Accepted | 1 | GOGowthamGowtham | ₹50 | ₹0 | Add Tag |
-| HDAX58379-4930 | 10/07/2026 07:45:38 | Submitted | 1 | GOGowthamGowtham | ₹144 | ₹0 | Add Tag |
-| HDAX58379-4929 | 10/07/2026 07:44:27 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹290 | ₹0 | Add Tag |
-| HDAX58379-4928 | 10/07/2026 07:32:56 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
-| HDAX58379-4927 | 10/07/2026 07:18:47 | Accepted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹30 | ₹0 | Add Tag |
-| HDAX58379-4926 | 10/07/2026 07:18:45 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹52 | ₹0 | Add Tag |
-| HDAX58379-4925 | 10/07/2026 07:06:32 | Accepted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹55 | ₹0 | Add Tag |
-| HDAX58379-4924 | 10/07/2026 05:39:32 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹62 | ₹0 | Add Tag |
-| HDAX58379-4923 | 10/07/2026 05:36:06 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
-| HDAX58379-4922 | 10/07/2026 05:36:05 | Submitted | 2 | YKYasaswini kukunooriYasaswini kukunoori | ₹389 | ₹0 | Add Tag |
-| HDAX58379-4921 | 10/07/2026 05:33:18 | Submitted | 1 | YKYasaswini kukunooriYasaswini kukunoori | ₹144 | ₹0 | Add Tag |
-| *25 more rows* |
-
-### Available Actions
+## Available Actions
 
 | Action | Description |
 |--------|-------------|
-| **All** | |
-| **Waiting For Approval (39)** | |
-| **Drafts** | |
-| **Imported** | |
+| **imported** | |
 | **Create Order** | |
-| **Add Tag** | |
+| **Add Product** | |
+| **Add Discount** | |
+| **Add Discoum** | |
+| **+ Add** | |
+| **Add Product to Order** | |
+| **Add** | |
+| **+Add** | |
+| **Add Taa]** | |
+| **add Tag** | |
+| **Importedl** | |
+| **Save Schera** | |
+| **Universal Order Upload** | |
+| **Create Grder** | |
+
+## Features
+
+- Tax Invoioe - SM0/28-27}210
+- app.zotok.ei/acimir/orders
+- Total Order Vsiue
+- paxe5 urowv (e],
+- Totsi Crdiers
+- Total Irvoicei Vsiue
+- Total Iveiced Qty
+- (row
+- 1.25L @
+- Row data (OCR noise)
+- ?0 ①
+- Cmxkr
+- Waiting For Approval (6)
+- Drafts
+- Pagination: 1 - 10 of 18 (10 / page)
+- Al Agerm
+- Ordcr No.
+- Order Date
+- snqe5
 
 ---
-*Route: `/admin/orders`*
+
+*Page generated from video walkthrough via OCR pipeline.*
